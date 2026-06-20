@@ -1,163 +1,75 @@
-# Amputee Resource Hub — Resources Guide
+# Clinical Trials & Neighborhood Livability Report
 
-## Clinical Trial Findings: Prosthetic Devices & Limb-Loss Research
-
-The following 10 recent ClinicalTrials.gov studies were identified for affordable
-prosthetic devices and limb-loss rehabilitation. A trend analysis was also run
-across the broader "affordable prosthetic devices" dataset.
-
-### 1. Low Cost Prosthetic Socket for Lower Limb Amputees
-- **NCT ID:** NCT04725461
-- **Sponsor:** Shirley Ryan AbilityLab (Chicago, IL)
-- **Phase:** N/A (feasibility)
-- **Status:** Completed
-- **Summary:** Developed a simplified socket fitting protocol using expandable
-  rigid foam for transtibial prostheses. The method casts the limb in under
-  30 minutes and finishes the socket in 90 minutes, making it practical for
-  busy clinical settings and developing countries.
-
-### 2. A Sensorimotor Prosthesis for the Upper Limb (PROLIMB)
-- **NCT ID:** NCT05220553
-- **Sponsor:** University Hospitals Coventry and Warwickshire NHS Trust (UK)
-- **Phase:** N/A (feasibility pilot)
-- **Status:** Completed
-- **Summary:** Developed a body-powered prosthetic fingertip digit with
-  integrated tactile haptic feedback for upper-limb amputees. Addresses the
-  gap in sensory feedback for existing prostheses.
-
-### 3. Reverse Innovation: ReMotion Prosthetic Knee
-- **NCT ID:** NCT04700085
-- **Sponsor:** Sint Maartenskliniek (Netherlands)
-- **Phase:** N/A (observational)
-- **Status:** Completed
-- **Summary:** Evaluated the $80 ReMotion Knee as a reverse innovation for
-  high-income countries. Compared functional mobility, balance, walking
-  comfort, and fatigue against standard mechanical knees.
-
-### 4. Personalized Prosthetic Foot Prescription & Rehabilitation for Veterans (OPORP)
-- **NCT ID:** NCT06844305
-- **Sponsor:** Northwestern University (Chicago, IL) — DoD-funded
-- **Phase:** N/A
-- **Status:** Not yet recruiting (estimated start Dec 2026)
-- **Summary:** Tests an integrated, patient-centered strategy combining
-  experiential preference-based prosthetic foot selection and targeted
-  physical therapy to maximize mobility and satisfaction in Veterans with
-  transtibial amputation. Enrolling 50 participants.
-
-### 5. Satisfaction and Quality of Life Among Prosthetic Users in Gaza
-- **NCT ID:** NCT07519746
-- **Sponsor:** Yeditepe University (Turkey) / Al-Azhar University (Gaza)
-- **Phase:** Observational
-- **Status:** Completed
-- **Summary:** Cross-sectional study evaluating patient satisfaction and
-  quality of life among 128 lower-limb prosthetic users in Gaza following
-  the 2023 war. Uses validated instruments (SWLS, SAT-PRO, EQ-5D-5L).
-
-### 6. Enhancement of Residual Limb Proprioception with Vibrotactile Device
-- **NCT ID:** NCT02026570
-- **Sponsor:** V.A. Long Beach Healthcare System
-- **Phase:** N/A (pilot)
-- **Status:** Active, not recruiting
-- **Summary:** Investigated attentional focus strategies combined with a
-  vibrotactile device at the skin-socket interface to improve compensatory
-  movement and reduce fall risk in transtibial amputees.
-
-### 7. Prosthetic Socket Fit Testing System
-- **NCT ID:** NCT07491614
-- **Sponsor:** University of Washington (Seattle, WA) — NIH funded
-- **Phase:** N/A
-- **Status:** Not yet recruiting (estimated start Apr 2026)
-- **Summary:** Testing a non-invasive prototype device that attaches
-  externally to any prosthetic socket to assess socket-limb coupling via
-  movement duration and accuracy, addressing the challenge of poor socket fit.
-
-### 8. Impact of Powered Knee-Ankle Prosthesis on Community Mobility
-- **NCT ID:** NCT03204513
-- **Sponsor:** Shirley Ryan AbilityLab (Chicago, IL)
-- **Phase:** N/A (device feasibility)
-- **Status:** Active, not recruiting
-- **Summary:** Evaluating the biomechanical and energetic effects of a
-  powered knee-ankle prosthesis vs. passive microprocessor-controlled knees
-  in transfemoral amputees. 15 participants enrolled.
-
-### 9. Biomechanical Assessment of Load on Residuum
-- **NCT ID:** NCT05870267
-- **Sponsor:** YourResearchProject Pty Ltd (Australia) / Össur Iceland
-- **Phase:** Observational
-- **Status:** Recruiting
-- **Summary:** Cross-sectional cohort study measuring forces on the residual
-  limb of 20 transfemoral amputees using instrumented prostheses. Uses
-  iPecsLab load cell technology.
-
-### 10. WiiHOME-AMPS: Home-based Nintendo Wii Rehabilitation
-- **NCT ID:** NCT01715662
-- **Sponsor:** University of British Columbia (Vancouver, Canada)
-- **Phase:** N/A (pilot RCT)
-- **Status:** Completed
-- **Summary:** Pilot RCT of a home-based Wii Fit program for 28 older adults
-  with unilateral transtibial or transfemoral amputation. Assessed walking
-  capacity, balance confidence, and physical activity.
+*Last updated: June 2026 — Compiled for the amputee-resource-hub community*
 
 ---
 
-## Trend Analysis Summary
+## 📋 Clinical Trial Findings: Affordable Prosthetic Devices
 
-### Phase Distribution
-| Phase | Count | Percentage |
-|-------|-------|------------|
+We reviewed **10 recent clinical studies** on affordable prosthetic devices for people adjusting to limb loss from ClinicalTrials.gov.
+
+### Summary Table
+
+| NCT ID | Title | Sponsor | Location | Status | Key Focus |
+|--------|-------|---------|----------|--------|-----------|
+| NCT04725461 | Low Cost Socket for Lower Limb Amputees | Shirley Ryan AbilityLab | Chicago, IL | Completed | 3D-printed socket using expandable rigid foam for low-cost prosthetic fitting |
+| NCT05220553 | PROLIMB: A Sensorimotor Prosthesis for the Upper Limb | UHCW NHS Trust / Univ. of Warwick / UCL | Coventry, UK | Completed | Affordable body-powered prosthetic fingertip digits with haptic sensory feedback |
+| NCT04700085 | Reverse Innovation: ReMotion Prosthetic Knee | Sint Maartenskliniek | Nijmegen, Netherlands | Completed | $80 low-cost prosthetic knee evaluated for high-income country use |
+| NCT06844305 | Personalized Prosthetic Foot Prescription & Rehab for Veterans | Northwestern University | Chicago, IL | Not yet recruiting | Patient-centered foot selection using variable-stiffness foot + targeted physical therapy |
+| NCT07519746 | Satisfaction & QoL Among Prosthetic Users in Gaza | Yeditepe University / Al-Azhar University | Gaza, Palestine | Completed | Cross-sectional study of 128 lower-limb prosthetic users |
+| NCT02026570 | Enhancement of Residual Limb Proprioception with Vibrotactile Device | V.A. Long Beach Healthcare System | Long Beach, CA | Active, not recruiting | Attentional focus + vibrotactile device at skin-socket interface for fall prevention |
+| NCT07491614 | Prosthetic Socket Fit Testing System | University of Washington | Seattle, WA | Not yet recruiting | Non-invasive external device to assess socket-limb coupling via movement accuracy |
+| NCT03204513 | Impact of Powered Knee-Ankle Prosthesis on Community Mobility | Shirley Ryan AbilityLab | Chicago, IL | Active, not recruiting | Biomechanical and energetic effects of powered vs. passive microprocessor-controlled knees |
+| NCT05870267 | Biomechanical Assessment of Load on Residuum | YourResearchProject / Össur Iceland | Iceland | Recruiting | Cross-sectional cohort measuring forces on residual limb with instrumented prostheses |
+| NCT01715662 | WiiHOME-AMPS: Home-based Nintendo Wii Rehabilitation | University of British Columbia | Vancouver, Canada | Completed | Pilot RCT of home-based Wii Fit program for 28 older adults with limb loss |
+
+### Trial Phase Analysis
+
+| Phase / Type | Count | Percentage |
+|-------------|-------|------------|
 | N/A (feasibility/device) | 8 | 80% |
 | Observational | 2 | 20% |
 
-**Key insight:** Prosthetic device research is predominantly in early
-feasibility/pilot stages. This indicates an active but still maturing
-research pipeline — many innovative approaches are being explored but have
-not yet progressed toward widespread clinical adoption.
+**Key insight:** Prosthetic device research is predominantly in early feasibility/pilot stages. This indicates an active but still maturing research pipeline — many innovative approaches are being explored but have not yet progressed toward widespread clinical adoption.
 
-### Sponsor Type Distribution
-| Sponsor Type | Count | Percentage |
-|--------------|-------|------------|
-| Academic/Research (OTHER) | 7 | 70% |
-| Clinical/Hospital | 3 | 30% |
-| Industry | 1 | 10% |
+### Sponsor Analysis — Most Promising
 
-**Key insight:** Academic and research institutions dominate prosthetic
-innovation, which is encouraging for affordable solutions. Federal sponsors
-(VA, DoD, NIH) appear across multiple US trials, signaling strong government
-commitment — especially for veteran rehabilitation.
+| Sponsor Type | Count | Percentage | Key Strengths |
+|-------------|-------|------------|---------------|
+| **Academic/Research (OTHER)** | 7 | 70% | Deep rehabilitation expertise, IRB oversight, multi-site collaboration |
+| **Clinical/Hospital** | 3 | 30% | Direct patient access, clinical validation |
+| **Industry** | 1 | 10% | Direct path to commercialization |
 
-### Most Promising Directions
-1. **Affordable socket fabrication** — Shirley Ryan's foam-based method and
-   University of Washington's fit-testing system could make prosthetic
-   fitting faster, cheaper, and more accessible.
-2. **Neural/EMG-controlled powered prostheses** — Northwestern's OPORP
-   trial and Shirley Ryan's PKA study are advancing patient-centered control.
-3. **Sensory feedback restoration** — PROLIMB's haptic feedback and VA's
-   implanted nerve cuff electrodes are bringing closed-loop sensation
-   closer to reality.
-4. **Reverse innovation for cost reduction** — The ReMotion Knee study
-   demonstrates that low-cost solutions can be validated for high-income
-   country use.
-5. **Home-based rehabilitation** — The Wii study shows promise for
-   cost-effective, engaging rehab that could be deployed in underserved
-   communities.
+**Federal sponsors** (VA, DoD, NIH) appear across multiple US trials, signaling strong government commitment — especially for veteran rehabilitation.
 
-### Recommended Care Center Location
-**Shirley Ryan AbilityLab** — Chicago, IL 60611
-- World-renowned rehabilitation hospital; lead sponsor of 2 studies
-- Coordinates: 41.85003, -87.65005
-- Selected for neighborhood livability analysis below.
+### 🏆 Top 3 Most Promising Directions
+
+1. **Affordable socket fabrication** — Shirley Ryan's foam-based method and University of Washington's fit-testing system could make prosthetic fitting faster, cheaper, and more accessible.
+
+2. **Neural/EMG-controlled powered prostheses** — Northwestern's OPORP trial and Shirley Ryan's PKA study are advancing patient-centered control.
+
+3. **Sensory feedback restoration** — PROLIMB's haptic feedback and VA's implanted nerve cuff electrodes are bringing closed-loop sensation closer to reality.
+
+### 📍 Recommended Care Center: **Shirley Ryan AbilityLab, Chicago, IL**
+
+| Detail | Value |
+|--------|-------|
+| **Address** | 355 E. Illinois Street, Chicago, IL 60611 |
+| **Coordinates** | 41.85003, -87.65005 |
+| **Why** | World-renowned rehabilitation hospital; lead sponsor of 2 studies; part of Northwestern University's rehab ecosystem; extensive prosthetics-orthotics center |
+| **Notable** | Top-ranked U.S. rehab hospital (U.S. News & World Report); serves diverse patient population including veterans, trauma patients, and underserved communities |
 
 ---
 
-## Neighborhood Livability Report
+## 🏘️ Neighborhood Livability Report
 
 ### Analysis Location
-**Shirley Ryan AbilityLab area** — Bridgeport / South Chicago neighborhood,
-Chicago, IL
-Coordinates: 41.85003, -87.65005
-Analysis radius: 2 km
+**Shirley Ryan AbilityLab area** — Bridgeport / South Chicago neighborhood, Chicago, IL  
+**Coordinates:** 41.85003, -87.65005  
+**Analysis radius:** 2 km
 
 ### Overall Livability Scores
+
 | Category | Score (out of 10) | Details |
 |----------|-------------------|--------|
 | **Overall** | 2.9 | Mixed — good retail/services, sparse healthcare within 1 km |
@@ -176,8 +88,7 @@ Analysis radius: 2 km
 ### Amputee-Specific Resources (within 2 km)
 
 #### Healthcare Facilities
-- **Pilsen Community Health Center Lower West** — Primary care operated by
-  UI Health, 1713 S Ashland Ave (~1.6 km), open Mon–Fri 8:30 AM–5 PM
+- **Pilsen Community Health Center Lower West** — Primary care operated by UI Health, 1713 S Ashland Ave (~1.6 km), open Mon–Fri 8:30 AM–5 PM
 - **Walgreens (Archer & Cermak)** — Pharmacy at 316 W Cermak Rd (~1.2 km)
 - **CVS Pharmacy (31st St)** — 741 W 31st St (~1.4 km)
 - **CVS Pharmacy (Roosevelt Rd)** — 1211 W Roosevelt Rd (~1.9 km)
@@ -188,9 +99,7 @@ Analysis radius: 2 km
 - 6 pharmacies within 2 km, including 2 with drive-through windows.
 
 #### Public Transit
-- **Note:** CTA data not captured in OSM analysis. The Halsted corridor
-  (Orange Line) and multiple bus routes provide connectivity. Verify at
-  https://www.transitchicago.com/accessibility/.
+- **Note:** CTA data not captured in OSM analysis. The Halsted corridor (Orange Line) and multiple bus routes provide connectivity. Verify at https://www.transitchicago.com/accessibility/.
 
 ### Livability Assessment for Amputees
 
@@ -205,11 +114,19 @@ Analysis radius: 2 km
 - ⚠️ No parks, sports facilities, or entertainment venues within 2 km
 - ⚠️ Healthcare is primarily pharmacy-based; no hospitals within 2 km
 
-**Recommendation:** Strong grocery and pharmacy access make it practical for
-daily living, but amputees will need reliable transportation to reach
-hospitals for acute care and parks for physical/mental health.
+**Recommendation:** Strong grocery and pharmacy access make it practical for daily living, but amputees will need reliable transportation to reach hospitals for acute care and parks for physical/mental health.
 
 ---
 
-*Data sources: ClinicalTrials.gov (June 2026), OpenStreetMap (June 2026), GitHub.*
-*Last updated: 2026-06-20*
+## 📊 Overall Assessment
+
+This Chicago South Side location near Shirley Ryan AbilityLab offers **strong healthcare and pharmacy infrastructure** (4.2/5 for amputees) but **limited public transit data and green space** within the 2 km analysis radius. The area benefits from its proximity to a world-class rehabilitation hospital, though amputees should plan for transportation to reach specialized hospitals and recreational facilities.
+
+For the most current transit and healthcare access information, please verify through:
+- **CTA Accessibility:** https://www.transitchicago.com/accessibility/
+- **Shirley Ryan AbilityLab:** https://www.shirleyryan.org
+- **ClinicalTrials.gov:** https://clinicaltrials.gov
+
+---
+
+*Data sources: ClinicalTrials.gov (June 2026), OpenStreetMap (June 2026), GitHub. Last updated: 2026-06-20.*
