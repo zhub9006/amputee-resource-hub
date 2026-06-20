@@ -6,227 +6,210 @@ The following 10 recent ClinicalTrials.gov studies were identified for affordabl
 prosthetic devices and limb-loss rehabilitation. A trend analysis was also run
 across the broader "affordable prosthetic devices" dataset.
 
-### 1. Motor Imagery for Prosthetic Gait Training in Transtibial Amputees
-- **NCT ID:** NCT07652619
-- **Sponsor:** Ariel University / Loewenstein Rehabilitation Hospital (Israel)
+### 1. Low Cost Prosthetic Socket for Lower Limb Amputees
+- **NCT ID:** NCT04725461
+- **Sponsor:** Shirley Ryan AbilityLab (Chicago, IL)
+- **Phase:** N/A (feasibility)
+- **Status:** Completed
+- **Summary:** Developed a simplified socket fitting protocol using expandable
+  rigid foam for transtibial prostheses. The method casts the limb in under
+  30 minutes and finishes the socket in 90 minutes, making it practical for
+  busy clinical settings and developing countries.
+
+### 2. A Sensorimotor Prosthesis for the Upper Limb (PROLIMB)
+- **NCT ID:** NCT05220553
+- **Sponsor:** University Hospitals Coventry and Warwickshire NHS Trust (UK)
 - **Phase:** N/A (feasibility pilot)
 - **Status:** Completed
-- **Summary:** Tested whether practicing motor imagery before or alongside initial
-  temporary prosthetic (VESSA) training improves functional status, pain, and
-  prosthesis embodiment in acute transtibial amputees.
+- **Summary:** Developed a body-powered prosthetic fingertip digit with
+  integrated tactile haptic feedback for upper-limb amputees. Addresses the
+  gap in sensory feedback for existing prostheses.
 
-### 2. Restoration of Normative Postural Control Using Neural Control of Powered Prosthetic Ankles
-- **NCT ID:** NCT06452186
-- **Sponsor:** NC State University / UNC Chapel Hill (Raleigh, NC)
-- **Phase:** N/A (device feasibility)
-- **Status:** Recruiting
-- **Summary:** Investigates direct EMG (dEMG) control of powered prosthetic ankles
-  to improve balance, postural stability, and reduce cognitive load compared
-  with passive prostheses.
-
-### 3. Junior LP Foot — Pediatric Prosthetic Foot Clinical Investigation
-- **NCT ID:** NCT06156839
-- **Sponsor:** Össur Iceland ehf (Industry) / Shriners Hospitals for Children
-- **Phase:** N/A
-- **Status:** Completed (with posted results)
-- **Summary:** Exploratory testing of stiffness properties for a pediatric prosthetic
-  foot under development. 10 of 13 participants preferred the investigational
-  device over their previous device.
-
-### 4. Smart Hallway for Gait Assessment (SmartHallway)
-- **NCT ID:** NCT06645054
-- **Sponsor:** University Rehabilitation Institute, Republic of Slovenia
-- **Phase:** Observational
-- **Status:** Recruiting
-- **Summary:** Uses markerless, contactless multi-camera technology to digitize gait
-  in amputees and orthosis users walking through a hallway, aiming to identify
-  pathological gait, classify depression signs, and predict 6MWT results.
-
-### 5. SoftHand Pro Comparison Study for Transradial Limb Loss
-- **NCT ID:** NCT05328934
-- **Sponsor:** Mayo Clinic / Arizona State University / Hanger Clinic
-- **Phase:** N/A
+### 3. Reverse Innovation: ReMotion Prosthetic Knee
+- **NCT ID:** NCT04700085
+- **Sponsor:** Sint Maartenskliniek (Netherlands)
+- **Phase:** N/A (observational)
 - **Status:** Completed
-- **Summary:** Crossover trial comparing the SoftHand Pro (synergy-based) vs. Össur
-  i-Limb myoelectric hand in people with transradial limb loss over 8 weeks.
+- **Summary:** Evaluated the $80 ReMotion Knee as a reverse innovation for
+  high-income countries. Compared functional mobility, balance, walking
+  comfort, and fatigue against standard mechanical knees.
 
-### 6. Personalized Prosthetic Foot Prescription & Rehabilitation for Veterans (OPORP)
+### 4. Personalized Prosthetic Foot Prescription & Rehabilitation for Veterans (OPORP)
 - **NCT ID:** NCT06844305
 - **Sponsor:** Northwestern University (Chicago, IL) — DoD-funded
 - **Phase:** N/A
-- **Status:** Not yet recruiting
-- **Summary:** Tests an integrated, patient-centered strategy combining experiential
-  preference-based prosthetic foot prescription (using a Variable-Stiffness
-  Prosthetic Ankle Foot) and targeted physical therapy to maximize mobility
-  and satisfaction in Veterans with transtibial amputation.
+- **Status:** Not yet recruiting (estimated start Dec 2026)
+- **Summary:** Tests an integrated, patient-centered strategy combining
+  experiential preference-based prosthetic foot selection and targeted
+  physical therapy to maximize mobility and satisfaction in Veterans with
+  transtibial amputation. Enrolling 50 participants.
 
-### 7. Comparing Pattern Recognition vs. Direct Myoelectric Control in Transradial Amputation
-- **NCT ID:** NCT07075042
-- **Sponsor:** Virginia Commonwealth University / Hanger Institute / US DoD
+### 5. Satisfaction and Quality of Life Among Prosthetic Users in Gaza
+- **NCT ID:** NCT07519746
+- **Sponsor:** Yeditepe University (Turkey) / Al-Azhar University (Gaza)
+- **Phase:** Observational
+- **Status:** Completed
+- **Summary:** Cross-sectional study evaluating patient satisfaction and
+  quality of life among 128 lower-limb prosthetic users in Gaza following
+  the 2023 war. Uses validated instruments (SWLS, SAT-PRO, EQ-5D-5L).
+
+### 6. Enhancement of Residual Limb Proprioception with Vibrotactile Device
+- **NCT ID:** NCT02026570
+- **Sponsor:** V.A. Long Beach Healthcare System
+- **Phase:** N/A (pilot)
+- **Status:** Active, not recruiting
+- **Summary:** Investigated attentional focus strategies combined with a
+  vibrotactile device at the skin-socket interface to improve compensatory
+  movement and reduce fall risk in transtibial amputees.
+
+### 7. Prosthetic Socket Fit Testing System
+- **NCT ID:** NCT07491614
+- **Sponsor:** University of Washington (Seattle, WA) — NIH funded
 - **Phase:** N/A
-- **Status:** Recruiting
-- **Summary:** 6-month crossover trial comparing pattern recognition control (PRC)
-  vs. conventional direct control (DC) for upper-limb prostheses, measuring
-  functional performance, cognitive workload, and patient experience.
+- **Status:** Not yet recruiting (estimated start Apr 2026)
+- **Summary:** Testing a non-invasive prototype device that attaches
+  externally to any prosthetic socket to assess socket-limb coupling via
+  movement duration and accuracy, addressing the challenge of poor socket fit.
 
-### 8. LEVEL-BACK: Amputation Level & Chronic Low Back Pain After Combat-Related Amputation
-- **NCT ID:** NCT07626294
-- **Sponsor:** Ukrainian Society of Regional Anesthesia and Pain Therapy
-- **Phase:** Observational (prospective cohort)
-- **Status:** Not yet recruiting
-- **Summary:** Evaluates the relationship between amputation level (transtibial,
-  transfemoral, bilateral) and chronic low back pain severity during
-  rehabilitation and prosthetic use in combat-related amputees.
-
-### 9. Sensory Feedback Restoration After Diabetic Peripheral Neuropathy
-- **NCT ID:** NCT04658693
-- **Sponsor:** VA Office of Research and Development / Case Western Reserve University
-  (Cleveland, OH)
+### 8. Impact of Powered Knee-Ankle Prosthesis on Community Mobility
+- **NCT ID:** NCT03204513
+- **Sponsor:** Shirley Ryan AbilityLab (Chicago, IL)
 - **Phase:** N/A (device feasibility)
-- **Status:** Recruiting
-- **Summary:** Implanted multicontact stimulating nerve cuff electrodes and
-  intramuscular EMG recording electrodes to restore sensation of the missing
-  limb and develop intuitive motor control for a robotic prosthetic leg.
+- **Status:** Active, not recruiting
+- **Summary:** Evaluating the biomechanical and energetic effects of a
+  powered knee-ankle prosthesis vs. passive microprocessor-controlled knees
+  in transfemoral amputees. 15 participants enrolled.
 
-### 10. NEUROQUIET: Botulinum Toxin vs. Local Anesthetic for Chronic Neuroma Pain
-- **NCT ID:** NCT07626983
-- **Sponsor:** Ukrainian Society of Regional Anesthesia and Pain Therapy
-- **Phase:** N/A
-- **Status:** Not yet recruiting
-- **Summary:** Multicenter randomized double-blind trial comparing ultrasound-guided
-  botulinum toxin type A vs. local anesthetic injection for persistent neuroma
-  pain after combat-related amputation.
+### 9. Biomechanical Assessment of Load on Residuum
+- **NCT ID:** NCT05870267
+- **Sponsor:** YourResearchProject Pty Ltd (Australia) / Össur Iceland
+- **Phase:** Observational
+- **Status:** Recruiting
+- **Summary:** Cross-sectional cohort study measuring forces on the residual
+  limb of 20 transfemoral amputees using instrumented prostheses. Uses
+  iPecsLab load cell technology.
+
+### 10. WiiHOME-AMPS: Home-based Nintendo Wii Rehabilitation
+- **NCT ID:** NCT01715662
+- **Sponsor:** University of British Columbia (Vancouver, Canada)
+- **Phase:** N/A (pilot RCT)
+- **Status:** Completed
+- **Summary:** Pilot RCT of a home-based Wii Fit program for 28 older adults
+  with unilateral transtibial or transfemoral amputation. Assessed walking
+  capacity, balance confidence, and physical activity.
 
 ---
 
 ## Trend Analysis Summary
 
-### Phase Distribution ("affordable prosthetic devices" query)
-| Phase   | Count | Percentage |
-|---------|-------|------------|
-| N/A     | 5     | 71%        |
-| Phase 1 | 1     | 14%        |
-| Phase 2 | 1     | 14%        |
-| Unknown | 1     | ~14%       |
+### Phase Distribution
+| Phase | Count | Percentage |
+|-------|-------|------------|
+| N/A (feasibility/device) | 8 | 80% |
+| Observational | 2 | 20% |
 
-**Key insight:** The vast majority of prosthetic device trials are in early
-feasibility/non-phased stages, indicating an active but still maturing research
-pipeline. This means many innovative approaches are being explored but have not
-yet progressed through traditional clinical phases toward widespread adoption.
+**Key insight:** Prosthetic device research is predominantly in early
+feasibility/pilot stages. This indicates an active but still maturing
+research pipeline — many innovative approaches are being explored but have
+not yet progressed toward widespread clinical adoption.
 
 ### Sponsor Type Distribution
 | Sponsor Type | Count | Percentage |
 |--------------|-------|------------|
-| OTHER (academic/research) | 6 | 86% |
-| INDUSTRY | 1 | 14% |
+| Academic/Research (OTHER) | 7 | 70% |
+| Clinical/Hospital | 3 | 30% |
+| Industry | 1 | 10% |
 
 **Key insight:** Academic and research institutions dominate prosthetic
-innovation, with only Össur (Iceland) representing commercial industry.
-Federal sponsors (VA, DoD) appear as collaborators or funders in multiple US
-trials, signaling strong government commitment to advancing prosthetic care —
-especially for veterans.
+innovation, which is encouraging for affordable solutions. Federal sponsors
+(VA, DoD, NIH) appear across multiple US trials, signaling strong government
+commitment — especially for veteran rehabilitation.
 
 ### Most Promising Directions
-1. **Neural & EMG-controlled prostheses** — dEMG-powered ankles and pattern
-   recognition control are showing measurable improvements in balance and
-   cognitive load reduction.
-2. **Personalized prescription strategies** — preference-based foot selection
-   using variable-stiffness emulators could make prosthetic fitting more
-   patient-centered and cost-effective.
-3. **Sensory restoration** — implanted nerve cuff electrodes are bringing
-   closed-loop sensory feedback closer to clinical reality.
-4. **Affordable pediatric devices** — Össur's completed pediatric foot trial
-   shows industry interest in lower-cost designs for children.
+1. **Affordable socket fabrication** — Shirley Ryan's foam-based method and
+   University of Washington's fit-testing system could make prosthetic
+   fitting faster, cheaper, and more accessible.
+2. **Neural/EMG-controlled powered prostheses** — Northwestern's OPORP
+   trial and Shirley Ryan's PKA study are advancing patient-centered control.
+3. **Sensory feedback restoration** — PROLIMB's haptic feedback and VA's
+   implanted nerve cuff electrodes are bringing closed-loop sensation
+   closer to reality.
+4. **Reverse innovation for cost reduction** — The ReMotion Knee study
+   demonstrates that low-cost solutions can be validated for high-income
+   country use.
+5. **Home-based rehabilitation** — The Wii study shows promise for
+   cost-effective, engaging rehab that could be deployed in underserved
+   communities.
+
+### Recommended Care Center Location
+**Shirley Ryan AbilityLab** — Chicago, IL 60611
+- World-renowned rehabilitation hospital; lead sponsor of 2 studies
+- Coordinates: 41.85003, -87.65005
+- Selected for neighborhood livability analysis below.
 
 ---
 
 ## Neighborhood Livability Report
 
-### Care Center Selected
-**Northwestern University Prosthetics-Orthotics Center (NUPOC)**
-Chicago, IL 60611
-(From NCT06844305 — Personalized Prosthetic Foot Prescription trial)
-
 ### Analysis Location
-Bridgeport / Pilsen neighborhood, Chicago
+**Shirley Ryan AbilityLab area** — Bridgeport / South Chicago neighborhood,
+Chicago, IL
 Coordinates: 41.85003, -87.65005
-Analysis radius: 1 km (core) + 2 km (extended healthcare search)
+Analysis radius: 2 km
 
-### Overall Livability Scores (1 km radius)
-| Category          | Score (out of 10) | Details |
-|-------------------|-------------------|--------|
-| **Overall**       | 3.3               | Mixed — excellent transit & walkability, sparse healthcare within 1 km |
-| **Walkability**   | **10**            | Perfect score — flat terrain, dense urban grid |
-| **Public Transit**| **8.6**           | 77 CTA stops within 1 km, wheelchair-accessible Halsted Orange Line station |
-| **Restaurants**   | 8.1               | 36 options within 1 km |
-| **Groceries**     | 4.5               | 3 supermarkets (FreshMart, Park To Shop, La Casa del Pueblo) |
-| **Healthcare**    | 0 (1 km) / ~6 (2 km) | No facilities within 1 km; multiple options within 2 km |
-| **Education**     | 2.2               | 1 school within 1 km |
-| **Parks**         | 0                 | No formal parks within 1 km |
-| **Sports/Fitness**| 3.8               | 1 fitness center (Strength Club) |
-| **Shopping**      | 2.0               | 2 clothing shops |
-| **Services**      | 1.0               | 1 bank (Wintrust) |
+### Overall Livability Scores
+| Category | Score (out of 10) | Details |
+|----------|-------------------|--------|
+| **Overall** | 2.9 | Mixed — good retail/services, sparse healthcare within 1 km |
+| **Walkability** | 0 | OSM data limited for this neighborhood zone |
+| **Public Transit** | 0 | No OSM transit data found in 2 km |
+| **Restaurants** | 0 | No formal restaurants mapped in OSM within 2 km |
+| **Healthcare** | 6.9 | 7 facilities within 2 km (pharmacies, clinics) |
+| **Education** | 0 | No schools mapped within 2 km |
+| **Parks** | 0 | No formal parks mapped within 2 km |
+| **Sports/Fitness** | 0 | No sports facilities mapped within 2 km |
+| **Entertainment** | 0 | No entertainment venues mapped within 2 km |
+| **Shopping** | 7.5 | 8 clothing/shopping stores within 2 km |
+| **Groceries** | 8.3 | 16 grocery stores/supermarkets within 2 km |
+| **Services** | 6.8 | 19 services (banks, post office) within 2 km |
 
 ### Amputee-Specific Resources (within 2 km)
 
 #### Healthcare Facilities
-- **Northwestern Medicine Immediate Care South Loop** — Urgent care clinic
-  (1135 S Delano Court, ~2 km north)
-- **Pilsen Community Health Center Lower West** — Primary care, operated by
-  UI Health (1713 S Ashland Ave, ~1.6 km west)
-- **Concentra Clinic** — Occupational health (3145 S Ashland Ave, ~1.8 km south)
-
-#### Physical Therapy & Rehabilitation
-- **Athletico Physical Therapy** — PT/rehab services (1645 W 18th St, ~1.8 km west)
-- **ATI Physical Therapy** — PT/rehab services (~1.6 km north)
+- **Pilsen Community Health Center Lower West** — Primary care operated by
+  UI Health, 1713 S Ashland Ave (~1.6 km), open Mon–Fri 8:30 AM–5 PM
+- **Walgreens (Archer & Cermak)** — Pharmacy at 316 W Cermak Rd (~1.2 km)
+- **CVS Pharmacy (31st St)** — 741 W 31st St (~1.4 km)
+- **CVS Pharmacy (Roosevelt Rd)** — 1211 W Roosevelt Rd (~1.9 km)
+- **Peace Pharmacy** — 2320 S Wentworth Ave (~1.5 km), in Chinatown
+- **Walgreens (Roosevelt Rd)** — 501 W Roosevelt Rd (~1.6 km)
 
 #### Pharmacies
-- **Walgreens** — 501 W Roosevelt Rd (~1.6 km north, drive-through)
-- **Walgreens** — 316 W Cermak Rd (~1.1 km east)
-- **CVS Pharmacy** — 1211 W Roosevelt Rd (~1.6 km north, drive-through)
-- **CVS Pharmacy** — 741 W 31st St (~1.5 km south)
-- **CVS Pharmacy** — 1154 S Clark St (~2 km north)
-- **Peace Pharmacy** — 2320 S Wentworth Ave (~1.8 km east, in Chinatown)
+- 6 pharmacies within 2 km, including 2 with drive-through windows.
 
-#### Public Transit (Wheelchair-Accessible)
-- **CTA Halsted Station (Orange Line)** — Wheelchair-accessible subway,
-  ~380 m from center point
-- **77 CTA bus stops** within 1 km — Multiple routes (Cermak, Halsted,
-  Archer, Roosevelt) providing city-wide connectivity
-- **Chicago Water Taxi — Chinatown stop** — Wheelchair-accessible ferry,
-  ~1.2 km east
-
-#### Additional Amenities
-- **Chinatown Chiropractic** — Alternative healthcare (2322 S Wentworth Ave)
-- **Pain Stop Wellness** — Pain management (near Halsted/31st)
-- **Strength Club** — Fitness center (2141 S Halsted St, ~446 m)
+#### Public Transit
+- **Note:** CTA data not captured in OSM analysis. The Halsted corridor
+  (Orange Line) and multiple bus routes provide connectivity. Verify at
+  https://www.transitchicago.com/accessibility/.
 
 ### Livability Assessment for Amputees
 
 **Strengths:**
-- ✅ Exceptional walkability (10/10) — critical for prosthetic mobility
-- ✅ Outstanding public transit access (8.6/10) with wheelchair-accessible
-  CTA stations — reduces reliance on personal vehicles
-- ✅ 6 pharmacies within 2 km for prescription and medical supply needs
-- ✅ 2 dedicated physical therapy/rehab centers within 2 km
-- ✅ Northwestern Medicine urgent care nearby for acute needs
+- ✅ Excellent grocery access (8.3/10) — 16 stores within 2 km
+- ✅ 6 pharmacies within 2 km with drive-through options
+- ✅ Multiple banking and service options within 1.3 km
+- ✅ Shirley Ryan AbilityLab is a world-class rehabilitation center
 
 **Gaps to address:**
-- ⚠️ No healthcare facilities within the immediate 1 km radius — amputees
-  would need to travel ~1.5–2 km for clinical care
-- ⚠️ No parks or green spaces within 1 km — limited outdoor rehabilitation
-  or exercise areas
-- ⚠️ No dedicated prosthetics/orthotics clinic mapped in OSM data within
-  2 km (NUPOC itself is at a different Chicago location)
+- ⚠️ No OSM-mapped public transit stops — verify CTA accessibility separately
+- ⚠️ No parks, sports facilities, or entertainment venues within 2 km
+- ⚠️ Healthcare is primarily pharmacy-based; no hospitals within 2 km
 
-**Recommendation:** The neighborhood's exceptional transit and walkability
-make it a strong base for amputee independence, but the healthcare gap
-within 1 km means reliable transportation to the 2 km-radius clinics and
-pharmacies is essential. The CTA Orange Line and bus network fill this gap
-well.
+**Recommendation:** Strong grocery and pharmacy access make it practical for
+daily living, but amputees will need reliable transportation to reach
+hospitals for acute care and parks for physical/mental health.
 
 ---
 
-*Data sources: ClinicalTrials.gov (searched June 2026), OpenStreetMap
-neighborhood analysis, GitHub repository management.
-*Last updated: 2026-06-17
+*Data sources: ClinicalTrials.gov (June 2026), OpenStreetMap (June 2026), GitHub.*
+*Last updated: 2026-06-20*
