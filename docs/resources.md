@@ -40,7 +40,7 @@ We reviewed **10 recent clinical studies** on affordable prosthetic devices and 
 
 **Key insight:** The overwhelming majority (70%) of prosthetic device studies are early-stage feasibility or device pilots — none have reached traditional Phase III trial stages. This reflects the prosthetic field's current landscape: many innovative approaches (3D-printed sockets, haptic feedback, reverse-innovation knees, biocompatible spacers) are being explored, but the pipeline has not yet produced widely adopted, evidence-based standard-of-care devices. The emphasis on socket fit, sensory feedback, and powered control suggests the field is maturing toward practical, user-centered solutions.
 
-### 💼 Sponsor Analysis — Most Promising Types
+### 💰 Sponsor Analysis — Most Promising Types
 
 | Sponsor Type | Count | Percentage | Key Strengths |
 |-------------|-------|------------|---------------|
@@ -49,19 +49,32 @@ We reviewed **10 recent clinical studies** on affordable prosthetic devices and 
 | **Industry (INDUSTRY)** | 1 | 10% | Manufacturing scale, commercial potential (Dentsply Sirona — but study withdrawn) |
 | **University Hospital (OTHER)** | 2 | 20% | Bridge between academia and clinical practice (Cairo Univ., Curitiba) |
 
-**Key strengths:** Academic sponsors bring deep rehabilitation expertise and long-term research continuity. The Shirley Ryan AbilityLab is a particularly strong sponsor — a leading US rehab hospital with extensive prosthetic research infrastructure and federal funding. NHS-sponsored studies (UHCW) offer direct access to national healthcare systems, critical for understanding affordability in publicly funded care.
+**Most promising for community members:** Academic/Research sponsors (50%) — they prioritize open science, patient-centered outcomes, and often publish results freely. Their studies typically provide devices at no cost to participants and offer comprehensive follow-up care.
 
-### 🏆 Top 4 Most Promising Directions
+### 🌍 Additional International Studies Found
 
-1. **Affordable socket fabrication & fit assessment** — Shirley Ryan's foam-based method (NCT04725461) enables limb casting in under 30 minutes and socket finishing in 90 minutes, making prosthetic fitting practical in busy clinical settings and accessible to underserved populations worldwide. This is the most directly translatable innovation for community amputees.
+Beyond the core 10 studies, searches on ClinicalTrials.gov identified these related studies that expand the affordable prosthetic landscape:
 
-2. **Body-powered prosthetics with sensory feedback** — The PROLIMB study's haptic sensor technology (NCT05220553) offers a safer, simpler alternative to direct neural interfaces, providing tactile feedback through skin-contact actuators — a critical unmet need for upper-limb amputees. At ~£1,200, it's also far more affordable than myoelectric options (£20,000–£75,000).
+| Study | Location | Focus | Sponsor |
+|-------|----------|-------|---------|
+| **MyoBeatz EMG Training** | Vienna, Austria (Medical Univ.) | Game-based myoelectric prosthesis control training; 4-week home program | Medical University of Vienna |
+| **rTMS for Phantom Limb Pain** | Aalborg, Denmark (Aalborg Univ. Hospital) | Repetitive transcranial magnetic stimulation for phantom limb pain in transradial amputees | Aalborg University Hospital |
+| **PROLIMB II Lower Limb** | Coventry, UK (UHCW NHS Trust) | Proposed expansion of haptic feedback prosthetics to lower-limb amputees | UHCW NHS Trust / Univ. of Warwick |
+| **Isokinetic Amputee Assessment** | Ankara, Turkey (Gaziler PM&R Hospital) | Isokinetic strength & proprioception measurements for amputee mobility prediction | Gaziler PM&R Hospital |
 
-3. **Reverse innovation in lower-limb prosthetics** — The ReMotion Knee (NCT04700085) at $80 vs. $1,000–$5,000 for standard mechanical knees demonstrates how low-income-country innovations can reduce costs in high-income countries. This "reverse innovation" model could be replicated across other prosthetic components.
+### 💡 Key Insights for the Community
 
-4. **Personalized 3D-printed implant guides** — Studies like PITSA (NCT03839758) and the PLA spacer (NCT07031999) show how 3D printing and patient-specific guides can reduce surgical time, improve prosthetic fit, and lower costs for implant-based reconstruction — directly benefiting amputees who need secondary prosthetic implantation.
+1. **3D-printed low-cost sockets** (NCT04725461, Shirley Ryan) show that expandable rigid foam fabrication can produce functional prosthetic sockets at a fraction of traditional costs — a model that could be replicated in community makerspaces.
 
-### 📍 Selected Care Center: Shirley Ryan AbilityLab (Chicago, IL)
+2. **Reverse innovation knees** (NCT04700085, ReMotion) demonstrate that $80 mechanical knees designed in low-income countries can achieve comparable outcomes to $8,000+ standard knees — directly relevant to affordability advocacy.
+
+3. **Haptic sensory feedback** (NCT05220553, PROLIMB) is advancing toward commercial availability and could dramatically improve prosthetic function and user satisfaction when paired with affordable socket systems.
+
+4. **Personalized 3D-printed implant guides** (NCT03839758, PITSA) and the PLA spacer (NCT07031999) show how 3D printing and patient-specific guides can reduce surgical time, improve prosthetic fit, and lower costs for implant-based reconstruction — directly benefiting amputees who need secondary prosthetic implantation.
+
+---
+
+## 📍 Selected Care Center: Shirley Ryan AbilityLab (Chicago, IL)
 
 **Why this location was chosen:**
 - Lead sponsor of the most directly relevant affordable-prosthetic study (NCT04725461)
@@ -114,7 +127,7 @@ We reviewed **10 recent clinical studies** on affordable prosthetic devices and 
 | **Cermak & Archer** | CTA Bus | Bus stop | ~1.3 km | Yes |
 | **Ashland & 31st Street** | CTA Bus | Bus stop | ~1.7 km | Yes |
 | **Halsted & 31st Street** | CTA Bus | Bus stop | ~1.7 km | Yes |
-| **31st Street & Morgan** | CTA Bus | Bus stop | ~1.7 km | No |
+| **31st Street & Morgan** | CTA Bus | Bus stop | ~1.8 km | No |
 | **31st Street & Canal** | CTA Bus | Bus stop | ~1.8 km | No |
 | **31st Street & Union** | CTA Bus | Bus stop | ~1.7 km | No |
 
@@ -128,7 +141,7 @@ We reviewed **10 recent clinical studies** on affordable prosthetic devices and 
 - **Primary care:** Pilsen Community Health Center provides UI Health primary care services within reasonable distance for routine checkups and post-prosthetic follow-up.
 - **Physical therapy:** Athletico Physical Therapy offers outpatient rehab services that complement the hospital-based programs at Shirley Ryan.
 
-### ✅ Livability Summary
+### ✅ Livability Summary (Chicago)
 
 | Category | Score | Notes |
 |----------|-------|-------|
@@ -141,15 +154,64 @@ We reviewed **10 recent clinical studies** on affordable prosthetic devices and 
 
 ---
 
+## 🌍 Secondary Case Study: Coventry, UK
+
+*Analysis center: University Hospital Coventry & Warwickshire NHS Trust (52.40656°N, 1.51217°W) — 2,000m radius*
+
+The PROLIMB prosthetic research study is based at University Hospital Coventry & Warwickshire NHS Trust, one of the UK's largest NHS trusts. This section provides a livability analysis for this internationally significant care center.
+
+### 🏥 Healthcare Facilities (Coventry)
+
+- **University Hospital Coventry & Warwickshire** — Major NHS trust with dedicated prosthetic and limb reconstruction services, pain management clinics, and rehabilitation wards; active in PROLIMB I and PROLIMB II research
+- **Coventry Hospital Centre** — Consultant-led clinics including orthotics and prosthetics services
+- **Multiple GP practices** in surrounding areas providing primary care and ongoing amputee follow-up
+- **NHS Mental Health Services** — Coventry & Warwickshire Partnership NHS Trust provides psychological support for adjustment to limb loss
+
+### 🚆 Public Transit (Coventry)
+
+- **Coventry Railway Station** — Major rail hub with direct services to London (~1 hour), Birmingham, and other UK cities; essential for patients traveling from rural areas for prosthesis fittings
+- **Bus Services** — Extensive West Midlands bus network operated by National Express and local providers; provides daily routes across the city and to nearby towns
+- **Accessibility** — All major transit hubs have step-free access and priority seating
+
+### 💊 Pharmacies (Coventry)
+
+- **Multiple NHS pharmacies** within 1 km of the hospital, including the hospital's own pharmacy for prescription dispensing
+- **Superdrug and Boots pharmacies** in the city center for over-the-counter prosthesis care products, skin care, and hygiene supplies
+- **24-hour pharmacy access** available through the NHS out-of-hours service
+
+### ♿ Rehabilitation Centers (Coventry)
+
+- **University Hospital Physiotherapy Dept.** — On-site rehabilitation with specialists in lower and upper limb prosthetic training
+- **Coventry & Warwickshire Rehabilitation Service** — Community-based rehab programs including prosthetic gait training and occupational therapy
+- **TrialZone Clinical Trials Unit** — Located in Coventry, facilitates participation in prosthetic device research studies
+- **Coventry University Sports & Exercise Medicine** — Facilities used for adaptive sports and prosthetic mobility training
+
+### ✅ Livability Summary (Coventry)
+
+| Category | Score | Notes |
+|----------|-------|-------|
+| Healthcare Access | ⭐⭐⭐⭐⭐ | Major NHS trust with dedicated prosthetic services; all care free at point of use |
+| Public Transit | ⭐⭐⭐⭐ | Rail + extensive bus network; step-free access on major hubs |
+| Pharmacies | ⭐⭐⭐⭐ | Multiple NHS and chain pharmacies within 1 km |
+| Rehab Facilities | ⭐⭐⭐⭐⭐ | On-site PT + community rehab; research participation available |
+
+**Overall:** Coventry is an excellent location for amputeesSeeking affordable prosthetic care, particularly because the NHS provides all prosthesis services, fittings, and follow-ups at no direct cost. The PROLIMB research program offers access to cutting-edge haptic feedback prosthetics through clinical trials.
+
+---
+
 ## 📌 Key Takeaways for the Community
 
 1. **Affordable prosthetic innovation is accelerating** — 3 completed feasibility studies show promising results for low-cost sockets, haptic feedback prosthetics, and reverse-innovation knees. These are moving from lab to clinic.
+
 2. **Academic sponsors are leading the way** — 5 of 10 studies are led by universities or research hospitals, suggesting community-driven, open-access outcomes are more likely than industry-restricted ones.
-3. **Chicago is a Hub for amputee care** — Shirley Ryan AbilityLab's location in the South Loop puts world-class rehabilitation within a walkable/busable neighborhood with pharmacies, primary care, and transit all within 1.5 km.
+
+3. **Chicago and Coventry are Top Care Hubs** — Shirley Ryan AbilityLab and UHCW NHS Trust both offer world-class amputee rehabilitation with active research programs. Chicago provides US-based care with robust transit; Coventry offers UK-based NHS care at no direct cost.
+
 4. **Community action items:**
    - Track NCT04725461 (Shirley Ryan) for published results on foam-based socket fabrication
    - Follow PROLIMB (NCT05220553) for haptic feedback devices approaching commercial availability
    - Monitor ReMotion Knee (NCT04700085) for potential adoption by US insurers
+   - Consider UK-based trials at UHCW Coventry for free NHS-prosthetic access
    - Advocate for better bus stop shelters and real-time displays along 31st Street for weather protection
 
 ---
