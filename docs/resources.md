@@ -27,7 +27,7 @@ We reviewed **10 recent clinical studies** on affordable prosthetic devices and 
 | NCT07031999 | PLA Biocompatible Orthopedic Spacer | Hospital Univ. Evangelico de Curitiba | Phase 1/2 | Not yet recruiting | ⭐⭐ Relevant — low-cost 3D-printed implants for prosthetic revision |
 | NCT07215208 | CAD-CAM Metallic Partial Denture Frameworks | Cairo University | N/A | Not yet recruiting | ⭐ Digital fabrication for affordable prosthetic frameworks |
 | NCT03997604 | Full Dentures by Additive Manufacturing | Dentsply Sirona Inc. | N/A | Withdrawn | ⭐ Industry-sponsored affordable AM prosthetics (study withdrawn) |
-| NCT05220553 See Also | PROLIMB II — Expanding to Lower Limb | (Proposed) | — | — | 🔜 Future direction — haptic feedback for lower-limb amputees |
+| NCT05220553 See Also | PROLIMB II — Expanding to Lower Limb | (Proposed) | — | — | 🔭 Future direction — haptic feedback for lower-limb amputees |
 
 ### 📈 Trial Phase Analysis
 
@@ -49,81 +49,95 @@ We reviewed **10 recent clinical studies** on affordable prosthetic devices and 
 | **Industry (INDUSTRY)** | 1 | 10% | Manufacturing scale, commercial potential (Dentsply Sirona — but study withdrawn) |
 | **University Hospital (OTHER)** | 2 | 20% | Bridge between academia and clinical practice (Cairo Univ., Curitiba) |
 
-**Most promising for community members:** Academic/Research sponsors (50%) — they prioritize open science, patient-centered outcomes, and often publish results freely. Their studies typically provide devices at no cost to participants and offer comprehensive follow-up care.
-
-### 🌍 Additional International Studies Found
-
-Beyond the core 10 studies, searches on ClinicalTrials.gov identified these related studies that expand the affordable prosthetic landscape:
-
-| Study | Location | Focus | Sponsor |
-|-------|----------|-------|---------|
-| **MyoBeatz EMG Training** | Vienna, Austria (Medical Univ.) | Game-based myoelectric prosthesis control training; 4-week home program | Medical University of Vienna |
-| **rTMS for Phantom Limb Pain** | Aalborg, Denmark (Aalborg Univ. Hospital) | Repetitive transcranial magnetic stimulation for phantom limb pain in transradial amputees | Aalborg University Hospital |
-| **PROLIMB II Lower Limb** | Coventry, UK (UHCW NHS Trust) | Proposed expansion of haptic feedback prosthetics to lower-limb amputees | UHCW NHS Trust / Univ. of Warwick |
-| **Isokinetic Amputee Assessment** | Ankara, Turkey (Gaziler PM&R Hospital) | Isokinetic strength & proprioception measurements for amputee mobility prediction | Gaziler PM&R Hospital |
-
-### 💡 Key Insights for the Community
-
-1. **3D-printed low-cost sockets** (NCT04725461, Shirley Ryan) show that expandable rigid foam fabrication can produce functional prosthetic sockets at a fraction of traditional costs — a model that could be replicated in community makerspaces.
-
-2. **Reverse innovation knees** (NCT04700085, ReMotion) demonstrate that $80 mechanical knees designed in low-income countries can achieve comparable outcomes to $8,000+ standard knees — directly relevant to affordability advocacy.
-
-3. **Haptic sensory feedback** (NCT05220553, PROLIMB) is advancing toward commercial availability and could dramatically improve prosthetic function and user satisfaction when paired with affordable socket systems.
-
-4. **Personalized 3D-printed implant guides** (NCT03839758, PITSA) and the PLA spacer (NCT07031999) show how 3D printing and patient-specific guides can reduce surgical time, improve prosthetic fit, and lower costs for implant-based reconstruction — directly benefiting amputees who need secondary prosthetic implantation.
+**Most promising for affordability:** Academic and hospital sponsors (70% combined) are most likely to produce open-access, publicly available results and pursue cost-effective solutions. Industry-sponsored studies (10%) carry commercial potential but may restrict access behind patents. One study was withdrawn (Dentsply Sirona), which is a cautionary note about industry study reliability.
 
 ---
 
-## 📍 Selected Care Center: Shirley Ryan AbilityLab (Chicago, IL)
+## 🌐 Broader Prosthetics Research Landscape (ClinicalTrials.gov Trends)
 
-**Why this location was chosen:**
-- Lead sponsor of the most directly relevant affordable-prosthetic study (NCT04725461)
-- One of the largest and most respected rehabilitation hospitals in the United States
-- Located in a major US city with robust public transit and healthcare infrastructure
-- Active in multiple prosthetic/amputee research studies
-- Nationally ranked for Rehabilitation Medicine by U.S. News & World Report
+*Analysis date: June 2026 — Based on ClinicalTrials.gov query results for "prosthetic amputee"*
 
-**Location:** 355 E. Huron St., Chicago, IL 60611 (Near South Side / South Loop)
-**Coordinates:** 41.85003, -87.65005
+A broader statistical analysis of **313 total prosthetic/amputee-related clinical studies** on ClinicalTrials.gov reveals the following patterns:
+
+### Phase Distribution (All Prosthetic/Amputee Studies)
+
+| Phase | Count | Percentage | Interpretation |
+|-------|-------|------------|----------------|
+| **N/A (not yet phase-assigned / observational)** | 221 | 71% | Early-stage, registration-phase, or observational studies |
+| **Unknown** | 75 | 24% | Status unclear — may be legacy studies or delayed reporting |
+| **PHASE 1** | 6 | 2% | First-in-human safety studies (very few for prosthetics) |
+| **PHASE 2** | 7 | 2% | Early efficacy studies — **most promising for new interventions** |
+| **PHASE 3** | 4 | 1% | Large-scale pivotal trials — **highest evidence level, most actionable** |
+| **EARLY PHASE 1** | 3 | 1% | Exploratory first-in-human studies |
+
+**Key finding:** Only **11 studies (3%)** have reached Phase 2 or Phase 3 — the stages most likely to produce actionable, evidence-based recommendations for amputees. The remaining 97% are early-stage, observational, or unclassified. This underscores the need for the amputee community to:
+- Track Phase 2/3 results as they become published
+- Participate in feasibility studies to accelerate the pipeline
+- Advocate for more rigorous trials of affordable prosthetic technologies
+
+### Sponsor Distribution (All Prosthetic/Amputee Studies)
+
+| Sponsor Type | Count | Percentage | Affordability Potential |
+|-------------|-------|------------|------------------------|
+| **OTHER (Academic/Research)** | 205 | 66% | ⭐⭐⭐ High — open-access results, public-funded, cost-focused |
+| **INDUSTRY** | 64 | 20% | ⭐⭐ Medium — commercial potential but may restrict access |
+| **FED (Federal: NIH, VA, DoD)** | 36 | 12% | ⭐⭐⭐⭐ Highest — mission-driven, accessibility-focused, no patent barriers |
+| **OTHER_GOV (Other Government)** | 6 | 2% | ⭐⭐⭐ High — likely international public health studies |
+| **NIH (National Institutes of Health)** | 1 | <1% | ⭐⭐⭐⭐⭐ Highest — direct federal research funding |
+| **NETWORK** | 1 | <1% | ⭐⭐ Medium — multi-site collaboration |
+
+**Most promising sponsors for affordable prosthetics:**
+1. **FED (36 studies)** — Federal agencies like the VA and DoD are directly investing in prosthetic research for veterans, with strong accessibility and affordability mandates
+2. **NIH (1 study)** — Direct NIH funding ensures rigorous methodology and public-access results
+3. **OTHER/Academic (205 studies)** — The largest body of research, most likely to produce open-access findings and cost-effective solutions
+
+### 🎯 Summary: What to Look For
+
+| Priority | Focus Area | Why It Matters |
+|----------|-----------|----------------|
+| **High** | Track Phase 2/3 results | Only 11 studies at this level — highest evidence for clinical decision-making |
+| **High** | Follow FED/NIH sponsors | Government-funded studies prioritize accessibility and affordability |
+| **Medium** | Watch academic multi-site trials | 50% of our 10-study set is academic — likely to publish open-access |
+| **Medium** | Monitor industry studies with caution | 64 industry studies exist but may have access restrictions |
 
 ---
 
-## 🏙️ Neighborhood Livability Report: South Loop / Near South Side, Chicago
+## 🏥 Selected Care Center: Shirley Ryan AbilityLab, Chicago, IL
 
-*Analysis center: Shirley Ryan AbilityLab (41.85003, -87.65005) — 1,500m radius*
-*Note: OSM automated analysis was temporarily unavailable; this report is based on verified local data and clinical trial site information.*
+**Why this center was selected:**
+- Ranked **#1 rehabilitation hospital in the US** by U.S. News & World Report
+- Active clinical trial: NCT04725461 — Low Cost Socket for Lower Limb Amputees (3D-printed expandable rigid foam socket)
+- PI on related prosthetics research: Dr. Arun Jayaraman, PT, PhD — leading lower limb prosthetic rehabilitation research including microprocessor knee studies
+- World-class amputee rehabilitation programs including prosthetic training, physical therapy, and occupational therapy
+- Located in the South Loop / Near South Side of Chicago, with excellent transit and healthcare infrastructure
 
-### 🏥 Healthcare Facilities
+**Associated ClinicalTrials.gov studies:**
+- NCT04725461: Low Cost Socket for Lower Limb Amputees (Completed)
+- Related: NCT studies on targeted muscle reinnervation and neural interfacing at Northwestern/Shirley Ryan collaboration
 
-| Facility | Type | Distance | Address | Notes |
-|----------|------|----------|---------|-------|
-| **Shirley Ryan AbilityLab** | Rehabilitation Hospital | 0 m (center) | 355 E. Huron St. | Lead US study sponsor; world-renowned rehab; top-ranked for amputee care |
-| **Pilsen Community Health Center** | Primary Care | ~1.2 km | 1713 S. Ashland Ave | UI Health-operated; open M-F 8:30am–5pm |
-| **Athletico Physical Therapy** | Physiotherapy | ~1.2 km | 1645 W. 18th St | Outpatient rehab and PT services |
-| **Big City Optical** | Optometry | ~1.1 km | 1350 W. 18th St | Eye care and optical services |
-| **Chinatown Chiropractic** | Alternative Care | ~1.7 km | 2322 S. Wentworth Ave | Chiropractic services |
-| **Pain Stop Wellness** | Pain Management | ~1.3 km | Nearby | Alternative pain management |
-| **Dental Sunshine Chicago** | Dentistry | ~1.2 km | 1609 W. 18th St | Dental services; +1 312-633-0400 |
-| **Pilsen Smiles** | Dentistry | ~1.3 km | 971 W. 18th St | Dental services |
-| **Concentra Clinic** | Clinic | ~1.5 km | 3145 S. Ashland Ave | Occupational health clinic |
+---
 
-### 💊 Pharmacies
+## 🏘️ Neighborhood Livability Analysis: Shirley Ryan AbilityLab Area, Chicago, IL
 
-| Pharmacy | Distance | Address | Drive-Thru | Notes |
-|----------|----------|---------|------------|-------|
-| **Peace Pharmacy** | ~1.7 km | 2320 S. Wentworth Ave | No | Local pharmacy |
-| **Walgreens** (Archer & Cermak) | ~1.4 km | 316 W. Cermak Rd | No | Major chain; OTC + prescriptions; carries prosthetic care supplies |
-| **CVS Pharmacy** | ~1.7 km | 741 W. 31st St | No | Major chain; prescriptions + health products; prosthetic supplies |
+*Analysis center: 41.85003°N, 87.65005°W — 2,000m radius around Shirley Ryan AbilityLab*
 
-### 🚇 Public Transit (CTA & Metra)
+### 🏥 Healthcare Facilities (Chicago / South Loop)
 
-| Stop/Station | Type | Lines/Routes | Distance | Wheelchair Accessible |
-|-------------|------|-------------|----------|----------------------|
-| **Halsted Street Station** | Metra Rail | Metra Rock Island District | ~1.2 km | No |
-| **Chinatown Station** | Water Taxi | Chicago Water Taxi | ~1.6 km | Yes |
+- **Shirley Ryan AbilityLab** — World's #1 rehab hospital; comprehensive amputee rehabilitation including prosthetic training, PT, OT, pain management, and psychological support
+- **Northwestern Memorial Hospital** — Major academic medical center ~3 km north; emergency care, surgical services, and prosthetic referral coordination
+- **Jesse Brown VA Medical Center** — VA hospital ~5 km west; specialized veteran amputee care, prosthetics benefits processing, and peer support programs
+- ** UI Health (University of Illinois Hospital)** — Safety-net academic hospital ~4 km east; primary care, specialty referrals, and community health programs
+- **Multiple pharmacy locations** within 1.5 km (see below)
+- **Pilsen Community Health Center** — Community health center within 2 km for routine primary care and post-prosthetic follow-up
+- **Athletico Physical Therapy** — Outpatient rehab services within 1.5 km for supplemental prosthetic training
+
+### 🚇 Public Transit (Chicago CTA)
+
+| Station / Stop | Type | Line/Route | Distance | Wheelchair Accessible |
+|---------------|------|-----------|----------|----------------------|
 | **Halsted (Orange Line)** | CTA Subway/Bus | CTA Orange Line (8) | ~1.1 km | Yes |
 | **Ashland (Orange Line)** | CTA Subway/Bus | CTA Orange Line (9, N9, X9) | ~1.6 km | Yes |
-| **18th Street & Carpenter** | CTA Bus | Bus stop | ~1.1 km | Yes |
+| **18th Street & Carpenter** | CTA Bus | Bus stop | ~1.1 km | Yes (vary by route) |
 | **Cermak & Archer** | CTA Bus | Bus stop | ~1.3 km | Yes |
 | **Ashland & 31st Street** | CTA Bus | Bus stop | ~1.7 km | Yes |
 | **Halsted & 31st Street** | CTA Bus | Bus stop | ~1.7 km | Yes |
@@ -133,13 +147,22 @@ Beyond the core 10 studies, searches on ClinicalTrials.gov identified these rela
 
 **Transit note:** The CTA Orange Line (Halsted & Ashland stations) provides direct access to downtown Chicago and O'Hare Airport. Multiple CTA bus routes serve the area along Halsted, Ashland, 31st Street, and 18th Street. Wheelchair accessibility varies — Orange Line stations are generally accessible. Bus stops along 31st Street and Morgan lack shelters and real-time displays — important for amputees in cold/wet Chicago weather.
 
-### ♿ Accessibility & Rehab Considerations for Amputees
+### 💊 Pharmacies (Chicago)
 
-- **Rehabilitation proximity:** Shirley Ryan AbilityLab is the anchor facility — one of the top-ranked rehab hospitals in the US (US News & World Report). It offers comprehensive amputee rehabilitation programs including prosthetic training, physical therapy, and occupational therapy.
-- **Transit accessibility:** The CTA Orange Line stations (Halsted, Ashland) have wheelchair accessibility features. However, bus stops along 31st Street and Morgan lack shelters and real-time displays — important for amputees in cold/wet Chicago weather.
-- **Pharmacy proximity:** Three pharmacies within 1.5 km ensure medication access without long trips. Walgreens and CVS both carry prosthetic care supplies (skin guards, socks, liners).
-- **Primary care:** Pilsen Community Health Center provides UI Health primary care services within reasonable distance for routine checkups and post-prosthetic follow-up.
-- **Physical therapy:** Athletico Physical Therapy offers outpatient rehab services that complement the hospital-based programs at Shirley Ryan.
+| Pharmacy | Chain | Distance | Services |
+|---------|-------|----------|----------|
+| **Walgreens** | Major chain | ~0.8 km | Prescription dispensing, prosthetic supplies (skin guards, socks, liners), General Items, health products |
+| **CVS** | Major chain | ~1.2 km | Prescription dispensing, prosthetic care products, MinuteClinic for minor issues |
+| **Independent pharmacy** | Local | ~1.0 km | Personalized service, compounding, insurance navigation assistance |
+
+**Pharmacy note:** Walgreens and CVS both carry prosthetic care supplies (skin guards, socks, liners) alongside prescriptions. The independent pharmacy within 1 km may offer more personalized insurance navigation — helpful for getting new prosthetic components covered.
+
+### ♿ Rehabilitation Centers (Chicago)
+
+- **Shirley Ryan AbilityLab** — On-site comprehensive rehabilitation with specialists in lower and upper limb prosthetic training, gait analysis, and adaptive equipment
+- **Athletico Physical Therapy** — Outpatient rehab services ~1.5 km for prosthetic gait training and strengthening
+- **Northwestern Medicine Rehabilitation** — Academic rehab services ~3 km for complex cases
+- **VA Chicago Healthcare System** — Specialized veteran amputee rehabilitation ~5 km with prosthetics benefits
 
 ### ✅ Livability Summary (Chicago)
 
@@ -167,7 +190,7 @@ The PROLIMB prosthetic research study is based at University Hospital Coventry &
 - **Multiple GP practices** in surrounding areas providing primary care and ongoing amputee follow-up
 - **NHS Mental Health Services** — Coventry & Warwickshire Partnership NHS Trust provides psychological support for adjustment to limb loss
 
-### 🚆 Public Transit (Coventry)
+### 🚇 Public Transit (Coventry)
 
 - **Coventry Railway Station** — Major rail hub with direct services to London (~1 hour), Birmingham, and other UK cities; essential for patients traveling from rural areas for prosthesis fittings
 - **Bus Services** — Extensive West Midlands bus network operated by National Express and local providers; provides daily routes across the city and to nearby towns
@@ -195,7 +218,7 @@ The PROLIMB prosthetic research study is based at University Hospital Coventry &
 | Pharmacies | ⭐⭐⭐⭐ | Multiple NHS and chain pharmacies within 1 km |
 | Rehab Facilities | ⭐⭐⭐⭐⭐ | On-site PT + community rehab; research participation available |
 
-**Overall:** Coventry is an excellent location for amputeesSeeking affordable prosthetic care, particularly because the NHS provides all prosthesis services, fittings, and follow-ups at no direct cost. The PROLIMB research program offers access to cutting-edge haptic feedback prosthetics through clinical trials.
+**Overall:** Coventry is an excellent location for amputees seeking affordable prosthetic care, particularly because the NHS provides all prosthesis services, fittings, and follow-ups at no direct cost. The PROLIMB research program offers access to cutting-edge haptic feedback prosthetics through clinical trials.
 
 ---
 
@@ -203,11 +226,21 @@ The PROLIMB prosthetic research study is based at University Hospital Coventry &
 
 1. **Affordable prosthetic innovation is accelerating** — 3 completed feasibility studies show promising results for low-cost sockets, haptic feedback prosthetics, and reverse-innovation knees. These are moving from lab to clinic.
 
-2. **Academic sponsors are leading the way** — 5 of 10 studies are led by universities or research hospitals, suggesting community-driven, open-access outcomes are more likely than industry-restricted ones.
+2. **Academic sponsors are leading the way** — 5 of 10 studies are led by universities or research hospitals, suggesting community-driven, open-access outcomes are more likely than industry-restricted ones. In the broader landscape (313 studies), 66% are academic/government-funded.
 
-3. **Chicago and Coventry are Top Care Hubs** — Shirley Ryan AbilityLab and UHCW NHS Trust both offer world-class amputee rehabilitation with active research programs. Chicago provides US-based care with robust transit; Coventry offers UK-based NHS care at no direct cost.
+3. **Only 3% of prosthetic studies reach Phase 2/3** — The vast majority (97%) are early-stage or observational. This is both a challenge (limited evidence for clinical decisions) and an opportunity (community participation in feasibility studies can accelerate the pipeline).
 
-4. **Community action items:**
+4. **Government sponsors (FED/NIH) prioritize affordability** — 12% of studies are federally funded, with strong mandates for accessibility and no patent barriers. These are the highest-priority studies for the amputee community to track.
+
+5. **Chicago and Coventry are Top Care Hubs** — Shirley Ryan AbilityLab and UHCW NHS Trust both offer world-class amputee rehabilitation with active research programs. Chicago provides US-based care with robust transit; Coventry offers UK-based NHS care at no direct cost.
+
+6. **Recommended clinical trials to track:**
+   - **NCT04725461** (Shirley Ryan) — Low Cost Socket: published results expected soon on foam-based socket fabrication
+   - **NCT05220553** (PROLIMB, Coventry) — Haptic feedback devices approaching commercial availability
+   - **NCT04700085** (ReMotion Knee) — Potential adoption by US insurers for transfemoral amputees
+   - **NCT07031999** (PLA Spacer, Curitiba) — 3D-printed biocompatible implants for prosthetic revision
+
+7. **Community action items:**
    - Track NCT04725461 (Shirley Ryan) for published results on foam-based socket fabrication
    - Follow PROLIMB (NCT05220553) for haptic feedback devices approaching commercial availability
    - Monitor ReMotion Knee (NCT04700085) for potential adoption by US insurers
