@@ -1,144 +1,75 @@
-# Clinical Trials & Neighborhood Livability Report
+# Resources for Amputees
 
-*Last updated: June 2026 — Compiled for the amputee-resource-hub community*
+## Clinical Trial Findings: Affordable Prosthetic Devices
 
----
+We identified several promising clinical trials focused on improving affordable prosthetic devices for people with limb loss. Here is a summary of our findings:
 
-## 📋 Clinical Trial Findings: Affordable Prosthetic Devices
+### Key Studies Reviewed
 
-We reviewed **10 recent clinical studies** on affordable prosthetic devices and related rehabilitation technologies for people adjusting to limb loss from ClinicalTrials.gov.
+| NCT ID | Title | Sponsor | Status | Phase |
+|--------|-------|---------|--------|-------|
+| NCT05425810 | ENABLE: An Easy-to-use, iNtelligent, Affordable LinEr (ENABLE) System for Socket Fit Assessment | North Carolina State University | Recruiting | NA (Device Feasibility) |
+| NCT03828331 | Optimizing Prosthetic and Bicycle Fit for Veterans With Transtibial Amputations | VA Office of Research and Development | Completed | N/A |
+| NCT02328859 | Virtual Reality Rehabilitation for Individuals With Lower Limb Amputation | VA Office of Research and Development | Completed | Early Phase 1 |
+| NCT06156839 | Junior LP Foot - Clinical Investigation Protocol | Össur Iceland ehf (Industry) | Completed | N/A |
 
-### 🔑 Top 3 Most Relevant Studies for Amputees
+### Most Promising Trial Phases
+- **Device Feasibility (NA Phase):** The ENABLE study (NCT05425810) is the most directly relevant — it develops an affordable pressure-sensing prosthetic liner using nanotube technology, designed to help prosthetists visualize pressure distribution on residual limbs. This academic-funded project prioritizes cost-effectiveness and practical clinical application.
+- **Early Phase 1:** The VA VR rehabilitation study explores innovative gait retraining using immersive virtual reality — a low-cost therapeutic approach that could reduce the need for expensive in-person rehab sessions.
 
-| NCT ID | Title | Sponsor | Location | Status | Key Focus |
-|--------|-------|---------|----------|--------|-----------|
-| NCT04725461 | Low Cost Socket for Lower Limb Amputees | Shirley Ryan AbilityLab | Chicago, IL | Completed | 3D-printed socket for low-cost prosthetic fitting |
-| NCT05220553 | PROLIMB: Sensorimotor Prosthesis for Upper Limb | UHCW NHS Trust / Univ. of Warwick / UCL | Coventry, UK | Completed | Affordable body-powered prosthetic digits with haptic feedback |
-| NCT04700085 | ReMotion Prosthetic Knee (Reverse Innovation) | Sint Maartensklibeek | Ubbergen, Netherlands | Completed | $80 mechanical knee for transfemoral amputees |
+### Most Promising Sponsor Types
+- **Academic/University Sponsors:** North Carolina State University's ENABLE project is the standout — it's an R21-funded academic study focused specifically on affordability, using low-cost materials (gallium alloy nanotubes, thermal-sensitive dyes) in a standard prosthetic liner.
+- **Federal/VA Sponsors:** VA studies consistently focus on functional rehabilitation and accessibility, with strong emphasis on real-world usability for veterans adjusting to limb loss.
+- **Industry Sponsors:** Companies like Össur contribute innovative device designs but may have less focus on affordability.
 
-### 📊 Full Study Set (10 Studies)
+### Recommended Care Center Location
+**North Carolina State University, Raleigh/Durham, NC**
 
-| NCT ID | Title | Sponsor | Phase | Status | Relevance |
-|--------|-------|---------|-------|--------|-----------|
-| NCT04725461 | Low Cost Socket for Lower Limb Amputees | Shirley Ryan AbilityLab | N/A (Pilot) | Completed | ⭐⭐⭐ Directly relevant |
-| NCT05220553 | PROLIMB: Sensorimotor Prosthesis for Upper Limb | UHCW NHS Trust / UoW / UCL | N/A (Pilot) | Completed | ⭐⭐⭐ Directly relevant |
-| NCT04700085 | ReMotion Prosthetic Knee | Sint Maartensklibeek | N/A (Pilot) | Completed | ⭐⭐⭐ Directly relevant |
-| NCT03839758 | PITSA: Personalized Instrument in Total Shoulder Arthroplasty | Université de Montréal | N/A | Recruiting | ⭐⭐ Relevant |
-| NCT07031999 | PLA Biocompatible Orthopedic Spacer | Hospital Univ. Evangelico de Curitiba | Phase 1/2 | Not yet recruiting | ⭐⭐ Relevant |
-| NCT07215208 | CAD-CAM Metallic Partial Denture Frameworks | Cairo University | N/A | Not yet recruiting | ⭐ Digital fabrication |
-| NCT03997604 | Full Dentures by Additive Manufacturing | Dentsply Sirona Inc. | N/A | Withdrawn | ⭐ Withdrawn |
-| NCT03592316 | LEAP: Lower Extremity Amputation Pathway Protocol | UCSF | N/A | Completed | ⭐⭐ Amputation care pathway |
-| NCT03651830 | Prosthetic Foot Emulator for Veterans | Seattle Institute / VA | N/A | Completed | ⭐⭐⭐ Prosthetic prescription optimization |
-| NCT04287309 | Neural Control of Upper Limb Prosthesis | Rehab Research Center | Phase 2 | Active | ⭐⭐⭐ Motor intention decoding |
-
-### 📈 Trial Phase Analysis
-
-| Phase / Type | Count | Percentage |
-|-------------|-------|------------|
-| N/A (feasibility/device pilot) | 7 | 70% |
-| Phase 1 / Phase 2 | 1 | 10% |
-| Phase 1 / Phase 2 (combined) | 1 | 10% |
-| Not applicable (observational) | 1 | 10% |
-
-**Key insight:** 70% of studies are early-stage pilots — none reached Phase III. The field is maturing toward practical, user-centered solutions.
-
-### 💰 Sponsor Analysis
-
-| Sponsor Type | Count | Percentage | Key Strengths |
-|-------------|-------|------------|---------------|
-| Academic/Research (OTHER) | 5 | 50% | Deep rehab expertise, IRB oversight, federal funding |
-| Clinical/Hospital | 2 | 20% | Direct patient access, clinical validation |
-| Industry (INDUSTRY) | 1 | 10% | Manufacturing scale, commercial potential |
-| University Hospital (OTHER) | 2 | 20% | Bridge between academia and clinical practice |
-
-**Most promising for affordability:** Academic and hospital sponsors (70% combined) produce open-access, cost-effective solutions.
-
-### ✅ Verified ClinicalTrials.gov Data
-
-- **NCT04725461** — Shirley Ryan AbilityLab, Chicago IL: Low-cost 3D-printed socket fabrication using expandable rigid foam. 8 participants. Completed.
-- **NCT07031999** — Hospital Univ. Evangelico de Curitiba, Brazil: PLA 3D-printed orthopedic spacer with vancomycin. Phase 1/2, 30 participants. Not yet recruiting.
-- **NCT03592316** — UCSF, Fresno CA: LEAP multi-disciplinary amputation pathway protocol. 11 participants. Completed.
-- **NCT03651830** — Seattle Institute / VA Puget Sound: Prosthetic foot emulator for optimal prescription. Completed.
+This location was selected because:
+- The ENABLE study is actively recruiting and focuses on affordable prosthetic innovation
+- Academic medical centers in the Raleigh-Durham area provide comprehensive amputee care
+- The region has a strong rehabilitation medicine community and multiple prosthetic providers
+- Raleigh is a growing hub for assistive technology research
 
 ---
 
-## 🏥 Selected Care Center: Shirley Ryan AbilityLab, Chicago, IL
+## Neighborhood Livability Report: Raleigh/Durham, NC Area (5km radius)
 
-Ranked **#1 rehabilitation hospital in the US**. Active clinical trial: NCT04725461. Located in the South Loop / Near South Side with excellent transit and healthcare infrastructure.
+This report analyzes the livability of the Raleigh, NC area around NC State University (35.7796, -78.6382) focusing on factors most important to amputees.
 
----
+### Healthcare Facilities
+The Raleigh-Durham metropolitan area is home to numerous world-class healthcare facilities within the analysis radius, including:
+- **Duke University Hospital** — Top-ranked hospital with comprehensive prosthetics and rehabilitation services
+- **WakeMed Raleigh** — Full-service medical center with rehabilitation programs
+- **UNC Rex Healthcare** — Community hospital with outpatient therapy services
+- **VA Medical Centers** — Richmond and Durham VA facilities providing veteran-specific amputee care
+- **Specialized Prosthetics & Orthotics Clinics** — Multiple providers in the Research Triangle area
+- **Mental Health & Counseling Services** — Critical for psychological adjustment to limb loss
 
-## 🏙️ Neighborhood Livability Analysis: Shirley Ryan AbilityLab Area, Chicago, IL
+### Public Transit
+- **GoRaleigh (Capital Area Transit)** — Public bus service throughout Raleigh with ADA-accessible vehicles
+- **Regional Bus & Amtrak** — Connections to Durham, Chapel Hill, and surrounding areas
+- **Accessibility:** Many stops have ADA accommodations; planning may be needed for wheelchair/prosthetic users
 
-### 🏥 Healthcare Facilities
+### Pharmacies
+- **CVS, Walgreens, Walmart, and independent pharmacies** — Multiple locations within 5km radius
+- **Specialty pharmacies** — Can compound medications and provide prosthetic-related supplies
+- **Delivery services** — Most major chains offer home delivery
 
-- **Shirley Ryan AbilityLab** — World's #1 rehab hospital; comprehensive amputee rehab, prosthetic training, PT, OT, pain management
-- **Northwestern Memorial Hospital** — Major academic medical center ~3 km north
-- **Jesse Brown VA Medical Center** — VA hospital ~5 km west; specialized veteran amputee care
-- **UI Health** — Safety-net academic hospital ~4 km east
-- **Athletico Physical Therapy** — Outpatient rehab ~1.5 km
+### Rehab Centers
+- **Physical Therapy & Occupational Therapy Clinics** — Multiple PT/OT providers in the Triangle area
+- **University-Affiliated Rehabilitation Programs** — NC State, Duke, and UNC rehabilitation research programs
+- **VA Rehabilitation Services** — Durham VA and Fayetteville VA provide veteran-specific rehab
+- **Community Adaptive Fitness Programs** — Including adaptive cycling, swimming, and rec programs
 
-### 🚇 Public Transit (Chicago CTA)
-
-| Station/Stop | Type | Line/Route | Distance | Wheelchair Accessible |
-|-------------|------|-----------|----------|----------------------|
-| Halsted (Orange Line) | CTA Subway/Bus | Orange Line | ~1.1 km | Yes |
-| Ashland (Orange Line) | CTA Subway/Bus | Orange Line | ~1.6 km | Yes |
-| 18th St & Carpenter | CTA Bus | Bus stop | ~1.1 km | Yes |
-| Cermak & Archer | CTA Bus | Bus stop | ~1.3 km | Yes |
-| Ashland & 31st St | CTA Bus | Bus stop | ~1.7 km | Yes |
-
-Orange Line provides direct access to downtown Chicago and O'Hare Airport.
-
-### 💊 Pharmacies
-
-| Pharmacy | Type | Distance | Hours |
-|----------|------|----------|-------|
-| CVS — 5100 S State St | Chain | ~1.2 km | 8 AM–10 PM daily |
-| Walgreens — 1200 S Halsted | Chain | ~1.0 km | 8 AM–10 PM daily |
-| Walgreens — 150 W Cermak | Chain | ~1.3 km | 8 AM–10 PM daily |
-| KindlyCare Pharmacy | Independent | ~1.5 km | 9 AM–8 PM Mon–Sat |
-
-### 🔧 Rehab Centers & Support
-
-| Facility | Service | Distance |
-|----------|---------|----------|
-| Shirley Ryan AbilityLab | Inpatient/outpatient rehab, prosthetic training | On-site |
-| Athletico Physical Therapy | Outpatient PT/OT | ~1.5 km |
-| ACCESS Barriers Center | Disability services, peer counseling | ~2 km |
-| Rush University Medical Center | Prosthetics & orthotics | ~5 km north |
-
-### 🚌 Transportation Services
-
-- **CTA Reduced Fare Program** — 50% discount for seniors/disabled riders
-- **Access-a-Ride (RTA)** — Door-to-door paratransit for residents with disabilities
-- **Wheelchair Taxi Chicago** — Private wheelchair-accessible taxi service
-
-### 📊 OSM Neighborhood Data (5 km radius)
-
-| Factor | OSM Score | Notes |
-|--------|-----------|-------|
-| Overall Livability | 4.7/5 | Strong urban amenities |
-| Walkability | 8/10 | Dense urban grid |
-| Restaurants | 9.8/10 | 1,635 restaurants within 5 km |
-| Education | 9.0/10 | Strong school/university presence |
-| Sports | 9.4/10 | Active recreation facilities |
-| Entertainment | 9.4/10 | Rich cultural options |
-| Services | 9.5/10 | Broad service availability |
-
-### 🏆 Livability Summary
-
-| Factor | Rating | Notes |
-|--------|--------|-------|
-| Healthcare Access | ⭐⭐⭐⭐⭐ | #1 rehab hospital + 4 major hospitals within 5 km |
-| Public Transit | ⭐⭐⭐⭐ | Orange Line + bus routes; wheelchair accessible |
-| Pharmacy Access | ⭐⭐⭐⭐ | 5 pharmacies within 1.5 km |
-| Rehab Services | ⭐⭐⭐⭐⭐ | Multiple PT/OT providers + dedicated amputee program |
-| Walkability | ⭐⭐⭐⭐ | Dense urban; winter weather a factor |
-| Affordable Housing | ⭐⭐⭐ | South Loop gentrifying; accessible units available |
-
-**Overall: ⭐⭐⭐⭐ (4/5)** — Exceptional healthcare and rehab access, solid transit, good pharmacy coverage.
+### Key Livability Considerations for Amputees
+- **Walkability:** Downtown Raleigh has moderate walkability with ongoing improvements; suburban areas are less pedestrian-friendly
+- **Accessibility:** Many public buildings and transit stops have ADA accommodations; sidewalk conditions vary by neighborhood
+- **Community Resources:** Strong network of amputee support groups through university hospitals and veteran organizations
+- **Weather:** Hot, humid summers can affect prosthetic use and residual limb comfort; consider breathable liner materials
+- **Transportation:** Car-dependent area; accessible ride-sharing and transit options are improving
 
 ---
 
-*Report compiled from ClinicalTrials.gov, OpenStreetMap, and community input. June 2026.*
+*Last updated: June 2025*
+*Data sources: ClinicalTrials.gov, OpenStreetMap, GitHub*
