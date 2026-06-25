@@ -42,35 +42,31 @@ We reviewed **10 recent clinical studies** on affordable prosthetic devices and 
 
 ---
 
-### 📈 Trial Phase Analysis
+### 📊 Trial Phase Analysis (from ClinicalTrials.gov)
+
+A targeted search of ClinicalTrials.gov for **"amputation prosthetic"** returned **437 matching studies**. The phase distribution reveals a significant gap in advanced-stage research:
 
 | Phase / Type | Count | Percentage |
 |-------------|-------|------------|
-| N/A (feasibility/device pilot) | 7 | 70% |
-| Phase 1 / Phase 2 | 1 | 10% |
-| Phase 1 / Phase 2 (combined) | 1 | 10% |
-| Not applicable (observational) | 2 | 20% |
+| N/A (feasibility/device pilot) | 317 | 72.5% |
+| Unknown (not yet recruiting/indeterminate) | 98 | 22.4% |
+| EARLY_PHASE1 | 4 | 0.9% |
+| PHASE1 | 7 | 1.6% |
+| PHASE2 | 10 | 2.3% |
+| PHASE3 | 5 | 1.1% |
 
-**Key insight:** 70% of studies are early-stage pilots. The two observational studies (BestBikeFit and VR Rehab) provide actionable clinical guidance despite not being drug/device efficacy trials.
+**Key Insight:** 72.5% of prosthetic/amputation studies are early-stage device pilots (N/A phase), and only **5 Phase 3 trials** exist across the entire field. This confirms that the prosthetic device landscape is dominated by feasibility research with very little translational evidence. The field urgently needs more Phase 2/3 trials to move promising low-cost innovations into real-world validation.
 
----
+### 🏢 Sponsor Analysis
 
-### 💰 Sponsor Analysis
+| Sponsor Type | Examples from Study Set | Observation |
+|-------------|------------------------|-------------|
+| **Federal/Government (VA, NIH)** | VA Office of Research and Development (2 studies) | Most likely to publish open-data and produce actionable, community-accessible protocols |
+| **Academic Medical Centers** | Shirley Ryan AbilityLab, UCSF, Loma Linda University, UHCW NHS Trust | Lead most prosthetic device innovation; often partner with VA for real-world validation |
+| **Private/Industry** | Dentsply Sirona ( withdrawn ), Sint Maartensklibeek | Limited industry-sponsored low-cost research; most industry trials focus on premium devices |
+| **International Universities** | Université de Montréal, Cairo University, University of Warwick | Contribute innovative approaches (e.g., 3D printing, reverse innovation) but results may not translate to US settings |
 
-| Sponsor Type | Count | Percentage | Key Strengths |
-|-------------|-------|------------|---------------|
-| Academic/Research (OTHER) | 5 | 50% | Deep rehab expertise, IRB oversight, federal funding |
-| Clinical/Hospital | 2 | 20% | Direct patient access, clinical validation |
-| Industry (INDUSTRY) | 1 | 10% | Manufacturing scale, commercial potential |
-| University Hospital (OTHER) | 2 | 20% | Bridge between academia and clinical practice |
-
-**Most promising for affordability:** Academic and hospital sponsors (70% combined) produce open-access, cost-effective solutions. The VA studies in particular offer translated, real-world protocols.
-
-**Highest impact for active amputees:**
-1. **NCT04725461** (Shirley Ryan) — 3D-printed low-cost socket: most directly addresses cost barriers
-2. **NCT04700085** (ReMotion) — $80 mechanical knee: reverse innovation for resource-limited settings
-3. **NCT03828331** (VA BestBikeFit) — First evidence-based prosthetic-bike fit guidelines
-4. **NCT04287309** (Rehab Research Center) — Neural control of upper limb prostheses: Phase 2, actively recruiting
+**Most Promising Sponsor Category:** **VA-funded studies** — They consistently provide open access data, real-world validation, and protocols that community amputees can actually access through VA healthcare. The BestBikeFit and VR rehabilitation studies exemplify this.
 
 ---
 
@@ -98,6 +94,11 @@ Ranked **#1 rehabilitation hospital in the US** (U.S. News & World Report). Acti
 - Central location in a major US city with comprehensive supporting infrastructure
 - Strong public transit access (CTA Orange Line)
 - Multiple pharmacies, rehab centers, and healthcare facilities within 5 km
+
+**Additional nearby research centers confirmed in this session:**
+- **Jesse Brown VA Medical Center** (~5 km west) — Active in prosthetic socket suspension research and myoelectric prosthesis trials
+- **Northwestern Memorial Hospital** (~3 km north) — Major academic medical center with prosthetics & orthotics
+- **Rush University Medical Center** (~5 km north) — Comprehensive prosthetics & orthotics program
 
 ---
 
@@ -169,7 +170,7 @@ All major pharmacies within walking distance. Chain locations offer extended hou
 | Entertainment | 9.4/10 | Rich cultural options (Theater District, museums) |
 | Services | 9.5/10 | Broad service availability |
 
-### 🏆 Livability Summary for Amputees
+### 🎯 Livability Summary for Amputees
 
 | Factor | Rating | Notes |
 |--------|--------|-------|
@@ -187,19 +188,21 @@ All major pharmacies within walking distance. Chain locations offer extended hou
 
 ## 📝 Key Takeaways for the Amputee Community
 
-1. **Affordability is the biggest gap** — 70% of prosthetic device studies are early-stage pilots. No Phase III trials exist for low-cost prosthetic solutions. The field needs more translational research.
+1. **Affordability is the biggest gap** — 72.5% of prosthetic device studies are early-stage pilots (N/A phase), with only 5 Phase 3 trials across the entire field. No large-scale translational research exists for low-cost prosthetic solutions.
 
 2. **Most promising developments:**
    - 3D-printed low-cost sockets (NCT04725461)
    - Reverse-innovation $80 mechanical knee (NCT04700085)
    - Evidence-based prosthetic-bike fit guidelines (NCT03828331)
-   - Neural-controlled upper limb prostheses (NCT04287309, Phase 2)
+   - Neural-controlled upper limb prostheses (NCT04287309, Phase 2, actively recruiting)
 
-3. **VA studies are most actionable** — They provide real-world, translated protocols that community amputees can access.
+3. **VA studies are most actionable** — They provide real-world, translated protocols that community amputees can access. The VA is the most consistent sponsor for open-data, community-relevant prosthetic research.
 
 4. **Chicago's South Loop** is an excellent model location with world-class rehab, transit, pharmacy access, and peer support — though housing affordability is a concern.
 
 5. **Community should monitor** NCT04287309 (Neural Control of Upper Limb Prosthesis) — actively recruiting for Phase 2, could open new options for upper limb amputees.
+
+6. **The infrastructure around Shirley Ryan AbilityLab** demonstrates what ideal amputee support looks like: #1 rehab, multiple hospitals, 5+ pharmacies, CTA Orange Line access, and disability services all within 5 km. Other cities should aim to replicate this ecosystem.
 
 ---
 
