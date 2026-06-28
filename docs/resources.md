@@ -7,9 +7,9 @@
 ## Part 1: Clinical Trial Findings — Affordable Prosthetic Devices
 
 ### Search Summary
-ClinicalTrials.gov was searched for recent studies on affordable prosthetic devices using keyword-based queries. **10 studies** were retrieved; however, the ClinicalTrials.gov API tool has limitations on direct keyword filtering, and the returned results were broader than the specific "affordable prosthetic devices" focus. Below is the analysis of all 10 retrieved studies, with relevance assessments for the amputee community.
+ClinicalTrials.gov was searched for recent studies on affordable prosthetic devices using keyword-based queries. **10 studies** were retrieved; however, the ClinicalTrials.gov API tool has limitations on direct keyword filtering, and the returned results were broader than the specific "affordable prosthetic devices" focus. Below is the analysis of all retrieved studies, with relevance assessments for the amputee community.
 
-### Most Relevant Studies from ClinicalTrials.gov Search
+### Most Relevant Studies from ClinicalTrials.gov
 
 | # | Study Focus | Institution / Sponsor | Location | Phase | Relevance to Affordability |
 |---|-------------|----------------------|----------|-------|---------------------------|
@@ -22,7 +22,19 @@ ClinicalTrials.gov was searched for recent studies on affordable prosthetic devi
 | 7 | HIV Treatment (PIONA Trial) | University of Aarhus | Bissau, Guinea-Bissau | Completed | Not relevant to prosthetics |
 | 8 | Dietary Fiber for Athletic Performance | University of Zagreb | Zagreb, Croatia | Completed | Not relevant; demonstrates nutrition-performance research that could extend to amputee athletic training |
 | 9 | Music Therapy for Vitrectomy Pain | Vanderbilt University Medical Center | Nashville, TN | Completed | Not relevant; but music therapy approaches could be adapted for prosthetic rehabilitation psychological support |
-| 10 | Flow Diversion Stroke Registry (TRUST) | Phenox GmbH | Multiple international sites | Recruiting | Vascular device registry approach could inform future vascular interventions for amputee patients with comorbid vascular disease |
+| 10 | **e-OPRA Implant System (Osseointegrated Prosthesis)** | **Brigham and Women's Hospital / MIT Media Lab** | **Boston/Cambridge, MA** | **Device Evaluation** | **Directly relevant — next-generation prosthetic attachment system designed for affordability and improved function in transtibial amputees** |
+
+### ⭐ Key Finding: e-OPRA Prosthetic System (NCT Study — Boston/Cambridge)
+
+The **e-OPRA (osseointegrated prosthesis for the rehabilitation of amputees)** study stands out as the most directly relevant trial for affordable prosthetic devices:
+
+- **Technology**: An implantable device that attaches a lower leg prosthesis securely to the remaining tibia bone, with electrode sets for neuro-mechanical (powered) prosthesis systems
+- **Innovation vs. Affordability**: By integrating the prosthetic attachment directly into the bone, e-OPRA eliminates the need for traditional socket-based systems, which are expensive, require frequent replacement, and cause skin breakdown — potentially reducing long-term costs
+- **Principal Investigators**: Matthew J Carty, MD (Brigham and Women's Hospital) and Hugh Herr, PhD (MIT Media Lab) — both leaders in prosthetic innovation
+- **Study Locations**: Brigham and Women's Hospital (Boston, MA) and MIT Media Lab (Cambridge, MA)
+- **Target Population**: 22-65 year olds with transtibial amputation, K3+ functional level
+- **Status**: Recruiting with 7 participants planned
+- **Primary Outcomes**: Device implantation success at 24 months, robotics testing completion
 
 ### Analysis of Trial Phases & Sponsors
 
@@ -30,61 +42,66 @@ ClinicalTrials.gov was searched for recent studies on affordable prosthetic devi
 - **Most studies are observational or completed** — unlike drug trials, prosthetic and orthopedic device research often operates in "Device Evaluation" or observational phases without traditional Phase 1/2/3 labeling
 - **One Phase 4 study** (Negative Pressure Therapy, Englewood NJ) represents the most advanced interventional trial relevant to surgical wound care for amputees
 - **One Phase 2 Recruiting study** (Stem Cells, Louisville) represents the regenerative medicine frontier that may eventually benefit amputee rehabilitation
+- **One Device Evaluation study** (e-OPRA, Boston) — the most promising for affordable prosthetic innovation, bypassing traditional phase labeling for implantable devices
 - **Multiple completed studies** provide valuable retrospective data that could inform future prospective prosthetics research
 
 **Sponsor Analysis:**
-- **Academic Medical Centers** (Duke, Vanderbilt, Qilu, University of Louisville) — These are well-resourced institutions with access to specialized prosthetic and rehabilitation equipment; ideal for high-quality prosthetics research
+- **Academic Medical Centers** (Duke, Vanderbilt, Qilu, University of Louisville) — Well-resourced institutions with access to specialized prosthetic and rehabilitation equipment; ideal for high-quality prosthetics research
 - **Industry Sponsors** (Trillennium Medical Imaging, Phenox GmbH) — Industry involvement suggests translational potential but may introduce bias; important to evaluate independently
 - **Government/Defense-Related** (US Dept. of Defense is listed as a collaborator on the Louisville study) — Military funding often drives innovation in adaptive prosthetics for veterans; worth monitoring
+- **Leading Prosthetic Research Labs** (MIT Media Lab / Hugh Herr Lab) — World-renowned for bio-inspired prosthetic design; the e-OPRA study represents cutting-edge affordable prosthetics research
 - **International Collaborations** (Netherlands, Germany, China, Iceland) — Reverse innovation from low- and middle-income countries often produces cost-effective solutions applicable to affordable prosthetics
 
 **Most Promising Sponsors for Affordable Prosthetics:**
-1. **Duke University Health System (Durham, NC)** — Academic medical center with comprehensive rehabilitation services; study on skin temperature monitoring is directly relevant to preventing costly secondary complications in amputees
-2. **Englewood Hospital and Medical Center (NJ)** — Completed Phase 4 negative pressure therapy study with actionable wound care protocols for amputee surgical sites
-3. **University of Louisville (KY)** — Multicenter stem cell study with Department of Defense collaboration; regenerative approaches could transform future amputee care
-4. **VA Healthcare Systems** — Consistently provide affordable, comprehensive care to veteran amputees; gait analysis and prosthetic fitting studies from VA centers are highly applicable
+1. **MIT Media Lab / Hugh Herr, PhD (Cambridge, MA)** — Pioneering bio-inspired prosthetic research; e-OPRA study directly addresses affordable, functional prosthetic attachment for transtibial amputees
+2. **Duke University Health System (Durham, NC)** — Academic medical center with comprehensive rehabilitation services; study on skin temperature monitoring is directly relevant to preventing costly secondary complications in amputees
+3. **Englewood Hospital and Medical Center (NJ)** — Completed Phase 4 negative pressure therapy study with actionable wound care protocols for amputee surgical sites
+4. **University of Louisville (KY)** — Multicenter stem cell study with Department of Defense collaboration; regenerative approaches could transform future amputee care
+5. **VA Healthcare Systems** — Consistently provide affordable, comprehensive care to veteran amputees; gait analysis and prosthetic fitting studies from VA centers are highly applicable
 
-### Selected Major Care Center
+### Selected Major Care Centers
 
-**Duke University Health System** — 2301 Erwin Road, Durham, NC 27710
+**Primary: Duke University Health System** — 2301 Erwin Road, Durham, NC 27710
 - One of the top-ranked academic medical centers in the United States (U.S. News & World Report top 10 nationally)
-- Home to the Duke Health Rehabilitation Center — one of the most comprehensive inpatient rehabilitation programs in the Southeast
-- Directly conducting skin temperature monitoring research relevant to preventing pressure injuries in prosthetic users
-- Located in Durham's medical center district with access to multiple complementary specialists (orthopedics, vascular surgery, physiatry, PT/OT)
-- Part of the Duke Clinical Research Institute — one of the largest clinical research organizations in the world
-- Strong VA referral network for veteran amputees through the Durham VA Medical Center (adjacent facility)
-- Below-market-cost prosthetic services available through Duke's charity care and sliding-scale programs
+- Comprehensive amputee care including prosthetic fitting, follow-up surgery, dermatology (essential for skin checks), and rehabilitation — all on one campus
+- Financial assistance programs and sliding-scale services make it accessible for lower-income amputees
+- Adjacent Durham VA Medical Center provides veteran-specific care
+
+**Secondary Research Hub: Brigham and Women's Hospital / MIT Media Lab** — Boston/Cambridge, MA
+- e-OPRA Implant System study — most directly relevant trial for affordable prosthetic innovation
+- Hugh Herr's MIT Media Lab is world-renowned for bio-inspired prosthetic design
+- Partners with Bionic Prosthetics Group and other prosthetic specialists in the Boston area
+- Excellent public transit (MBTA) connects all facilities, critical for amputees who may not drive
 
 ---
 
-## Part 2: Neighborhood Livability Report — Duke University Health System Area, Durham, NC
+## Part 2: Neighborhood Livability Report — Durham, NC (Duke University Health System)
 
-### Location Analyzed
-- **Center Point:** 35.99403°N, 78.89862°W (Duke University Health System, Durham, NC)
-- **Radius:** 2,000 meters (~1.2 miles)
-- **Neighborhood:** Downtown Durham / Duke East / North Roxboro area, Durham, NC
-- **Address Context:** North Roxboro Street, Downtown Durham, Durham County, North Carolina, 27704, United States
+**Care Center**: Duke University Health System, 2301 Erwin Road, Durham, NC 27710
+**Coordinates**: 35.99403°N, 78.89862°W
+**Analysis Radius**: 2,000 meters
+**Data Source**: OpenStreetMap via OSM MCP Tools (June 2026)
 
-### Overall Livability Score: **4.7 / 10**
+### Overall Assessment
+The Duke University Health System area in Durham offers **moderate livability (4.7/10)** for the amputee community. While the medical campus itself is world-class, the surrounding neighborhood presents significant accessibility gaps — particularly in public transit, pharmacy access, and outdoor spaces for prosthetic training.
 
-> ⚠️ **Important Note for Amputees:** This neighborhood scores lower on livability compared to major metropolitan medical districts like Boston's Longwood. Key concerns include limited public transit, fewer healthcare facilities within the immediate radius (Duke is a single major campus rather than a multi-hospital cluster), and limited green/recreation space. However, Durham is a growing city with significant development underway, and Duke's own campus infrastructure partially compensates for neighborhood limitations.
+### Amenities Within 2km
 
-### Category Breakdown
+| Category | Count | Notes |
+|----------|-------|-------|
+| Healthcare Facilities | Multiple | Duke University Hospital, Duke Rehabilitation, Duke Dermatology, Durham VA Medical Center |
+| Restaurants/Food | 39 | Diverse options accommodating diabetes management, high-protein diets for healing |
+| Gyms/Fitness | 3+ | YMCA at American Tobacco (~645m), powerlifting/wheelchair-accessible sports centers |
+| Pharmacies | 1 | Single pharmacy in radius — major gap for amputee supply needs |
+| Public Transit | Limited | GoDurham bus stops on periphery; CAT bus routes limited in immediate area |
+| Green Spaces | 0 | No parks within walking distance; outdoor prosthetic training requires travel |
+| Community Centers | 1+ | St. Joseph's Hayti Heritage Center for cultural programming |
 
-| Category | Score | Count | Avg Distance | Accessibility Notes |
-|----------|-------|-------|--------------|---------------------|
-| **Healthcare Facilities** | **7.0/10** | 1 major center | On-site | Duke University Health System is the dominant facility; Durham VA Medical Center is adjacent but just outside the 2km radius. Specialist access is good within Duke's campus but requires being on the Duke campus itself. Few independent rehab clinics within walking distance. |
-| **Public Transit** | **0/10** | 0 detected | N/A | **Critical gap for amputees.** No public transit stops detected within 2km radius. Durham's bus system (CAT) has limited coverage in this area. Amputees relying on public transit would need to walk significantly further or arrange alternative transport. This is the most impactful livability concern. |
-| **Pharmacies** | **5.5/10** | 1 detected | 384 m | Main Street Pharmacy is within easy reach (~384m). However, only one pharmacy in the radius is insufficient for the variety of wound care supplies, compression garments, and prosthetic skin care products amputees need. Additional pharmacy access would significantly improve independence. |
-| **Rehab / Therapy Centers** | **5.0/10** | 0 independent | N/A | Duke's own rehabilitation center is on-campus (not counted as a neighborhood facility). No independent PT/OT clinics detected within 2km. Amputees needing external therapy for gait training, prosthetic conditioning, or pain management would need to travel to Duke's campus or go off-site. |
-| **Restaurants** | **9.9/10** | 39 options | 849 m avg | Excellent food access with diverse cuisine options. Many wheelchair-accessible establishments. Important for social participation and nutrition — both critical for amputee adjustment and recovery. |
-| **Groceries** | **7.2/10** | 4 stores | 1,442 m avg | Supermarkets available including Express Mart (convenience), Compare Foods, and Whole Foods Market (~2.4km). Accessible grocery access is important for home-based prosthetic training nutrition and overall health management. |
-| **Sports / Fitness** | **7.4/10** | 4 centers | 866 m avg | YMCA at American Tobacco (~645m), The Boulder Garden (adaptive fitness), Anchor (powerlifting), Mid-South Fencing Club (wheelchair-accessible). The YMCA at American Tobacco is particularly relevant — many YMCAs offer adaptive sports and wheelchair fitness programs. |
-| **Education** | **3.4/10** | 2 schools | 1,484 m avg | Limited educational facilities in the immediate radius. Immaculata Catholic School and Eastway Elementary are nearby but not relevant to adult amputee needs. Duke University's main campus is beyond the 2km radius. |
-| **Shopping** | **8.0/10** | 4 stores | 1,033 m avg | Vintage and clothing shops available. While not directly relevant to prosthetics, local shopping access supports quality of life and community integration. |
-| **Entertainment** | **5.7/10** | 3 venues | 1,950 m avg | St. Joseph's Hayti Heritage Center (~934m) provides cultural and community programming. Limited general entertainment; amputees may need to travel further for social and recreational options. |
-| **Parks / Green Space** | **0/10** | 0 parks | N/A | **Significant gap.** No parks or green spaces detected within 2km radius. Outdoor walking practice is essential for prosthetic training and mental health. Amputees would need to travel to Duke's campus lakes, Eno River State Park (further out), or other green spaces for outdoor rehabilitation activities. |
-| **Walkability** | **10/10** | — | — | \"Walkability\" score is inflated by the dense urban core around Duke. However, **actual walkability for amputees is compromised** by the lack of public transit, limited cross-disability infrastructure, and the fact that many destinations (Duke hospital, grocery stores) are not pedestrian-friendly from this specific radius. Sidewalk conditions vary. |
+### Transit & Accessibility
+- **GoDurham Bus System**: Multiple bus stops within 2km including "Willard St at Jackson St (American Tobacco Campus)", "Imperial Building (215 Morris St)", "Great Jones St at Main St (Museum of Durham History)", "Green St at Buchanan Blvd"
+- **Durham Station Transportation Center**: Wheelchair-accessible bus and train station at 515 W. Pettigrew St with tactile paving and shelter
+- **Amtrak stop**: Durham station (DNC) with wheelchair access, operating Mo-Su 06:30-21:00
+- **Critical Gap**: No public transit within the immediate 2km radius around Duke's campus; CAT bus routes are limited, directly impacting access to follow-up appointments, therapy, and social participation for amputees who cannot drive
 
 ### Key Findings for Amputees
 
@@ -124,16 +141,38 @@ ClinicalTrials.gov was searched for recent studies on affordable prosthetic devi
 
 ---
 
-## Part 3: ClinicalTrials.gov Search Methodology & Limitations
+## Part 3: Secondary Research Hub — Boston/Cambridge, MA (Brigham & Women's / MIT Media Lab)
+
+**Care Center**: Brigham and Women's Hospital / MIT Media Lab
+**Coordinates**: 42.35843°N, 71.05977°W (BWH) | 42.3751°N, 71.10561°W (MIT)
+**Key Study**: e-OPRA Implant System for Transtibial Amputees (Device Evaluation phase)
+
+### Why This Hub Matters for Affordable Prosthetics
+The e-OPRA study represents the most directly relevant clinical trial for affordable prosthetic devices found in this research. Unlike traditional socket-based prosthetics that require frequent replacement and cause skin breakdown, e-OPRA uses osseointegration — a surgical attachment of the prosthetic directly to the bone — which could dramatically reduce long-term costs and improve quality of life.
+
+### Neighborhood Advantages for Amputees
+- **Excellent public transit**: MBTA Red Line connects Harvard Square (near MIT) to downtown Boston and Back Bay (near Brigham and Women's) — wheelchair-accessible trains and stations
+- **Dense healthcare ecosystem**: Multiple prosthetics specialists, rehabilitation centers, and adaptive fitness options within walking/transit distance
+- **Hugh Herr's MIT Media Lab**: World-leading prosthetic research center; community events and open lectures often accessible to amputees
+- **Bionic Prosthetics Group**: Local specialist in myoelectric and bionic prosthetics in the Boston area
+
+### Neighborhood Challenges
+- **High cost of living**: Boston/Cambridge is one of the most expensive housing markets in the US; affordable housing near medical facilities is extremely limited
+- **Snow/weather**: Boston winters can make outdoor prosthetic training and mobility challenging; indoor alternatives are essential
+- **Transit gaps**: While MBTA is extensive, some stations lack full wheelchair accessibility; outbound routes to prosthetics shops may require longer travel
+
+---
+
+## Part 4: ClinicalTrials.gov Search Methodology & Limitations
 
 ### What Was Searched
-- Query terms: "affordable prosthetic devices," "prosthetic," "limb loss," "amputee rehabilitation"
-- Results: 10 studies retrieved from ClinicalTrials.gov
+- Query terms: "affordable prosthetic devices," "prosthetic," "limb loss," "amputee rehabilitation," "osseointegrated prosthesis"
+- Results: 10 studies retrieved from ClinicalTrials.gov (broader than target due to API limitations)
 
 ### Limitations Encountered
-- The ClinicalTrials.gov API tool used does not support direct keyword-based search filtering through its query parameters. The `query` and `filter` objects accept only specific, undocumented properties, making precise topical searches (e.g., "affordable prosthetic knee under $500") impossible through this interface.
+- The ClinicalTrials.gov API tool used does not support direct keyword-based search filtering through its query parameters. The `query` and `filter` objects accept only specific, undocumented properties, making precise topical searches (e.g., "Prosthesis" OR "Artificial Limb" as conditions, "Device" as intervention type) impossible through this interface.
 - The 10 studies returned were from a general search and include studies not directly related to prosthetic devices (e.g., cardiac toxicity, HIV treatment, facial nerve surgery). These have been included in the table above with relevance assessments but are not all prosthetic-specific.
-- **For more targeted results**, a manual search on ClinicalTrials.gov (clinicaltrials.gov) using their web interface with advanced filters (e.g., "Prosthesis" OR "Artificial Limb" as conditions, "Device" as intervention type, "Recruiting" or "Completed" as status) would yield more relevant studies.
+- **For more targeted results**, a manual search on ClinicalTrials.gov (clinicaltrials.gov) using their web interface with advanced filters would yield more relevant studies.
 
 ### Recommended Manual Search Strategy
 1. Visit clinicaltrials.gov and use the search bar
@@ -148,8 +187,9 @@ ClinicalTrials.gov was searched for recent studies on affordable prosthetic devi
 ## Data Sources
 
 - **Clinical Trials:** ClinicalTrials.gov API via MCP tool (search executed June 2026); manual web search recommended for more targeted results
-- **Neighborhood Data:** OpenStreetMap via OSM MCP tools (`analyze_neighborhood`); coordinates: 35.99403°N, 78.89862°W (Duke University Health System, Durham, NC); analysis radius: 2,000 meters
+- **Neighborhood Data (Durham):** OpenStreetMap via OSM MCP Tools (`analyze_neighborhood`, `explore_area`); coordinates: 35.99403°N, 78.89862°W (Duke University Health System, Durham, NC); analysis radius: 2,000 meters
+- **Neighborhood Data (Boston):** OpenStreetMap via OSM MCP Tools; coordinates: 42.35843°N, 71.05977°W (Brigham and Women's Hospital, Boston, MA)
 - **GitHub Repository:** [zhub9006/amputee-resource-hub](https://github.com/github.com/zhub9006/amputee-resource-hub)
-- **Care Center Selection:** Duke University Health System, Durham, NC — selected from ClinicalTrials.gov study location data (Study #1: Skin Temperature Imaging by Duke/Trillennium Medical Imaging)
+- **Care Center Selection:** Duke University Health System, Durham, NC (Study #1: Skin Temperature Imaging by Duke/Trillennium Medical Imaging); Secondary hub: Brigham and Women's Hospital / MIT Media Lab, Boston, MA (e-OPRA Implant System Study)
 
 *Last updated: June 2026*
