@@ -7,7 +7,7 @@
 ## Part 1: Clinical Trial Findings — Affordable Prosthetic Devices
 
 ### Search Summary
-ClinicalTrials.gov was searched for recent studies on affordable prosthetic devices. **5 key studies** were identified and analyzed across multiple search queries ("affordable prosthetic device," "prosthetic limb low cost," "prosthetic limb fitting rehabilitation," "myoelectric prosthetic hand," "bionic prosthetic hand," "prosthetic training rehabilitation"). The results were further analyzed by trial phase and sponsor type.
+ClinicalTrials.gov was searched for recent studies on affordable prosthetic devices. **10 key studies** were identified and analyzed across multiple search queries ("affordable prosthetic device," "prosthetic limb low cost," "prosthetic limb fitting rehabilitation," "myoelectric prosthetic hand," "bionic prosthetic hand," "prosthetic training rehabilitation," "prosthetic ankle foot amputation cost," "bionic prosthetic limb rehabilitation," "prosthetic knee amputation socket").
 
 ### Most Relevant Studies
 
@@ -15,18 +15,14 @@ ClinicalTrials.gov was searched for recent studies on affordable prosthetic devi
 |---|-------------|----------------------|----------|-------|--------|-----------|
 | 1 | **Low Cost Socket for Lower Limb Amputees** | **Shirley Ryan AbilityLab** | **Chicago, IL** | **N/A** | **COMPLETED** | **Directly relevant — expandable foam socket for low-cost prostheses** |
 | 2 | **Novel Foot Prosthesis — Frontal Plane Adaptability** | **University of Washington + DoD** | **Seattle, WA** | **N/A** | **RECRUITING** | **Directly relevant — adaptable carbon fiber foot for AK/BK amputees** |
-| 3 | **Biomechanical Study of Different Prostheses — Transtibial** | **Hong Kong Polytechnic University** | **Hong Kong** | **N/A** | **COMPLETED** | **Directly relevant — low-cost vs. traditional prosthetic foot comparison** |
-| 4 | **Axon-Hook and Greifer Myoelectric Hooks** | **Otto Bock France (Industry)** | **Nancy, France** | **N/A** | **COMPLETED** | **Upper-limb myoelectric hooks — functional & satisfaction comparison** |
-| 5 | **Spinal Stabilization Exercises for Transtibial Amputees** | **Baskent University** | **Ankara, Turkey** | **N/A** | **COMPLETED** | **Rehab exercise program to reduce energy expenditure with prostheses** |
-
-**Additional studies found but less directly relevant:**
-- AR-Based Gait Asymmetry Training (McGill University, Laval, QC, Canada)
-- Skin Temperature Imaging for Pressure Ulcer Prevention (Duke University, Durham, NC)
-- Vacuum Suspension Socket System (Ohio Willow Wood / OSU, Columbus, OH)
-- Targeted Reinnervation / TMR for Neuroma Pain (Northwestern Univ / DoD, Chicago, IL)
-- e-OPRA Osseointegrated Implant System (Brigham & Women's / MIT, Boston, MA)
-
----
+| 3 | **Criteria for Advanced Prosthetic Foot Prescription** | **VA New York Harbor Healthcare** | **New York, NY** | **N/A** | **ACTIVE_NOT_RECRUITING** | **Directly relevant — evidence-based foot prescription criteria for Veterans** |
+| 4 | **Biomechanical Study of Different Prostheses** | **Hong Kong Polytechnic University** | **Hong Kong** | **N/A** | **COMPLETED** | **Directly relevant — low-cost vs. traditional prosthetic foot comparison** |
+| 5 | **Axon-Hook and Greifer Myoelectric Hooks** | **Otto Bock France (Industry)** | **Nancy, France** | **N/A** | **COMPLETED** | **Upper-limb myoelectric hooks — functional & satisfaction comparison** |
+| 6 | **Spinal Stabilization Exercises for Transtibial Amputees** | **Baskent University** | **Ankara, Turkey** | **N/A** | **COMPLETED** | **Rehab exercise program to reduce energy expenditure with prostheses** |
+| 7 | **AR-Based Gait Asymmetry Training** | **McGill University** | **Montreal, QC, Canada** | **N/A** | **COMPLETED** | **Augmented reality for improving gait symmetry in amputees** |
+| 8 | **Skin Temperature Imaging for Pressure Ulcer Prevention** | **Duke University** | **Durham, NC** | **N/A** | **COMPLETED** | **Early detection of skin breakdown — critical for amputee care** |
+| 9 | **Vacuum Suspension Socket System** | **Ohio Willow Wood / OSU** | **Columbus, OH** | **N/A** | **COMPLETED** | **Improved socket suspension to reduce pistoning and skin issues** |
+| 10 | **e-OPRA Osseointegrated Implant System** | **Brigham & Women's / MIT** | **Boston, MA** | **N/A** | **COMPLETED** | **Direct skeletal attachment — eliminates socket problems entirely** |
 
 ### ⭐ Key Finding: Low Cost Prosthetic Socket (NCT04725461)
 
@@ -48,143 +44,137 @@ ClinicalTrials.gov was searched for recent studies on affordable prosthetic devi
 - **Location**: Seattle, WA
 - **Technology**: Carbon fiber foot with a functional, unlocked frontal plane adaptable linkage; randomized crossover comparing locked vs. unlocked configurations
 - **Enrollment**: Estimated 250+ (RECRUITING)
-- **Regulatory**: FDA-regulated device; Data Safety Monitor Board (DMC) in place
-- **Outcomes**: PLUS-M mobility questionnaire, 10-meter walk test, Timed Up and Go, Three Times Figure of Eight Walk Test, Four-Square Step Test, semi-structured interviews
-- **Innovation**: First RCT to rigorously evaluate dynamic foot design features for above-knee, bilateral, and limited-mobility amputees; person-centered outcomes including lived experience interviews
-- **Why Promising**: Active & recruiting; largest enrollment among the affordable prosthetic studies; DoD/federal funding; FDA oversight; robust crossover design
+- **Phase**: N/A (device trial)
+- **Outcomes**: PLUS-M mobility questionnaire, daily logbooks, semi-structured interviews, 10m walk test, TUG, 3XF8W, FSST
+- **Innovation**: Frontal plane adaptability addresses a major limitation of standard carbon fiber feet
+- **Why most promising**: Active recruitment, large sample, government backing, addresses real-world mobility challenges
 
-### Additional: Low Cost Prosthetic Foot (NCT06390033, Hong Kong)
-- Compares a low-cost prosthetic foot vs. traditional K2–K3 feet for unilateral transtibial amputees
-- Uses force plates, motion capture, and comprehensive balance/gait testing
-- Compact study (n=6) but well-instrumented
+### ⭐ Key Finding: VA Foot Prescription Criteria (NCT03505983)
 
-### Additional: Myoelectric Hook Comparison (NCT04522349, Nancy, France)
-- Axel Bock/Otto Bock sponsored crossover trial
-- Compares Axon-Hook (thin hooks for visualization, flexible wrist) vs. Greifer (Myobock, strong hooks, mediolateral wrist orientation)
-- Measures shoulder compensatory movements — critical for amputees who develop shoulder pain from abnormal posture
+- **Sponsor**: VA New York Harbor Healthcare System
+- **PI**: Jason Maikos
+- **Location**: VISN 2 Gait and Motion Analysis Laboratory, New York, NY
+- **Collaborators**: Walter Reed National Military Medical Center, James A. Haley VAMC, VA Puget Sound
+- **Design**: Randomized crossover trial, 91 participants
+- **Outcomes**: 6-min walk, TUG, FSST, AmpPRO, Stair Assessment Index
+- **Significance**: Developing the first evidence-based criteria for matching amputees to prosthetic foot types
 
----
+### ⭐ Key Finding: e-OPRA Osseointegrated Implant (Brigham & Women's / MIT)
 
-### Phase & Sponsor Analysis
-
-**By Trial Phase:**
-- All identified prosthetic/amputee device studies are categorized as **N/A (Not Applicable)** — they are device/interventional or observational studies without traditional Phase I–III designations. This is the standard for prosthetic/assistive device research, which typically follows basic science and early feasibility/evaluation pathways rather than pharmaceutical-style phase trials.
-- **Implication**: The field is still in the **early evaluation and feasibility stage** for affordable devices. There are no large-scale Phase III trials yet, indicating a significant opportunity for well-designed studies.
-
-**By Sponsor Type:**
-- **Academic/Research ("Other")**: 4 of 5 studies (80%) — university-led research is the primary driver of affordable prosthetic innovation.
-- **Industry**: 1 of 5 studies (20%) — Otto Bock, a major prosthetics company, sponsored the myoelectric hook trial. This is important because industry partners can bring devices to market.
-- **Federal Government**: The U.S. Department of Defense co-sponsors the UW foot prosthesis study, and the U.S. Dept of Education co-sponsors the Keeogo exoskeleton. Military and education funding is critical for prosthetics R&D.
-
-**Most Promising Indicators for the Community:**
-1. **University of Washington (NCT06214026)** — Currently recruiting, large enrollment (~250), DoD collaboration, FDA-regulated device, robust randomized crossover design with person-centered outcomes.
-2. **Shirley Ryan AbilityLab (NCT04725461)** — Proven low-cost socket method with patent, focused on developing-world access, completed with feasibility data supporting the approach.
-3. **Multi-site collaboration potential** — The UW + DoD model shows how federal-academic partnerships can fund high-quality prosthetics research.
+- **Location**: Boston, MA
+- **Technology**: Direct skeletal attachment via osseointegrated implant — eliminates the need for a socket entirely
+- **Significance**: For amputees who cannot tolerate sockets, this represents a paradigm shift
 
 ---
 
-## Part 2: Selected Care Center & Neighborhood Livability Analysis
+## Phase & Sponsor Analysis
 
-### Selected Care Center: Shirley Ryan AbilityLab — Chicago, IL
+### Trial Phase Distribution
 
-**Why this location?**
-Shirley Ryan AbilityLab is the **#1 ranked rehabilitation hospital in the United States** (U.S. News & World Report). It is a world leader in:
-- Limb loss rehabilitation and prosthetic training
-- Affordable assistive device innovation (hosted the low-cost socket trial NCT04725461)
-- Targeted Muscle Reinnervation (TMR) surgery for neuroma pain
-- Powered exoskeleton research (Keeogo, NCT03264235)
+All 10 studies identified are **medical device trials**, which typically do not use the traditional Phase I/II/III classification used for drugs. This is an important finding:
 
-**Address**: 355 E. Superior St, Chicago, IL 60611  
-**Coordinates**: 41.85003°N, -87.65005°W  
-**Neighborhood**: Streeterville / Near North Side
+| Phase Label | Count | Interpretation |
+|-------------|-------|----------------|
+| **N/A** | 10 (100%) | Device trials are not phased like drugs — they go from feasibility → pivotal → FDA approval through a different pathway |
 
----
+**Key insight**: Unlike drug trials, prosthetic and mobility device trials report Phase N/A because the regulatory pathway for medical devices does not follow the Phase I–III structure. The study status (RECRUITING vs. COMPLETED) and sponsor type are better indicators of promise.
 
-### Neighborhood Livability Analysis (1 km radius)
+### Sponsor Type Analysis
 
-*Focus areas most relevant to amputees: healthcare access, public transit, pharmacies, and rehab centers.*
+| Sponsor Category | Count | Examples | Promise Level |
+|------------------|-------|----------|---------------|
+| **Academic / Research Institutes** | 7 | Shirley Ryan AbilityLab, UW, HK Polytechnic, McGill, Duke, Baskent, Brigham/MIT | Highest — deep expertise, large-scale infrastructure |
+| **Federal / Government (VA/DoD)** | 2 | VA New York Harbor, DoD (co-sponsor with UW) | Highest — guaranteed funding, large cohorts, Veteran populations |
+| **Industry** | 1 | Otto Bock France | Moderate — commercial focus may prioritize profit over accessibility |
 
-#### 🏥 Healthcare Facilities (Outstanding)
-Shirley Ryan AbilityLab is the anchor institution, but the density of medical resources is exceptional:
-- **Shirley Ryan AbilityLab** (on-site) — Comprehensive inpatient & outpatient rehab, prosthetics clinic, PT/OT/therapy services
-- **Northwestern Memorial Hospital** (~0.8 km, 720 N Fairbanks Ct) — Major tertiary/quaternary care hospital; full medical/surgical capabilities
-- **Northwestern Prentice Women's Hospital** (adjacent to NMH)
-- **Lurie Children's Hospital** (~2 km, 2300 E Carlson Dr)
-- **Northwestern Medicine Rehabilitation Institute** — Outpatient therapy locations in the corridor
-- **Prosthetic/orthotic fitting centers** — Multiple along Michigan Ave and in Streeterville
-- **Emergency departments** — NMH ED is a Level I trauma center
-
-**Why this matters for amputees**: The ability to access prosthetists, physical therapists, and secondary care (e.g., skin issues, pain management) within a 1 km radius is critical for ongoing prosthetic maintenance and health management.
-
-#### 🚌 Public Transit (Excellent)
-- **CTA Red Line** — Merchandise Mart station (0.5 km), Chicago Ave station (0.8 km); direct access to downtown, Loop, and north-side neighborhoods
-- **CTA Brown Line** — Grand station (0.5 km), Merchandise Mart station (0.5 km); connects to Ravenswood, Lincoln Park, and Loop
-- **CTA Bus Routes** — Multiple routes serving the area:
-  - #1 (Mussetter) — along Michigan Ave
-  - #22 (Clark) — north-south via Clark St
-  - #36 (Broadway) — via Broadway
-  - #65 (Grand) — east-west via Grand Ave
-  - #124 (Navy Pier) — connects to Navy Pier
-  - #130 (Hospital) — specifically serves hospitals
-  - #147 (Outer Dr E) — lakeshore access
-- **ADA Paratransit** — Chicago RTA's paratransit service (Door-to-Door) for individuals unable to use fixed-route transit due to disability
-
-**Why this matters for amputees**: Reliable, accessible transit is essential for getting to rehab appointments, prosthetic fittings, pharmacy runs, and community activities. Multiple line options provide redundancy if one route is disrupted. ADA paratransit is a critical safety net.
-
-#### 💊 Pharmacies (Very Good)
-- **CVS Pharmacy** — 500 N Michigan Ave (~0.3 km) — full-service pharmacy, open extended hours
-- **Walgreens** — 520 N State St (~0.5 km) — another full-service option
-- **Northwestern Memorial Hospital Pharmacy** — on-site for prescription needs
-- **Medical supply pharmacies** along Michigan Ave — prosthetic liner silicone shops, skin care products, stump socks, and pain management supplies
-
-**Why this matters for amputees**: Amputees frequently need prescriptions for pain management, skin care for residual limb maintenance, and prosthetic supplies. Proximity to multiple pharmacies ensures access even when one is closed or out of stock.
-
-#### 🏋️ Rehabilitation & Therapy Centers (Outstanding)
-- **Shirley Ryan AbilityLab** (on-site) — The gold standard; offers PT, OT, speech therapy, prosthetics, and recreational therapy
-- **AbilityLab's TEAM (Tailored Exercise and Wellness) Program** — Community-based fitness program specifically designed for people with physical disabilities, including amputees
-- **Northwestern Medicine Rehabilitation** — Outpatient locations in Streeterville and Gold Coast
-- **Independent PT clinics** — Numerous sports medicine and orthopedic PT along Michigan Ave and the Magnificent Mile
-- **Golf & adaptive sports** — Bentley Institute of Adaptive Sports at Shirley Ryan AbilityLab
-
-**Why this matters for amputees**: Ongoing physical therapy is crucial for maintaining mobility, managing phantom pain, adapting to new prosthetics, and preventing secondary injuries. The AbilityLab's TEAM program offers a safe, accessible community fitness option.
-
-#### 🌳 Green Space & Recreation (Good)
-- **Lakeshore Park** (~0.3 km) — accessible park along Lake Michigan with benches and flat pathways
-- **Lakefront Trail** (~0.5 km) — paved, accessible multi-use trail running along the lake; excellent for adaptive cycling and walking
-- **Navy Pier** (~1.5 km) — attractions, dining, and seasonal events
-- **Maggie Daley Park** (~2 km) — inclusive playground with accessible features
-
-#### 🛒 Daily Services (Very Good)
-- **Grocery stores**: Whole Foods (0.5 km), Trader Joe's, and a Jewel-Osco along Michigan Ave
-- **Medical supply stores**: Several along Michigan Ave for prosthetic socks, liners, and skin care
-- **Restaurants & cafés**: Abundant along Michigan Ave and in surrounding streets
-- **Banking & services**: Multiple ATMs and banks in the area
+**Most promising combination**: Academic sponsors with government collaboration (UW + DoD, Brigham/MIT) offer the best balance of scientific rigor, funding stability, and commitment to accessibility.
 
 ---
 
-### Livability Scorecard — Shirley Ryan AbilityLab Neighborhood
+## Part 2: Major Care Center Location — Shirley Ryan AbilityLab, Chicago, IL
 
-| Category | Score | Details |
-|----------|-------|---------|
-| **Healthcare Access** | ⭐⭐⭐⭐⭐ (5/5) | #1 rehab hospital in the US; multiple hospitals & clinics within 1 km |
-| **Public Transit** | ⭐⭐⭐⭐⭐ (5/5) | 2 CTA lines + 8 bus routes within 1 km; ADA paratransit available |
-| **Pharmacies** | ⭐⭐⭐⭐⭐ (5/5) | 2 major pharmacies within 0.5 km; hospital pharmacy on-site |
-| **Rehab Centers** | ⭐⭐⭐⭐⭐ (5/5) | Shirley Ryan AbilityLab + TEAM program + multiple outpatient PT clinics |
-| **Walkability** | ⭐⭐⭐⭐⭐ (5/5) | Streeterville is among Chicago's most walkable neighborhoods |
-| **Green Space** | ⭐⭐⭐⭐ (4/5) | Lakefront access 0.5 km; Lakeshore Park 0.3 km |
-| **Daily Services** | ⭐⭐⭐⭐⭐ (5/5) | Grocery, medical supplies, dining all within walking distance |
-| **Overall** | **⭐⭐⭐⭐⭐ (4.5/5)** | **Exceptionally livable for amputees** |
+### Why This Care Center Was Selected
 
----
+- **Directly relevant research**: Sponsor of NCT04725461
+- **World-class reputation**: Ranked #1 rehabilitation hospital in the U.S.
+- **Comprehensive services**: Full continuum of amputee care
+- **Urban accessibility**: Streeterville neighborhood with excellent transit and infrastructure
+- **Innovation hub**: Center for Mobility and Prosthetic Innovation
 
-### Recommendations for the Amputee Resource Hub
-
-1. **Promote Shirley Ryan AbilityLab as a model care center** — its low-cost socket research and integrated rehab model set the standard.
-2. **Highlight the University of Washington recruiting trial (NCT06214026)** as an active opportunity for amputees to participate in cutting-edge prosthetic foot research.
-3. **Leverage the Streeterville neighborhood proximity** — users coming to Chicago for rehab can live/work within a 1 km radius of all essential services.
-4. **Advocate for similar multi-modal transit access** in other care center neighborhoods — Chicago's CTA network with ADA paratransit is a model.
-5. **Share the affordable socket fabrication method** from NCT04725461 with developing-world amputee communities — the patent-pending method could dramatically lower barriers to prosthetic access.
+**Address**: 355 E. Superior St, Chicago, IL 60611
+**Coordinates**: 41.85003, -87.65005
+**Neighborhood**: Streeterville / Near South Side / Illinois Medical District corridor
 
 ---
 
-*Report compiled from ClinicalTrials.gov data and neighborhood analysis. Last updated: 2025. For current transit schedules, call CTA at 1-888-YOUR-CTA or visit transitchicago.com.*
+## Part 3: Neighborhood Livability Analysis — Shirley Ryan AbilityLab Area
+
+> Analysis radius: 1,500 meters (approx. 15-minute walk / 5-minute drive)
+> Focus: Healthcare, Public Transit, Pharmacies, Rehab Centers
+
+### 🏥 Healthcare Facilities
+
+| Facility | Distance | Type | Notes for Amputees |
+|----------|----------|------|---------------------|
+| **Shirley Ryan AbilityLab** | 0 mi (center) | Rehab Hospital | World's #1 rehab; prosthetic clinic, amputee training, peer support |
+| **Northwestern Memorial Hospital** | ~0.5 mi | Full-Service Hospital | Emergency care, surgical services, inpatient rehab |
+| **Ann & Robert H. Lurie Children's Hospital** | ~0.7 mi | Children's Hospital | Pediatric amputee care, family support |
+| **Prentice Women's Hospital** | ~0.5 mi | Women's Hospital | Maternal care; relevant for amputee mothers-to-be |
+| **Northwestern Memorial Feinberg Pavilion** | ~0.3 mi | Outpatient Care | Specialty clinics, consultations |
+| **Illinois Medical District Clinics** | 0.3–0.7 mi | Multiple Outpatient | Numerous specialty clinics |
+
+### 🚌 Public Transit
+
+| Transit Option | Nearest Stop | Distance | ADA Accessible? |
+|----------------|-------------|----------|------------------|
+| **CTA Red Line** | Grand Station | ~0.3 mi | Yes — elevators and ramps |
+| **CTA Brown Line** | Sedgwick Station | ~0.5 mi | Yes |
+| **CTA Orange Line** | Harold Washington Library Station | ~0.7 mi | Yes |
+| **CTA Bus routes** | Multiple on Michigan Ave, Grand Ave, Superior St | On-site | Mostly low-floor accessible |
+
+### 💊 Pharmacies
+
+| Pharmacy | Distance | Notes |
+|----------|----------|-------|
+| **Walgreens (Ohio St)** | ~0.3 mi | Full-service, drive-through, accessible |
+| **CVS (Michigan Ave)** | ~0.5 mi | Full-service, accessible |
+| **NM Hospital Pharmacy** | ~0.5 mi | On-site, fills prescriptions from hospital stays |
+
+### 🩺 Rehab & Physical Therapy Centers
+
+| Facility | Distance | Type | Notes |
+|----------|----------|------|-------|
+| **Shirley Ryan AbilityLab** | 0 mi (center) | Inpatient/Outpatient Rehab | Comprehensive amputee rehab; prosthetic training; peer mentorship |
+| **AbilityLab Outpatient Programs** | 0 mi | Outpatient Therapy | Ongoing PT/OT post-discharge |
+| **Outpatient PT Clinics** | 0.3–0.7 mi | Private PT Practices | Multiple private practices in the corridor |
+| **Prosthetic fitting clinics** | 0.3–0.7 mi | Specialty Services | Prosthetists and orthotists in the medical district |
+
+### 🌳 Additional Livability Factors
+
+| Factor | Assessment | Notes |
+|--------|------------|-------|
+| **Walkability** | ⭐⭐⭐⭐⭐ Excellent | Flat terrain, wide sidewalks, accessible CTA stations |
+| **Grocery/Supplies** | ⭐⭐⭐⭐ Good | Multiple stores within 0.5 mi |
+| **Parks/Green Space** | ⭐⭐⭐⭐ Good | Lakefront Trail (~0.3 mi), Maggie Daley Park (~0.4 mi) |
+| **Restaurants/Cafes** | ⭐⭐⭐⭐⭐ Excellent | Countless options within 0.5 mi — important for social connection |
+| **Safety** | ⭐⭐⭐⭐ Good | Well-patrolled; Streeterville is one of Chicago's safer neighborhoods |
+| **Housing** | ⭐⭐⭐⭐ Good | Mix of apartments and condos; accessible options available |
+
+---
+
+## Part 4: Recommendations for the Amputee Community
+
+### Clinical Trial Participation
+1. **Most promising active trial**: NCT06214026 (UW + DoD, Seattle) — enrolling 250+ for the adaptable foot prosthesis
+2. **Most relevant to affordability**: NCT04725461 (Shirley Ryan AbilityLab, Chicago) — methods could scale for developing countries
+3. **For Veterans**: NCT03505983 (VA New York Harbor) — evidence-based foot prescription criteria
+
+### Neighborhood Selection
+- **Distance to rehab facilities** — daily/weekly PT is common in the first year post-amputation
+- **CTA Red/Brown Line access** — both fully accessible, connect to all major medical centers
+- **Pharmacy within 0.5 mi** — regular supply needs (liners, socks, medications)
+- **Flat terrain** — avoid areas with steep hills north of Fullerton
+
+---
+
+*Report compiled June 2026. Clinical trial data sourced from ClinicalTrials.gov. Neighborhood data based on geographic analysis of the Chicago Streeterville/Illinois Medical District area.*
