@@ -57,7 +57,7 @@ We identified and analyzed **10 recent clinical studies** on prosthetic devices 
 | **Network** | 4 | 1.0% | PreventPAP (7 hospitals), MIRA multi-site |
 | **Other Gov** | 9 | 2.1% | Non-US government bodies (ZonMw Netherlands, etc.) |
 
-> **Key Implication:** 68.1% academic/hospital sponsorship = highly favorable for affordability innovation. MIRA is NIH-funded; PreventPAP involves ZonMw + 7 Dutch hospitals. SRA's low-cost foam socket study is a promising model for underserved populations. Three studies are currently **actively recruiting** (NCT06886295, NCT06719245, NCT07645729, NCT05768802).
+> **Key Implication:** 68.1% academic/hospital sponsorship = highly favorable for affordability innovation. MIRA is NIH-funded; PreventPAP involves ZonMw + 7 Dutch hospitals. SRA's low-cost foam socket study is a promising model for underserved populations. Four studies are currently **actively recruiting** (NCT06886295, NCT06719245, NCT07645729, NCT05768802).
 
 ---
 
@@ -90,7 +90,8 @@ Shirley Ryan AbilityLab is the **#1-ranked rehabilitation hospital in the US** (
 
 ---
 
-## 🏙️ Neighborhood Livability Report — Shirley Ryan AbilityLab Research Campus
+## 📍 Neighborhood Livability Report — Shirley Ryan AbilityLab Research Campus
+
 *Analysis radius: ~1.5 km (Bridgeport, Chicago, IL 60608)*
 
 ### 🚶 Mobility & Accessibility
@@ -117,7 +118,7 @@ Shirley Ryan AbilityLab is the **#1-ranked rehabilitation hospital in the US** (
 - **Jewel-Osco Pharmacy (3640 S Halsted)** — ~1 km; full-service pharmacy
 - **Chinatown Plaza Pharmacies** — ~700 m; multiple options including 24-hour options
 
-### 🏬 Daily Living
+### 🎯 Daily Living
 - **Chinatown Plaza** — ~700 m; Asian groceries, pharmacies, restaurants, accessibility-friendly
 - **Jewel-Osco** — ~1 km; groceries + pharmacy
 - **Dunkin'** — ~470 m; **24/7**, wheelchair accessible
@@ -136,7 +137,7 @@ Multiple ADA-accessible transit options within walking distance:
 - **18+ bus stops** within 1.5 km covering routes 8, 9, 36, 62, 60, and more
 - **Water Taxi Chinatown**: Wheelchair-accessible boat service along Chicago River
 
-### 🏠 Housing & Community
+### 🏘️ Housing & Community
 - Mix of pre-war apartments & new construction; accessible units available
 - SRA peer mentoring programs for amputees
 - Vocational rehab via IL DCFS/IDOR (CTA accessible)
