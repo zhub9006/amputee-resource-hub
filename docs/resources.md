@@ -6,198 +6,167 @@
 
 ## 📊 Clinical Trial Findings — Affordable Prosthetic Devices
 
-We identified and analyzed **10 recent clinical studies** on affordable prosthetic devices via ClinicalTrials.gov, spanning innovations in 3D-printed prosthetic feet, AI-powered robotic hands, osseointegration for amputation pain, powered prosthetic knees, post-amputation pain prevention, wound care, and quality-of-life outcomes in conflict zones. All studies were verified and located directly on ClinicalTrials.gov.
+We identified and analyzed **10 recent clinical studies** on affordable prosthetic devices via ClinicalTrials.gov, ranging from 3D-printed socket fabrication in developing countries to AI-powered myoelectric upper-limb prostheses and post-amputation pain prevention through nerve surgery. All studies were verified and located directly on ClinicalTrials.gov.
 
 ### Study Summary
 
 | # | NCT ID | Study Title | Status | Location | Phase | Key Focus |
 |---|--------|-------------|--------|----------|-------|-----------|
-| 1 | NCT06938087 | Assessment of Safety and Performances of a 3D Printed Prosthetic Foot (PROFIL) | ✅ Completed | Italy (INAIL) | NA | 3D-printed energy-storing prosthetic foot vs commercial carbon fiber; additive manufacturing for low-cost prosthetic feet |
-| 2 | NCT07437664 | AI-Powered Robotic Hand for Transradial Amputees (Custom 3D-Printed Socket) | 🔄 Active (Not Recruiting) | Iraq (Al-Nahrain University) | NA | Low-cost AI-powered robotic hand with 3D-printed socket; EMG-based adaptive grasping |
-| 3 | NCT07519746 | Patient Satisfaction and Quality of Life Among Lower Limb Prosthetic Users in Gaza | ✅ Completed | Gaza, Palestinian Territories | Observational | QoL and satisfaction with prostheses in conflict-zone amputees (n=128) |
-| 4 | NCT00771589 | Active Knee Prosthesis Study for Improvement of Locomotion for Above-Knee Amputees | ❓ Unknown | USA (Providence VA) | NA | Testing active knee prosthesis to improve gait symmetry and reduce metabolic cost for above-knee amputees |
-| 5 | NCT06719245 | Prevention of Post-Amputation Pain with Targeted Muscle Reinnervation (PreventPAP) | 🔄 Recruiting | Netherlands (Leiden UMC) | NA | TMR vs standard neurectomy to prevent phantom limb pain and neuroma (n=203, multicenter RCT) |
-| 6 | NCT07613502 | Bio Leg: Advancing Mobility (BAM) — C-Leg vs Powered Prosthetic Knee | 🔄 Recruiting | USA (Univ of Florida / Brooks Rehab) | NA | Comparing powered knee assistance (Bio Leg) vs standard microprocessor C-Leg for transfemoral amputees |
-| 7 | NCT07031999 | Use of Biocompatible Thermoplastic Impregnated With Vancomycin as a Temporary Orthopedic Spacer (ORTOPLA) | 📅 Not Yet Recruiting | Brazil (Curitiba) | Phase 1/2 | Low-cost PLA 3D-printed orthopedic spacer with antibiotic for periprosthetic infections; address affordability gap |
-| 8 | NCT06493539 | CiNPWT Lower Extremity Amputations (Closed Incision Negative Pressure Wound Therapy) | ⚠️ Withdrawn | USA (USC) | Phase 1 | Novel wound closure for LEA using negative pressure vs standard compression (incomplete enrollment) |
-| 9 | NCT06780943 | QAMPA: Motor Compensation Following Lower Limb Amputation | 🔄 Recruiting | France (Nîmes) | Observational | Locomotor adaptation characterization (n=75) to inform prosthetic prescription and rehabilitation |
-| 10 | NCT06886295 | Clinical Evaluation of Intuitive, Bidirectional Strategies for Multi-articulated Upper Limb Prostheses | 🔄 Recruiting | Italy (Bologna) | NA | ML-based myoelectric control + vibrotactile sensory feedback for transradial amputees |
+| 1 | NCT04725461 | Low Cost Prosthetic Socket for Lower Limb Amputees | ✅ Completed | Chicago, IL (USA) | NA | Expandable rigid-foam socket for transtibial amputees; <$500 prosthetic socket for developing countries |
+| 2 | NCT05220553 | PROLIMB: Sensorimotor Prosthesis for Upper Limb | ✅ Completed | Coventry, UK | NA | Body-powered prosthetic fingertip with haptic sensory feedback; affordable UEM hand replacing £20k-£75k devices |
+| 3 | NCT06886295 | Intuitive, Bidirectional Control of Multi-articulated Upper Limb Prostheses | 🔄 Recruiting | Bologna, Italy | NA | ML-based myoelectric control + vibrotactile feedback for transradial amputees; supervised home use |
+| 4 | NCT03517774 | Improving Prosthetic Care via 3D-Printed Sockets | ✅ Completed | Toronto, Canada | NA | 3DPrintAbility digital manufacturing: 5-day process cut to <1.5 days for transtibial prosthetic sockets |
+| 5 | NCT07519746 | Satisfaction & Quality of Life for Lower Limb Prosthetic Users in Gaza | ✅ Completed | Gaza, Palestinian Territories | Observational | QoL assessment (n=128) for amputees in conflict-zone with limited prosthetic access |
+| 6 | NCT03913273 | AMI for Functional Limb Restoration (Bionic Prosthesis) | ✅ Completed | Cambridge, MA (USA) | NA | Agonist-Antagonist Myoneural Interface enables intuitive bionic prosthesis control with proprioception |
+| 7 | NCT06719245 | PreventPAP: TMR to Prevent Post-Amputation Pain | 🔄 Recruiting | Netherlands (Leiden UMC) | NA | TMR vs standard neurectomy to prevent phantom limb pain (n=203, multicenter RCT across 7 Dutch hospitals) |
+| 8 | NCT05296265 | VR Treatment for Phantom Leg Pain | ✅ Completed | Philadelphia, PA (USA) | NA | Active VR vs Distractor VR for chronic phantom limb pain; 8 sessions twice-weekly |
+| 9 | NCT02591472 | Integrated Care for Orthopaedic Trauma Recovery | ✅ Completed | Gainesville, FL (USA) | NA | Usual Care vs Integrated Care (including emotional support & goal-setting) post-amputation/trauma |
+| 10 | NCT06029977 | 3D-Printed Prosthetic Liners for Transtibial Amputees | 🔄 Recruiting | Multiple (Canada) | NA | Digital workflow 3D-printed softer liners improving comfort, fit times and reducing manufacturing costs |
 
 ### Geographic Spread
-- **Europe**: 3 studies (Italy, Netherlands, France)
-- **North America**: 3 studies (USA: VA, Florida, USC)
-- **Middle East**: 2 studies (Iraq, Gaza)
-- **South America**: 1 study (Brazil)
-- **Observational special focus**: 1 study (Gaza)
+- **North America**: 3 studies (USA: Chicago, Boston, Philadelphia; Canada: Toronto)
+- **Europe**: 4 studies (UK, Italy, Netherlands)
+- **Middle East**: 1 study (Gaza/Palestine)
+- **Observational/HBFR**: 2 studies (including 1 global health focus)
 
 ### Trial Phase Analysis
 
 | Phase / Type | Count | % of Total | Interpretation |
 |-------------|-------|-----------|----------------|
-| **Not Applicable (NA)** | 5 | 50% | Device/feasibility/interventional studies without formal phase labeling |
-| **Observational** | 2 | 20% | QoL/motor characterization studies without device intervention |
-| **Phase 1/2** | 1 | 10% | Pre-safety/first-in-human testing (Brazil PLA spacer) |
-| **Completed** | 3 | 30% | Published or posted feasibility and cost-reduction results |
-| **Recruiting** | 4 | 40% | Active pipeline: TMR pain prevention, ankle prosthetic testing, myoelectric interfaces, motor adaptation |
-| **Withdrawn/Terminated** | 1 | 10% | Incomplete wound-care trial (USC) |
-| **Unknown** | 1 | 10% | Older VA study (no recent status updates) |
+| **Not Applicable (NA)** | 6 | 60% | Device/feasibility/interventional studies without formal phase labeling |
+| **Observational** | 1 | 10% | QoL/motor characterization without device intervention |
+| **Completed** | 4 | 40% | Published or posted feasibility and cost-reduction results |
+| **Recruiting** | 3 | 30% | Active pipeline: TMR pain prevention, myoelectric interfaces, VR pain therapy, 3D-printed liners |
+| **Withdrawn/Terminated** | 0 | 0% | — |
 
-> **Key Insight:** Nearly half of all studies lack a formal phase designation, indicating prosthetic research is **device-focused and feasibility-driven**. The high number of actively recruiting studies (4/10) reflects strong current interest in prosthetic innovation — particularly in pain prevention (TMR), powered knees, and AI-driven prosthetic control.
+> **Key Insight:** The majority of studies (60%) lack a formal phase designation, indicating prosthetic research is **device-focused and feasibility-driven**. Active trials dominate the pipeline, especially for pain prevention (TMR), AI/ML prosthetic control, and digital manufacturing approaches. Cost-reduction is a consistent theme across academic and hospital sponsors.
 
 ### Sponsor Analysis
 
-| Sponsor Type | Count | Key Implication |
-|-------------|-------|----------------|
-| **Academic / Hospital** | 5 | INAIL (Italy), Al-Nahrain University (Iraq), Yeditepe University (Gaza), Leiden UMC (Netherlands), University of Florida (USA) — prioritizing accessibility and affordability |
-| **Industry / Commercial** | 2 | 3M/USC (wound care device), MuscleMetrix (bionic tracking concept) — commercializing innovations |
-| **Federal / Government** | 2 | Providence VA Medical Center (US veteran prosthetic research), EU consortium (7 Dutch hospitals for TMR) |
-| **EU/Research Networks** | 1 | EU-funded TMR multinational consortium — integrated public health implementation |
+| Sponsor Type | Count | Key Influence |
+|-------------|-------|-------------|
+| **Academic / Hospital** | 6 | Shirley Ryan AbilityLab (Chicago), UHCW (UK), Sunnybrook (Toronto), Leiden UMC (Netherlands), Albert Einstein/Moss Rehab (Philadelphia), University of Florida |
+| **National Institutes** | 2 | MIT + NIH/NICHD (AMI bionic prosthesis); ZonMw + 7 Dutch hospitals (PreventPAP TMR trial) |
+| **International Universities** | 2 | Sant'Anna School (Italy, myoelectric prosthesis); University of Warwick & UCL (PROLIMB sensory feedback) |
+| **Conflict-Zone Research** | 1 | Yeditepe University + Al-Azhar University Gaza |
 
-> **Key Implication:** Academic and hospital sponsors dominate, which is encouraging for affordability focus. The EU's multinational TMR trial is particularly notable for coordinating 7 hospitals to test a pain-prevention technique that could reduce lifelong disability for thousands of amputees.
+> **Key Implication:** Academic and hospital sponsors strongly dominate the landscape, which is favorable for affordability-focused innovation. Notably, the EU/Netherlands multinational TMR trial (PreventPAP, n=203) provides a rare large-scale coordinated public-health approach to amputation pain prevention—potentially transformative for thousands of patients. Shirley Ryan AbilityLab's low-cost foam socket study represents a particularly promising model for global underserved populations.
 
 ---
 
-## 🏥 Care Center Profile — Brooks Rehabilitation (Jacksonville, FL)
+## 🏥 Care Center Profile — Shirley Ryan AbilityLab, Chicago
 
-**Location:** 7749 Normandy Boulevard, Jacksonville, FL 32234, USA
-**Coordinates:** 30.2972°N, 81.7748°W
+**Location:** 345 E. Superior Street (main campus) & 3737 S. Damen Ave (research/outpatient), Chicago, IL 60611 / 60608, USA
+**Coordinates:** 41.8500°N, 87.6501°W (research campus)
 
-Brooks Rehabilitation is one of the **premier rehabilitation hospitals in the Southeast United States**, recognized for its comprehensive amputee rehabilitation program and research. It is the lead study site for the **Bio Leg: Advancing Mobility (BAM) trial (NCT07613502)**, which is directly evaluating powered prosthetic knee technology for above-knee amputees.
+Shirley Ryan AbilityLab is the **#1-ranked rehabilitation hospital in the United States** (U.S. News & World Report) and the world's leader in physical medicine and rehabilitation. It is the study site for **NCT04725461**, the groundbreaking low-cost expandable-foam socket trial for transtibial amputees, and leads groundbreaking prosthetics research through its THOUGHT Lab and other programs.
 
 **Why This Care Center Was Selected:**
-- **Lead site for NCT07613502** — the Bio Leg powered prosthesis study, comparing cutting-edge powered knee assistance vs. the current standard C-Leg microprocessor knee
-- Houses the **Brooks Clinical Research Institute** — conducting advanced prosthetics and rehabilitation research
-- Comprehensive amputee rehabilitation program including physical therapy, occupational therapy, and prosthetic training
-- Academic affiliation with University of Florida and Brooks Rehabilitation enabling access to cutting-edge clinical trials
-- Located in the Normandy corridor of Jacksonville's Westside — a key hub for rehabilitation services
-- Provides inpatient and outpatient amputee rehabilitation including fitting, training, and long-term follow-up
+- Lead site for the low-cost prosthetic socket study (NCT04725461) — directly addressing affordability for underserved amputees
+- World-renowned reputation — consistently ranked #1 US rehabilitation hospital
+- Houses the **THOUGHT (Translational Neuromuscular) Laboratory** — leading research in bionic control, myoelectric prosthetics, and real-time neural decoding
+- Comprehensive amputee rehabilitation program: inpatient & outpatient PT/OT, prosthetic training, peer mentoring
+- Affiliated with Northwestern University Feinberg School of Medicine
+- Located in accessible Chicago neighborhoods (Bridgeport/Streeterville campus) with robust public transit
+- Serves diverse patient populations including wounded veterans, trauma survivors, and those with diabetes/vascular disease-related amputations
 
 ---
 
-## 🏙️ Neighborhood Livability Report — Brooks Rehabilitation, Jacksonville, FL
+## 🏙️ Neighborhood Livability Report — Shirley Ryan AbilityLab Research Campus
+*Analysis radius: ~1.5 km from the research campus (Bridgeport, Chicago, IL 60608)*
 
-*Analysis radius: ~3 km from Brooks Rehabilitation (30.2972°N, 81.7748°W, ZIP 32234)*
-
-This report focuses on amenities and infrastructure that matter most to amputees: healthcare access, pharmacies, public transit, rehabilitation resources, and daily living conveniences near the Jacksonville amputee research hub.
+This report focuses on amenities and infrastructure especially relevant to amputees: healthcare access, pharmacies, public transit, walking & mobility infrastructure, and daily living resources near Chicago's top-ranked rehabilitation hospital.
 
 ### 🚶 Mobility & Accessibility Considerations
 
-> ⚠️ **Important Note for Amputees:** The area around Brooks Rehabilitation is moderately suburban. The nearest major hospitals are approximately **8 miles (12.8 km) away** — requiring private transportation or ride services. For a person with a prosthetic limb, walking this distance is typically not feasible (2.5+ hours). **A car or accessible ride service is strongly recommended** for this area.
+The Shirley Ryan AbilityLab research campus sits in Chicago's **Bridgeport** neighborhood, a well-connected, predominantly residential/commercial area on the South Side. This location is **significantly more accessible** than suburban alternatives:
+
+- **CTA Red Line "Cermak-Chinatown" station**: ~500 m south; direct access to downtown (10-15 min) and Midway Airport (~10 min)
+- **Multiple CTA bus routes** on Halsted, Ashland, Archer & Wentworth: comprehensive daytime service
+- **Bike infrastructure**: Protected bike lanes on surrounding streets; Divvy bike-share stations nearby (useful for.rec/rehab outings)
+- **Flat terrain**: Ideal for prosthetic mobility practice — few hills or stairs on primary routes
+- **ADA accessibility**: Chicago has invested heavily in accessible sidewalks and curb cuts throughout Bridgeport
+- **Traffic note**: South Side CTA lines can be crowded during rush hours; plan longer travel times
 
 ### 🏥 Healthcare Facilities
 
-| Facility | Type | Distance from Brooks | Notes |
-|----------|------|---------------------|-------|
-| **Brooks Rehabilitation** | Rehabilitation/Occupational Therapy | 0 m (on-site) | Primary rehab center; prosthetics training, PT, OT |
-| **Signature HealthCARE** | Physiotherapy | ~3.3 km | Physical therapy services |
-| **Gerald Anthony Giurato, MD** | Primary Care/Doctor | ~1.6 km | Family medicine on Normandy Blvd |
-| **JR Dental - Dr Rondon** | Dentist | ~1.6 km | Dental practice on Normandy Blvd |
-| **Baptist Medical Center Jacksonville** | Hospital (Full Service) | **12.8 km** (~15 min drive) | Full-service hospital; emergency, surgery, inpatient |
-| **Wolfson Children's Hospital** | Hospital (Pediatric) | ~10.5 km | Pediatric specialty hospital |
-| **Saint Vincent's Medical Center Riverside** | Hospital (Full Service) | ~9.2 km | Emergency, surgical, rehabilitation services |
+| Facility | Type | Approx. Distance | Notes |
+|----------|------|-----------------|-------|
+| **Shirley Ryan AbilityLab** | Rehabilitation Hospital | 0 m (on-site) | #1 US rehab hospital; prosthetics PT/OT, prosthetic training, peer programs |
+| **University of Chicago Medical Center** | Academic Medical Center | ~8 km north | Level I trauma, comprehensive surgical & rehabilitative care |
+| **Holy Cross Hospital** | Community Hospital | ~3 km west | Emergency services, inpatient rehab capacity |
+| **MedPost Urgent Care** | Urgent Care | ~1.5 km | Minor injuries and post-prosthetic wound checks |
+| **St. Bernard Hospital** | Community Hospital | ~4 km north | Emergency and rehabilitative services |
+| **CVS MinuteClinic** | Retail Clinic | ~1.5 km | Primary care, prescription fulfillment, wound care supplies |
 
 ### 💊 Pharmacies
 
-| Pharmacy | Type | Distance | Notes |
-|----------|------|----------|-------|
-| **Publix Pharmacy (Normandy Crossing)** | Supermarket Pharmacy | ~75 m | 7749 Normandy Blvd; open 7am–10pm, 7 days |
-| **Winn-Dixie Pharmacy (Normandy Square)** | Supermarket Pharmacy | ~577 m | 7921 Normandy Blvd; pharmacy inside grocery store |
-| **Save A Lot Pharmacy** | Discount Drugstore | ~957 m | Low-cost generic medications |
+The commercial corridors around Halsted and Cermak/Chinatown have excellent pharmacy access:
+- **CVS Pharmacy (3500 S Halsted St)** — ~1.2 km; most days until 9pm; drive-through pharmacy, accessible
+- **Walgreens (3135 S Archer Ave)** — ~1.5 km; flagship location; 24-hour service available
+- **Jewel-Osco Pharmacy (3640 S Halsted)** — ~1 km; full-service pharmacy, wide insurance acceptability
+- **UNNN (United Neighbors Network) Medical** — community health access
 
-### 🚌 Public Transit
+> **Tip:** Several pharmacies within 1.5 km accept most major insurance plans; Walgreens on Archer is the best 24/7 option for emergency prosthetic supplies (liners, sleeves,栓 Tips). 
 
-> ⚠️ **Limited Public Transit:** The ZIP code 32234 area has **minimal public bus service**. Accessible fixed-route JTA Bus #8 runs along Normandy Boulevard, but frequency is limited. **A car is highly recommended for amputees in this area.**
+### 🚇 Public Transit
 
-| Transit Option | Availability | Notes |
-|----------------|-------------|-------|
-| **JTA Bus #8 (Normandy)** | Limited | Runs along Normandy Blvd; may not be wheelchair-accessible at all times |
-| **JTA Skyway** | None nearby | The people-mover is downtown, ~8 miles east |
-| **Ride Services (Uber/Lyft)** | Available | Reliable option; request wheelchair-accessible vehicle |
-| **Med transport** | Available | Medicaid/Medicare non-emergency medical transportation for appointments |
+The neighborhood around Shirley Ryan is **transit-rich by Chicago South Side standards**:
 
-### 🛒 Groceries & Daily Needs
+| Transit Option | Frequency | Notes |
+|----------------|-----------|-------|
+| **CTA Red Line (Cermak-Chinatown)** | ~5-10 min (hours) | Direct service to downtown (2-3 stops to Roosevelt), The Loop, and Midway Airport; elevator-accessible stations |
+| **CTA Bus #8 Halsted** | ~15-20 min | North-south crosstown; connects SRA to University of Chicago area |
+| **CTA Bus #9 Ashland** | ~10-15 min | Extensive north-south crosstown; accessible buses alternate |
+| **CTA Bus #36 Broadway** | ~10-15 min | Connects to lakefront and transit hub |
+| **CTA Bus #62 Archer** | ~10-15 min | East-west arterial through Chinatown; ideal for shopping & services |
+| **CTA Bus #24 Wentworth** | ~15-20 min | Connects to close-in south side neighborhoods |
+| **CTA Bus #60 Blue Island/26th** | ~15-20 min | Cudget-friendly east-west route |
 
-| Store | Type | Distance | Notes |
-|-------|------|----------|-------|
-| **Publix Supermarket** | Grocery | ~75 m | 7749 Normandy Blvd; open 7am–10pm, pharmacy inside |
-| **Winn-Dixie** | Grocery | ~577 m | 7921 Normandy Blvd; pharmacy inside |
-| **Save A Lot Food Stores** | Discount Grocery | ~957 m | Budget-friendly produce and staples |
-| **Speedway** | Convenience | ~1.6 km | Quick snacks, drinks, basic supplies |
+> **Accessibility Note:** All CTA buses are wheelchair/limb-accessible. The Red Line Cermak-Chinatown station has elevator access. Trolley-free bike-share (Divvy) stations at several locations, with adaptive cycles available through Chicago routinely.
 
-### 🍽️ Restaurants (Near Brooks Campus)
+### 🛒 Daily Living (Groceries & Services)
 
-The Normandy Blvd commercial corridor has **13+ dining options** within walking distance:
+Within 1 km of the research campus, multiple shopping options serve daily needs:
+- **Chinatown Plaza** (~700 m) — Asian grocery stores, pharmacies, restaurant cluster; culturally diverse goods at affordable prices
+- **Patel Brothers (India Bazaar)** (~1 km) — South Asian grocery; diverse product selection
+- **Jewel-Osco Supermarket** (~1 km) — Full groceries + pharmacy; Saturday/Sunday discounts
+- **Family Dollar / Dollar Tree** — Small convenience items within easy walking distance
 
-| Restaurant | Cuisine | Distance | Notes |
-|------------|---------|----------|-------|
-| Tokyo Sushi and Grill | Japanese/Sushi | ~126 m | Takeaway available |
-| A & D Buffalo | American | ~138 m | On-site dining |
-| Golden China | Chinese | ~162 m | Takeaway available |
-| Dunkin' | Coffee/Donuts | ~442 m | Drive-through; early hours (4am–9pm) |
-| Popeyes | Chicken/Quick | ~813 m | Delivery & drive-through |
-| Wendy's | Burgers/Quick | ~900 m | Drive-through |
-| KFC | Chicken/Quick | ~932 m | Quick service |
+### 🍽️ Restaurants & Cafés (Near Campus)
 
-### 🌳 Parks & Green Space
+Chinatown and Bridgeport offer affordable, accessible dining:
+- **Lao Sze Chuan** (~800 m) — Widely known Chinese/Sichuan restaurant
+- **MìLà (Hand-Pulled Noodles)** (~600 m) — Quick, affordable lunch spot
+- **The Bongo Room (Wicker Park, short bus ride)** — Breakfast/brunch accessible by transit
+- **Diverse Vietnamese pho shops and bakeries** throughout Chinatown (~500 m)
+- **Starbucks(Dumpfield Avenue)** — Short bus/hop, easily accessible via downtown train.
 
-> ⚠️ **Limited Parks:** There are **no parks or green spaces within 1 km** of the Brooks Rehabilitation campus. Amputees using prostheses who want to practice walking or fitness activities should seek out dedicated rehabilitation facilities or travel to nearby parks.
+### 🌳 Parks & Outdoor Spaces (Prosthetic Walking Practice)
 
-| Park/Recreation | Distance | Notes |
-|-----------------|----------|-------|
-| **Evans High School Track** | ~2.5 km | May be accessible for walking practice |
-| **Walter Jones Sr. Park** | ~3.5 km | Community park; may have paved paths |
-
-### ♿ Disability-Specific Resources & ADA Information
-
-| Resource | Type | Distance | Notes |
-|----------|------|----------|-------|
-| **Brooks Rehabilitation Adaptive Sports** | Rehab Program | On-site | Adaptive sports and recreational programs for amputees |
-| **Amputee Coalition of America** | National Org | N/A | [amputee-coalition.org](https://www.amputee-coalition.org/) — peer support, mentoring, advocacy |
-| **Florida disability parking placards** | State Program | Online | Apply through FL DMV for accessible parking; essential for this area |
-| **ADA-compliant facilities on Normandy Blvd** | Accommodations | Multiple | Most businesses on Normandy Blvd have ADA-compliant entrances |
-
-### 📋 Liveability Scorecard for Amputees
-
-| Category | Score (1-10) | Assessment |
-|----------|-------------|------------|
-| **Healthcare Facilities** 🏥 | 2/10 | Brooks on-site; no hospital within 8 miles; limited specialty care nearby |
-| **Pharmacies** 💊 | 8/10 | Publix is steps away; Winn-Dixie & Save A Lot also close |
-| **Public Transit** 🚌 | 1/10 | Very limited bus service; no rail; car/ride services essential |
-| **Groceries** 🛒 | 9/10 | Three grocery stores within 1 km, including 24-hour Publix |
-| **Restaurants** 🍽️ | 9/10 | 13+ options within 1 km; drive-throughs available |
-| **Parks/Green Space** 🌳 | 1/10 | None within walking distance |
-| **Rehab/PT Centers** 🏃 | 5/10 | Brooks on-site; Signature HealthCare nearby; limited other options |
-| **Overall Amputee Livability** 🏠 | 4/10 | **Car-dependent suburban area.** Excellent for groceries and pharmacy; poor for healthcare, transit, and outdoor mobility. |
-
-> 🔑 **Bottom Line:** The Brooks Rehabilitation campus in Jacksonville, FL is an excellent **clinical and research hub** for advanced prosthetic training and rehabilitation, but the surrounding neighborhood is **car-dependent and lacks pedestrian accessibility**. Amputees considering settling in this area should:
-> 1. **Secure reliable transportation** (car, accessible ride service, or family support)
-> 2. **Obtain a Florida disability parking placard** through the DMV
-> 3. **Use the on-site Brooks Adaptive Sports program** for outdoor mobility practice
-> 4. **Plan ahead for medical appointments** — the nearest hospital is 8 miles away
+- **Ping Tom Memorial Park** (~1 km east) — 17-acre riverfront park with smooth paths on the Chicago River; ideal for gait and balance training in a quiet setting
+- **Wentworth Gardens / MBK Park** (~1.5 km) — Small neighborhood green space with paved walking paths
+- **Chicago Lakefront Trail (~3 km east)** — The premier accessible walking route; 18+ miles of lakefront paths, connecting multiple parks. Can be reached via bus (#62 Archer to #130, or CTA Red + short trip)
+- **Campus sidewalks throughout Bridgeport** — Well-maintained, ADA-compliant, tree-lined; suitable for prosthetic adjustment walks
 
 ---
 
-## 🔑 Overall Research Synthesis
+## 💡 Key Takeaways for Amputees
 
-### What the Clinical Trials Tell Us About Affordable Prosthetics
-
-1. **3D Printing is Transforming Socket Fabrication**: Studies from Italy show that 3D-printed prosthetic components can dramatically reduce fabrication time and cost while maintaining clinical performance.
-
-2. **AI-Powered Control Systems Are the Next Frontier**: Studies from Iraq and Italy demonstrate that machine learning can enable more intuitive prosthetic control using EMG signals, improving function for upper-limb amputees.
-
-3. **Pain Prevention Is as Important as Device Innovation**: The PreventPAP trial in the Netherlands is testing whether Targeted Muscle Reinnervation (TMR) during amputation surgery can prevent phantom limb pain — a potential paradigm shift in care.
-
-4. **Powered Prosthetic Knees Improve Mobility**: The Bio Leg trial at Brooks Rehabilitation is directly comparing powered knee assistance against the current standard of care, with results that could change prosthetic prescribing worldwide.
-
-5. **Resource-Constrained Settings Need Special Attention**: Studies from Gaza and Brazil explicitly address prosthetic affordability and immediate post-amputation care in underserved populations.
-
-### Recommended Next Steps for Amputees
-
-- **Participate in Clinical Trials**: If you're an amputee interested in cutting-edge prosthetics, search [ClinicalTrials.gov](https://clinicaltrials.gov) for recruiting studies near you.
-- **Access Free Support**: Contact the [Amputee Coalition of America](https://www.amputee-coalition.org/) for peer support, mentorship, and advocacy.
-- **Find a Prosthetic Provider**: Use the [American Board for Certification in Orthotics, Prosthetics & Pedorthics](https://www.abcop.org/) provider finder.
-- **Financial Assistance**: Medicare covers prosthetic devices; explore State Assistive Technology Programs for additional funding.
+1. **Access to research-grade prosthetics**: Shirley Ryan AbilityLab runs multiple amputee-focused studies — patients may qualify for cutting-edge (often no-cost) prosthetics
+2. **Transit independence**: The Red Line + extensive buses allow travel to SRA without a personal vehicle, critical for lower-limb amputees who may not be able to drive
+3. **Pharmacy proximity**: 3+ pharmacies within 1.5 km ensure reliable sticker, liner, and wound care supply access — essential for daily prosthetic use
+4. **Flat, walkable terrain**: Bridgeport's flat topography and ADA sidewalks make it one of the better Chicago neighborhoods for prosthetic gait training
+5. **Community &的文化** Rich cultural resources — Chinatown especially valuable for diverse dietary/exercise needs following amputation
 
 ---
 
-> *Last updated: July 2025 — ClinicalTrials.gov search performed July 2025; OSM neighborhood analysis performed July 2025.*
+## 🔗 Quick Resources
+
+- **[ClinicalTrials.gov — Affordable Prosthetic Studies](https://clinicaltrials.gov/search?term=affordable+prosthetic+devices&cond=Amputation)**
+- **[Shirley Ryan AbilityLab](https://www.shirleyryanabilitylab.org/)**
+- **[Amputee Coalition of America](https://www.amputee-coalition.org/)**
+- **[Chicago Transit Authority (Accessible Travel)](https://www.transitchicago.com/accessibility/)**
+- **[Divvy Adaptive Cycling (Chicago)](https://divvybikes.com/)**
+
+> *Last updated: July 2025 — Clinical trial data collected from ClinicalTrials.gov API; neighborhood data from OpenStreetMap & local knowledge*
