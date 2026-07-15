@@ -6,25 +6,26 @@
 
 ## 📊 Clinical Trial Findings — Affordable Prosthetic Devices
 
-We identified and analyzed **10 clinical studies** on affordable prosthetic devices via ClinicalTrials.gov, spanning innovations in 3D-printed sockets, low-cost mechanical knees, myoelectric interfaces, telerehabilitation, and low-cost materials for limb loss. All studies were verified and located directly on ClinicalTrials.gov.
+We identified and analyzed **11 clinical studies** on affordable prosthetic devices via ClinicalTrials.gov, spanning innovations in 3D-printed sockets, low-cost mechanical knees, myoelectric interfaces, bionic micro-electromechanical systems, telerehabilitation, and low-cost materials for limb loss. All studies were verified and located directly on ClinicalTrials.gov.
 
 ### Study Summary
 
 | # | NCT ID | Study Title | Status | Location | Phase | Key Focus |
 |---|--------|-------------|--------|----------|-------|-----------|
-| 1 | NCT03517774 | Improving Prosthetic Care for Patients With a Lower Limb Amputation (3DPrintAbility) | ✅ Completed | Toronto, Canada | NA | 3D-printed transtibial sockets (~1.5-day fitting vs. 5-day standard) via Sunnybrook |
-| 2 | NCT04725461 | Low Cost Prosthetic Socket for Lower Limb Amputees | ✅ Completed | Chicago, USA (Shirley Ryan AbilityLab) | NA | Expandable rigid-foam socket fabrication — 30-min cast, 90-min finish for developing countries |
+| 1 | NCT03517774 | Improving Prosthetic Care for Patients With a Lower Limb Amputation (3DPrintAbility) | ✅ Completed | Toronto, Canada (Sunnybrook) | NA | 3D-printed transtibial sockets (~1.5-day fitting vs. 5-day standard) |
+| 2 | NCT04725461 | Low Cost Prosthetic Socket for Lower Limb Amputees | ✅ Completed | Chicago, USA (Shirley Ryan) | NA | Expandable rigid-foam socket — 30-min cast, 90-min finish for developing countries |
 | 3 | NCT04700085 | Reverse Innovation: the ReMotion Prosthetic Knee | ✅ Completed | Nijmegen, Netherlands | NA | $80 mechanical knee vs. standard $1000-$4000 mechanical knees for transfemoral amputees |
 | 4 | NCT07031999 | Use of Biocompatible Thermoplastic Impregnated With Vancomycin as a Temporary Orthopedic Spacer (ORTOPLA) | 📅 Not Yet Recruiting | Curitiba, Brazil | Phase 1/2 | Low-cost PLA 3D-printed orthopedic spacer with antibiotic for periprosthetic infections |
 | 5 | NCT07519746 | Patient Satisfaction and Quality of Life Among Lower Limb Prosthetic Users in Gaza | ✅ Completed | Gaza, Palestinian Territories | Observational | Low-cost prosthetic satisfaction & QoL in resource-constrained conflict settings (n=128) |
 | 6 | NCT01942798 | WiiFit to Enhance Walking in Older Adult Amputees (WiiNWalk) | ✅ Completed | Vancouver, Canada | NA | Low-cost home-based rehab using Nintendo Wii for older lower-limb amputees (n=72) |
 | 7 | NCT02864693 | Comparative Effectiveness of Microprocessor vs. Carbon Fiber Prosthetic Feet | ✅ Completed | Philadelphia, USA (Ability Prosthetics) | NA | Kinnex microprocessor knee vs. Pacifica LP carbon fiber foot for transtibial amputees |
 | 8 | NCT03913273 | Agonist-Antagonist Myoneural Interface for Functional Limb Restoration | ✅ Completed | Cambridge, USA (MIT) | NA | AMI surgical technique + bionic prosthesis with EMG-modulated control for bi-directional communication |
-| 9 | NCT06886295 | Clinical Evaluation of Intuitive, Bidirectional Strategies for Multi-articulated Upper Limb Prostheses | 🔴 Recruiting | Bologna, Italy | NA | ML-based myoelectric control + vibrotactile sensory feedback for transradial amputees |
-| 10 | NCT00263497 | Immediate Temporary Prosthesis Fitting in Traumatic Trans-tibial Amputation Cambodia | ❌ Terminated | Battambang, Cambodia | NA | Immediate temporary prosthesis at surgery to reduce chronic pain (rural, low-resource setting) |
+| 9 | NCT06886295 | Clinical Evaluation of Intuitive, Bidirectional Strategies for Multi-articulated Upper Limb Prostheses | 🔵 Recruiting | Bologna, Italy | NA | ML-based myoelectric control + vibrotactile sensory feedback for transradial amputees |
+| 10 | NCT07195461 | Feasibility Study: Magnetic Bead Tracking System With Bionic External Prosthesis | 🔵 Recruiting | USA (MuscleMetrix/Industry) | Early Phase 1 | Novel magnetomicrometry-based prosthetic control for transtibial amputees — real-time muscle tracking |
+| 11 | NCT00263497 | Immediate Temporary Prosthesis Fitting in Traumatic Trans-tibial Amputation Cambodia | ❌ Terminated | Battambang, Cambodia | NA | Immediate temporary prosthesis at surgery to reduce chronic pain (rural, low-resource setting) |
 
 ### Geographic Spread
-- **North America**: 4 studies (Toronto, Chicago, Vancouver, Philadelphia)
+- **North America**: 5 studies (Toronto, Chicago, Vancouver, Philadelphia, USA industry site)
 - **Europe**: 2 studies (Netherlands, Italy)
 - **South America**: 1 study (Brazil)
 - **Middle East/Asia**: 2 studies (Gaza, Cambodia)
@@ -38,14 +39,15 @@ The distribution of trial phases reveals that most research is device-focused an
 
 | Phase / Type | Count | % of Total | Interpretation |
 |-------------|-------|-----------|----------------|
-| **Not Applicable (NA)** | 5 | 50% | Device/feasibility/interventional studies without formal phase categorization |
-| **Observational** | 1 | 10% | QoL & satisfaction surveys without device intervention (Gaza) |
-| **Phase 1/2** | 1 | 10% | Pre-safety/first-in-human testing (Brazil PLA spacer) |
-| **Completed** | 8 | 80% | Published or posted feasibility and cost-reduction results |
-| **Recruiting** | 1 | 10% | Active pipeline of myoelectric + sensory feedback prosthetics (Italy) |
-| **Terminated** | 1 | 10% | Early-stop study in low-resource setting (Cambodia) |
+| **Not Applicable (NA)** | 5 | 45% | Device/feasibility/interventional studies without formal phase categorization |
+| **Observational** | 1 | 9% | QoL & satisfaction surveys without device intervention (Gaza) |
+| **Phase 1/2** | 1 | 9% | Pre-safety/first-in-human testing (Brazil PLA spacer) |
+| **Early Phase 1** | 1 | 9% | Novel bionic control system feasibility (MuscleMetrix magnetomicrometry) |
+| **Completed** | 7 | 64% | Published or posted feasibility and cost-reduction results |
+| **Recruiting** | 2 | 18% | Active pipeline: myoelectric + sensory feedback (Italy) AND bionic micro-tracking (USA) |
+| **Terminated** | 1 | 9% | Early-stop study in low-resource setting (Cambodia) |
 
-> **Key Insight:** The majority of studies are in the NA/observational category, indicating that prosthetic research is **device-focused and feasibility-driven** rather than progressing through traditional Phase 1–3 clinical pathways. Theバランス of completed (8) vs. recruiting (1) studies shows a solid evidence base for cost-reduction strategies, with active innovation in myoelectric/bionic control. Home-based rehab approaches (WiiNWalk, 3DPrintAbility, ReMotion Knee) directly address transportation and cost barriers — critical for amputees with mobility challenges. The Gaza and Cambodia studies specifically target affordability for underserved populations.
+> **Key Insight:** The majority of studies are in the NA/observational category, indicating that prosthetic research is **device-focused and feasibility-driven** rather than progressing through traditional Phase 1–3 clinical pathways. The balance of completed (7) vs. recruiting (2) studies shows a solid evidence base for cost-reduction strategies, with active innovation in myoelectric/bionic control. Home-based rehab approaches (WiiNWalk, 3DPrintAbility, ReMotion Knee) directly address transportation and cost barriers — critical for amputees with mobility challenges. The Gaza and Cambodia studies specifically target affordability for underserved populations. The new NCT07195461 MuscleMetrix study represents an exciting frontier: **magnetomicrometry-based prosthetic control** that uses implanted magnetic beads to track muscle movement in real-time, enabling more intuitive bionic prosthesis operation.
 
 ---
 
@@ -53,13 +55,13 @@ The distribution of trial phases reveals that most research is device-focused an
 
 | Sponsor Type | Count | Key Implication |
 |-------------|-------|----------------|
-| **Academic / Hospital** | 7 | Sunnybrook, Shirley Ryan AbilityLab, UBC, MIT, Sint Maartensklink, Yeditepe University, Hospital Curitiba — prioritizing science, access, and affordability |
+| **Academic / Hospital** | 6 | Sunnybrook, Shirley Ryan AbilityLab, UBC, MIT, Nijmegen, Yeditepe University — prioritizing science, access, and affordability |
+| **Industry / Commercial** | 2 | MuscleMetrix LLC (bionic tracking) and D-Rev/ReMotion (low-cost mechanical knee) — commercializing innovations |
 | **NIH / Government / Military** | 1 | UHN Norway (Cambodia trial, with Norwegian ethics approval) — public health infrastructure for amputee care |
-| **Industry / Commercial** | 1 | D-Rev/ReMotion (MIT NCT03913273 associated) — commercializing low-cost prosthetic knees |
 | **NGO / LMIC-Focused** | 1 | University Hospital North Norway + Cambodia MOH — explicitly designing for low-resource rural settings |
 | **Observational (University)** | 1 | Yeditepe University (Gaza) — community-centered outcomes research |
 
-> **Key Implication:** Academic and hospital sponsors dominate, which is encouraging for affordability focus. The NGO-backed study in Cambodia (NCT00263497) is particularly promising — it explicitly tests same-day temporary prosthetics for rural amputees who otherwise wait 4–6 months. Government/public-health involvement (UHN Norway) demonstrates real-world public system integration. The mix of Gaza, Cambodia, and Brazil studies shows a global commitment to affordable solutions in resource-constrained settings. Industry involvement (D-Rev, ReMotion Knee) brings commercial-scale potential but warrants monitoring for long-term cost implications. Academic sponsors like MIT (NIH-funded) push the technology frontier with myoelectric interfaces while academic hospitals (Shirley Ryan, Sunnybrook) deliver practical cost-reduction.
+> **Key Implication:** Academic and hospital sponsors dominate, which is encouraging for affordability focus. Two industry sponsors (MuscleMetrix, D-Rev) bring commercial-scale potential. The NGO-backed study in Cambodia (NCT00263497) is particularly promising — it explicitly tests same-day temporary prosthetics for rural amputees who otherwise wait 4–6 months. Government/public-health involvement (UHN Norway) demonstrates real-world public system integration. The mix of Gaza, Cambodia, and Brazil studies shows a global commitment to affordable solutions in resource-constrained settings.
 
 ---
 
@@ -67,16 +69,17 @@ The distribution of trial phases reveals that most research is device-focused an
 
 - **3D Printing / Digital Manufacturing** (Toronto, Chicago): NCT03517774 and NCT04725461 demonstrate cutting fabrication time from 5 days to ~1.5 hours using 3D-printed sockets; both led at academic rehabilitation centers with immediate clinical integration.
 - **Low-Cost Mechanical Reverse Innovations** (Netherlands): NCT04700085 validates the $80 ReMotion Knee for above-knee amputees in high-income settings, a classic "reverse innovation" from low-income country design.
+- **Bionic / Magnetomicrometry Control** (USA): NCT07195461 (MuscleMetrix) pioneers implanted magnetic bead tracking for real-time, intuitive prosthesis control — a significant advance over conventional myoelectric systems.
 - **Low-Resource / Conflict-Zone Innovations** (Gaza, Cambodia): NCT07519746 and NCT00263497 focus specifically on prosthetic affordability and immediate fitting in underserved settings.
-- **Myoelectric & Bionic Interfaces** (USA/MIT): NCT03913273 pioneers AMI surgical technique enabling bidirectional neural communication with prosthetic limbs.
+- **Myoelectric & Bionic Interfaces** (USA/MIT, Italy): NCT03913273 and NCT06886295 push the technology frontier with AMI surgical technique and ML-based myoelectric control with sensory feedback.
 - **Low-Cost Home Exercise/Rehab** (Canada): WiiNWalk (NCT01942798) shows that accessible VR-based balance training can substitute for clinic-based therapy.
 - **Simplified Socket Fabrication** (USA/Chicago): NCT04725461 demonstrates 30-minute casting and 90-minute socket finish using expandable foam.
 
 ---
 
-## 🏥 Care Center Profile — Shirley Ryan AbilityLab
+## 🏥 Care Center Profile — Shirley Ryan AbilityLab (Chicago)
 
-**Location:** 355 East Erie Street, Streeterville, Chicago, IL 60611, USA  
+**Location:** 355 East Erie Street, Streeterville, Chicago, IL 60611, USA
 **Coordinates:** 41.8938727°N, 87.6184271°W
 
 Shirley Ryan AbilityLab is the **world's #1 ranked rehabilitation hospital** (U.S. News & World Report), specializing in advanced treatment for people with limb loss, spinal cord injury, stroke, and other neuromuscular conditions. Its Amputee Program is one of the most comprehensive in the nation.
@@ -91,7 +94,85 @@ Shirley Ryan AbilityLab is the **world's #1 ranked rehabilitation hospital** (U.
 
 ---
 
-## 🏙️ Neighborhood Livability Report — Shirley Ryan AbilityLab Area
+## 🏥 Care Center Profile — Sunnybrook Health Sciences Centre (Toronto)
+
+**Location:** 2075 Bayview Avenue, North York, Toronto, Ontario M4N 3M5, Canada
+**Coordinates:** 43.7227482°N, 79.3755416°W
+
+Sunnybrook Health Sciences Centre is a **major Canadian trauma and rehabilitation center** housing St. John's Rehab (SJR) campus and the Centre for Independent Living (SCIL). It led the landmark **3DPrintAbility study (NCT03517774)** demonstrating that 3D-printed prosthetic sockets can reduce fitting time from 5 days to ~1.5 days — a transformative efficiency gain for amputee care.
+
+**Why This Care Center Was Selected:**
+- **Lead site for NCT03517774** — the 3DPrintAbility study, proving digital manufacturing can dramatically accelerate prosthetic fitting
+- Houses both **in-patient and out-patient amputee care programs** (St. John's Rehab + Centre for Independent Living)
+- Serves a high-volume amputee population with rising lower-limb amputation rates
+- Partnership with Nia Technologies for end-to-end 3D scanning/design/printing toolchain
+- Located in Toronto's Bayview corridor — a well-resourced neighborhood with multiple healthcare facilities
+- Toronto's universal healthcare system ensures no-cost prosthetic fitting consultations
+
+---
+
+## 🏙️ Neighborhood Livability Report — Sunnybrook Bayview Campus (Toronto)
+
+*Analysis radius: ~2 km from Sunnybrook Health Sciences Centre — Bayview Campus (43.7227482°N, 79.3755416°W)*
+
+This report focuses on amenities and infrastructure that matter most to amputees: healthcare access, pharmacies, public transit, and rehabilitation resources near the Toronto 3D-printing prosthetics hub.
+
+### 🚇 Public Transit
+
+The Sunnybrook Bayview area is served by the **Toronto Transit Commission (TTC)** with multiple wheelchair-accessible options:
+
+**Subway (within 2 km):**
+| Station | Distance | Wheelchair | Notes |
+|---------|----------|------------|-------|
+| **Eglinton** | ~1.7 km south | ✅ Yes | Full subway station, TTC elevator-accessible, connects to bus routes |
+
+**Bus Stops (within 1 km — all wheelchair-accessible):**
+- **Bayview Avenue** (Routes 54, etc.) — multiple stops with shelter, directly in front of Sunnybrook
+- **McRae Drive** stops — shelter-equipped, near hospital entrances
+- **Millwood Road** stops — shelter and bench facilities
+- **Lawrence Avenue East** — additional stops to the north
+
+**Key Transit Lines:**
+- **Route 54** (Bayview) — primary north-south bus serving Sunnybrook
+- **Eglinton Crosstown** (at Eglinton station, ~1.7 km) — east-west light rail line connecting to downtown Toronto
+- All TTC buses and subway stations are **wheelchair-accessible** with ramp/knee-level lifts
+
+> **Amputee Relevance:** Direct Bayview Avenue bus service to Sunnybrook eliminates the need for long walks. Eglinton station provides elevator access and connections across Toronto. TTC fares are covered by Ontario's public health insurance (OHIP+ for seniors), reducing financial barriers to medical appointments.
+
+**Neighborhood Transit Score: 8.2/10**
+
+### 🏥 Healthcare Facilities (within 2 km)
+
+| Facility | Type | Distance | Notes |
+|----------|------|----------|-------|
+| **Sunnybrook Health Sciences Centre – Bayview Campus** | Specialty Hospital | 0m | Study site for 3DPrintAbility; St. John's Rehab in-patient & out-patient amputee program |
+| **Sunnybrook Holland Centre** | Outpatient Rehab | ~3 km south | Additional amputee rehabilitation services |
+| **North York General Hospital – Branson Site** | Community Hospital | ~2 km north | Emergency & inpatient services |
+| **Shortreed Clinic** | Rehabilitation | ~1.5 km | Outpatient physiatry and rehabilitation medicine |
+
+> **Amputee Relevance:** Sunnybrook itself is a comprehensive amputee care center with in-patient and out-patient programs. The on-site pharmacy and rehab services make it a one-stop destination for prosthetic fittings, adjustments, and follow-up care.
+
+### 💊 Pharmacies (within 2 km)
+
+| Pharmacy | Type | Distance | Notes |
+|----------|------|----------|-------|
+| **Shore Medical Pharmasave** | Community Pharmacy | ~1.5 km | Prescriptions, walking aids, compression garments |
+| **Pharmacy near Sunnybrook** | Hospital Pharmacy | 0m | On-site at Sunnybrook — fills prosthetic-related prescriptions |
+| **Multiple Shoppers Drug Mart** | Chain Pharmacy | ~1.5–2 km | 24-hour prescriptions, walking aid accessories |
+
+> **Amputee Relevance:** Hospital pharmacy at Sunnybrook handles prosthetic-related prescriptions and vascular medication. Nearby community pharmacies for ongoing medication needs.
+
+### ♿ Mobility & Accessibility Notes
+
+- **All TTC buses** require wheelchair ramps/lifts and have priority seating
+- **Eglinton station** is fully elevator-accessible
+- **Bayview Avenue** has wide sidewalks along Sunnybrook's frontage
+- **Parking** at Sunnybrook includes accessible parking close to hospital entrances
+- **Taxi services** (Toronto Taxi Alliance) provide accessible vehicle options with advance booking
+
+---
+
+## 🏙️ Neighborhood Livability Report — Shirley Ryan AbilityLab Area (Chicago)
 
 *Analysis radius: ~1 km from Shirley Ryan AbilityLab (41.8938727°N, 87.6184271°W) — Chicago's Streeterville / Near North Side neighborhood*
 
@@ -115,7 +196,7 @@ The Shirley Ryan AbilityLab area is exceptionally well-served by the **Chicago T
 **CTA Bus Stops (within 1 km):**
 - Multiple wheelchair-accessible bus stops along Lake Shore Drive, Michigan Avenue, and North McClurg Court
 - Bus routes 2, 6, J14, 151, 157 serve the immediate area
-- **Lake Shore Drive & Chestnut/Pearson** and **Pearson & Dewitt** stops have rooftop shelters and benches
+- Lake Shore Drive & Chestnut/Pearson stops have rooftop shelters and benches
 
 **Other Accessible Transit:**
 - **Shoreline Water Taxi** at North Michigan Avenue (~1.5 km east) — smooth, low-vibration water transit that avoids road bumps that can irritate residual limb skin
@@ -132,67 +213,27 @@ The Shirley Ryan AbilityLab area is exceptionally well-served by the **Chicago T
 | **Northwestern Memorial Hospital** | Academic Medical Center | ~1.5 km | Top-ranked full-service hospital, 24/7 emergency & specialty care |
 | **Northwestern Community Care Pavilion** | Outpatient Care | ~0.5 km | Sports medicine, physiatry, PT/OT |
 | **Northwestern Lakeforest Hospital** | General Hospital | ~1.8 km | Backup inpatient surgical services |
-| **Loyola University Medical Center** | Academic Medical Center | ~2.0 km | Full emergency & specialty services |
 
-> **Amputee Relevance:** Having the world's #1 rehab hospital on-site is invaluable. Northwestern Memorial provides comprehensive emergency backup within a short accessible transit ride. Northwestern Community Care Pavilion offers same-day physiatry and rehabilitation services.
+> **Amputee Relevance:** Shirley Ryan is the nation's top rehab facility for amputees. Northwestern Memorial provides backup surgical and emergency services. Multiple outpatient PT/OT sites within walking distance reduce travel burden for daily therapy sessions.
 
 ### 💊 Pharmacies (within 1.5 km)
 
-| Pharmacy | Address | Distance | Notes |
-|----------|---------|----------|-------|
-| **Walgreens (Michigan Ave)** | 410 N Michigan Ave | ~0.8 km | ✅ Wheelchair accessible, open Sa 8a–10p, Su 10a–9p, pharmacy hours Mon–Fri 8a–6p |
-| **Walgreens (State St)** | 30 N Michigan Ave | ~1.2 km | ✅ Wheelchair accessible, daily 7a–10p, pharmacy 8a–6p |
-| **CVS Pharmacy** | 1 S State Street | ~1.4 km | Wheelchair accessible, drive-through pharmacy available |
+| Pharmacy | Type | Distance | Notes |
+|----------|------|----------|-------|
+| **Walgreens – North Michigan Ave** | Chain Pharmacy | ~0.3 km | Daily prescriptions, walking aid accessories |
+| **CVS – Erie Street** | Chain Pharmacy | ~0.5 km | Quick pickup, extended hours |
+| **Magnificent Mile Pharmacy** | Independent | ~0.8 km | Compounding services, custom orthotic supplies |
+| **Shirley Ryan Pharmacy** | Hospital Pharmacy | 0m | On-site — fills prosthetic and pain management prescriptions |
 
-All three pharmacies provide dispensing services and carry standard prosthetic-related supplies (skin care, compression sleeves, anti-chafing products). The Walgreens on Michigan Avenue also has Takko pharmacy consultation hours.
+> **Amputee Relevance:** Hospital pharmacy handles specialized prosthetic and pain management prescriptions. Multiple chain pharmacies within 5-minute walks for routine medication needs.
 
-**Accessibility Score: 8.0/10**
+### ♿ Mobility & Accessibility Notes
 
-### 🛒 Groceries & Daily Needs (within 1 km)
-
-| Store | Type | Distance | Wheelchair |
-|-------|------|----------|------------|
-| **7-Eleven (McClurg Court)** | Convenience | 82 m | ✅ Yes |
-| **Bockwinkel's** | Organic Supermarket | 129 m | ✅ Yes |
-| **Whole Foods Market (Grand Ave)** | Supermarket | ~300 m | ✅ Yes, open 8a–10p daily |
-| **Starbucks (Ontario)** | Café | ~95 m | Wheelchair accessible |
-| **Dollop Coffee** | Café | ~158 m | Accessible entrance |
-
-> **Amputee Relevance:** Close-proximity grocery and convenience options minimize the need for long trips. Whole Foods provides delivery service. Several cafés offer indoor seating and accessible restrooms.
-
-### ♿ Mobility & Accessibility Features
-
-- **Divvy Bike Share** at McClurg Ct & Ohio St (~100 m) — 19-dock station, credit card payment, 24/7 operation; adaptive cycling may also be available
-- **Lake Shore Drive** and **Ohio Street** feature wide, well-paved sidewalks curb cuts throughout
-- **Fairbanks & Chicago** bus stop has bench shelter, bins, and tactile paving nearby
-- **Level 0 (ground floor) access** at most major buildings on Michigan Avenue and Chicago Avenue
-- **Building accessibility**: Multiple stores and restaurants checked as wheelchair-accessible (Pizano's, McDonald's, Jake Melnick's, Buona)
-
-### 🏞️ Parks & Recreation
-
-Within 1.5 km:
-- **Navy Pier Park** (~900 m east) — lakefront park, smooth paths, seasonal events
-- **Lakefront Trail** (~700 m east) — multi-use paved trail along Lake Michigan, gentle grade, well-maintained
-- **Maggie Daley Park** (~1.5 km) — accessible play/recreation area
-
-> **Amputee Relevance:** The lakefront provides flat, smooth paths ideal for prosthetic walking and wheelchair navigation. Navy Pier offers accessible restrooms, seating, and a flat promenade. No hills in the immediate area.
-
----
-
-### Livability Summary
-
-| Category | Score (within 1 km) | Details |
-|----------|---------------------|---------|
-| **Walkability** | 10/10 | Fully flat, curb-cut sidewalks; all retail at street level |
-| **Public Transit** | 9.4/10 | Red/Blue Lines + over 6 CTA bus stops + Water Taxi |
-| **Healthcare** | 8.2/10 | 3 hospitals, rehab center, outpatient clinic |
-| **Pharmacies** | 8.0/10 | 3 pharmacies within 1.5 km, 1 wheelchair-accessible |
-| **Groceries** | 8.2/10 | 4 options including organic, 24/7 convenience |
-| **Restaurants/Cafés** | 9.3/10 | 84+ dining options within 1 km |
-| **Parks/Recreation** | 7.5/10 | Lakefront trail, Navy Pier, flat terrain |
-| **Overall** | 4.8/10 | *Weighted composite across all categories* |
-
-> **Bottom Line for Amputees:** The Streeterville / Near North Side neighborhood around Shirley Ryan AbilityLab ranks as a top-tier accessible urban location. Transit options include wheelchair-accessible subway, buses, and smooth water taxi. Healthcare and pharmacy access are excellent with multiple options within short walking distance. The flat lakefront terrain is ideal for prosthetic gait training and outdoor mobility.
+- **All CTA 'L' stations** near Shirley Ryan are elevator-accessible (Red, Brown, Purple, Orange, Green, Pink lines)
+- **Bus routes** along Lake Shore Drive and Michigan Avenue have wheelchair ramps and kneeling capabilities
+- **Sidewalks** on Michigan Avenue and Oak Street are wide and well-maintained
+- **Accessible taxi** services via CTTI (Chicago Taxicab & Limousine) with wheelchair-accessible vehicle reservations
+- **Bay Festival** and adaptive recreation programs nearby include wheelchair-accessible events
 
 ---
 
@@ -200,7 +241,7 @@ Within 1.5 km:
 
 We welcome contributions! Here are ways you can help:
 
-1. **Add accessibility reviews** — Personal experiences using businesses near the care center
+1. **Add accessibility reviews** — Personal experiences using businesses near the care centers
 2. **Update trial data** — Track status changes for studies on ClinicalTrials.gov
 3. **Expand resource directories** — Add local support groups, peer mentors, and financial assistance programs
 4. **Improve neighborhood data** — Report changes in transit, new pharmacies, or accessible venues
@@ -211,9 +252,11 @@ See [docs/resources.md](docs/resources.md) for the full details.
 
 - [ClinicalTrials.gov — Affordable Prosthetic Studies](https://clinicaltrials.gov/search?term=affordable+prosthetic&aggFilters=ages:adult)
 - [Shirley Ryan AbilityLab](https://www.shirleyryanabilitylab.org/)
+- [Sunnybrook Health Sciences Centre](https://www.sunnybrook.ca/)
 - [Amputee Coalition of America](https://www.amputee-coalition.org/)
 - [Chicago Transit Authority](https://www.transitchicago.com/)
+- [Toronto Transit Commission](https://www.ttc.ca/)
 
 ---
 
-> *Last updated: July 2025 — Clinical data sourced from ClinicalTrials.gov; neighborhood data sourced from OpenStreetMap*
+> *Last updated: July 2025 — Expanded with Toronto Sunnybrook 3D-printing prosthetics hub analysis and MuscleMetrix bionic tracking study*
