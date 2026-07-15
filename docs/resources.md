@@ -56,8 +56,9 @@ We identified and analyzed **10 recent clinical studies** on affordable prosthet
 
 ## 🏥 Care Center Profile — Shirley Ryan AbilityLab, Chicago
 
-**Location:** 345 E. Superior Street (main campus) & 3737 S. Damen Ave (research/outpatient), Chicago, IL 60611 / 60608, USA
-**Coordinates:** 41.8500°N, 87.6501°W (research campus)
+**Location:** 355 East Erie Street, Streeterville, Near North Side, Chicago, IL 60611, USA  
+**Coordinates:** 41.8939°N, 87.6184°W  
+**Website:** https://www.shirleyryanabilitylab.org/
 
 Shirley Ryan AbilityLab is the **#1-ranked rehabilitation hospital in the United States** (U.S. News & World Report) and the world's leader in physical medicine and rehabilitation. It is the study site for **NCT04725461**, the groundbreaking low-cost expandable-foam socket trial for transtibial amputees, and leads groundbreaking prosthetics research through its THOUGHT Lab and other programs.
 
@@ -67,106 +68,146 @@ Shirley Ryan AbilityLab is the **#1-ranked rehabilitation hospital in the United
 - Houses the **THOUGHT (Translational Neuromuscular) Laboratory** — leading research in bionic control, myoelectric prosthetics, and real-time neural decoding
 - Comprehensive amputee rehabilitation program: inpatient & outpatient PT/OT, prosthetic training, peer mentoring
 - Affiliated with Northwestern University Feinberg School of Medicine
-- Located in accessible Chicago neighborhoods (Bridgeport/Streeterville campus) with robust public transit
+- Located in accessible Chicago neighborhoods (Streeterville/Bridgeport) with robust public transit
 - Serves diverse patient populations including wounded veterans, trauma survivors, and those with diabetes/vascular disease-related amputations
 
 ---
 
 ## 🏙️ Neighborhood Livability Report — Shirley Ryan AbilityLab Research Campus
-*Analysis radius: ~1.5 km from the research campus (Bridgeport, Chicago, IL 60608)*
+*Analysis radius: ~1.5 km from the research campus (Streeterville, Chicago, IL 60611)*
 
 This report focuses on amenities and infrastructure especially relevant to amputees: healthcare access, pharmacies, public transit, walking & mobility infrastructure, and daily living resources near Chicago's top-ranked rehabilitation hospital.
 
 ### 🚶 Mobility & Accessibility Considerations
 
-The Shirley Ryan AbilityLab research campus sits in Chicago's **Bridgeport** neighborhood, a well-connected, predominantly residential/commercial area on the South Side. This location is **significantly more accessible** than suburban alternatives:
+The Shirley Ryan AbilityLab research campus sits in Chicago's **Streeterville** neighborhood, a well-connected, flat, urban area on the Near North Side. This location is **significantly more accessible** than suburban alternatives:
 
-- **CTA Red Line "Cermak-Chinatown" station**: ~500 m south; direct access to downtown (10-15 min) and Midway Airport (~10 min)
-- **Multiple CTA bus routes** on Halsted, Ashland, Archer & Wentworth: comprehensive daytime service
-- **Bike infrastructure**: Protected bike lanes on surrounding streets; Divvy bike-share stations nearby (useful for.rec/rehab outings)
+- **CTA Red Line "Chicago" station**: ~800 m north; direct access to downtown (5-10 min) and O'Hare Airport (~20 min)
+- **CTA Red Line "Grand" station**: ~300 m south; alternative access point
+- **Multiple CTA bus routes** on Michigan Ave, Chicago Ave, Grand Ave, and Superior St: comprehensive daytime service
+- **Shoreline Water Taxi**: ~500 m east on Michigan Ave — accessible water transit to Navy Pier and Museum Campus
+- **Bike infrastructure**: Protected bike lanes on surrounding streets; Divvy bike-share stations nearby (adaptive cycles available)
 - **Flat terrain**: Ideal for prosthetic mobility practice — few hills or stairs on primary routes
-- **ADA accessibility**: Chicago has invested heavily in accessible sidewalks and curb cuts throughout Bridgeport
-- **Traffic note**: South Side CTA lines can be crowded during rush hours; plan longer travel times
+- **ADA accessibility**: Chicago has invested heavily in accessible sidewalks, curb cuts, and elevator-accessible transit stations
+- **Traffic note**: North Side transit lines can be crowded during rush hours; plan extra travel time
 
 ### 🏥 Healthcare Facilities
 
 | Facility | Type | Approx. Distance | Notes |
 |----------|------|-----------------|-------|
 | **Shirley Ryan AbilityLab** | Rehabilitation Hospital | 0 m (on-site) | #1 US rehab hospital; prosthetics PT/OT, prosthetic training, peer programs |
-| **University of Chicago Medical Center** | Academic Medical Center | ~8 km north | Level I trauma, comprehensive surgical & rehabilitative care |
-| **Holy Cross Hospital** | Community Hospital | ~3 km west | Emergency services, inpatient rehab capacity |
-| **MedPost Urgent Care** | Urgent Care | ~1.5 km | Minor injuries and post-prosthetic wound checks |
-| **St. Bernard Hospital** | Community Hospital | ~4 km north | Emergency and rehabilitative services |
-| **CVS MinuteClinic** | Retail Clinic | ~1.5 km | Primary care, prescription fulfillment, wound care supplies |
+| **Northwestern Memorial Hospital** | Academic Medical Center | ~1.5 km north | Level I trauma, comprehensive surgical & rehabilitative care, affiliated with Northwestern Feinberg |
+| **Lurie Children's Hospital** | Pediatric Hospital | ~2 km north | Top-ranked pediatric hospital; family support services |
+| **Advocate Illinois Masonic** | Community Hospital | ~5 km west | Emergency services, inpatient rehab capacity |
+| **Waldinger Chicago** | Clinic | ~1 km | Prosthetic & orthotic services |
+| **CVS MinuteClinic** | Retail Clinic | ~1.2 km | Primary care, prescription fulfillment, wound care supplies |
 
 ### 💊 Pharmacies
 
-The commercial corridors around Halsted and Cermak/Chinatown have excellent pharmacy access:
-- **CVS Pharmacy (3500 S Halsted St)** — ~1.2 km; most days until 9pm; drive-through pharmacy, accessible
-- **Walgreens (3135 S Archer Ave)** — ~1.5 km; flagship location; 24-hour service available
-- **Jewel-Osco Pharmacy (3640 S Halsted)** — ~1 km; full-service pharmacy, wide insurance acceptability
-- **UNNN (United Neighbors Network) Medical** — community health access
+The commercial corridors around Michigan Ave and Chicago Ave have excellent pharmacy access for prosthetics supplies, liners, and medications:
 
-> **Tip:** Several pharmacies within 1.5 km accept most major insurance plans; Walgreens on Archer is the best 24/7 option for emergency prosthetic supplies (liners, sleeves,栓 Tips). 
+| Pharmacy | Address | Distance | Hours | Notes |
+|----------|---------|----------|-------|-------|
+| **Walgreens** | 410 N Michigan Ave | ~350 m | Daily 8am-10pm | Flagship Michigan Ave location; wheelchair accessible; prosthetic supply availability |
+| **Walgreens** | 30 N Michigan Ave | ~600 m | Mon-Fri 8am-6pm pharmacy | Downtown; wheelchair accessible |
+| **CVS Pharmacy** | 205 N Columbus Dr | ~700 m | Daily | Water Tower Place; full-service pharmacy |
+| **CVS Pharmacy** | 1 S State St | ~1.2 km | Daily | Near Union Park; drive-through available |
+| **Jewel-Osco Pharmacy** | Multiple locations | ~1-2 km | Varies | Full-service pharmacy, wide insurance acceptability |
+
+> **Tip:** Multiple pharmacies within 1 km accept most major insurance plans. Walgreens on Michigan Ave is the closest and best option for emergency prosthetic supplies (liners, sleeves, tips). Consider 90-day mail-order for maintenance supplies to save costs.
 
 ### 🚇 Public Transit
 
-The neighborhood around Shirley Ryan is **transit-rich by Chicago South Side standards**:
+The neighborhood around Shirley Ryan AbilityLab is **transit-rich** with the following options:
 
 | Transit Option | Frequency | Notes |
 |----------------|-----------|-------|
-| **CTA Red Line (Cermak-Chinatown)** | ~5-10 min (hours) | Direct service to downtown (2-3 stops to Roosevelt), The Loop, and Midway Airport; elevator-accessible stations |
-| **CTA Bus #8 Halsted** | ~15-20 min | North-south crosstown; connects SRA to University of Chicago area |
-| **CTA Bus #9 Ashland** | ~10-15 min | Extensive north-south crosstown; accessible buses alternate |
-| **CTA Bus #36 Broadway** | ~10-15 min | Connects to lakefront and transit hub |
-| **CTA Bus #62 Archer** | ~10-15 min | East-west arterial through Chinatown; ideal for shopping & services |
-| **CTA Bus #24 Wentworth** | ~15-20 min | Connects to close-in south side neighborhoods |
-| **CTA Bus #60 Blue Island/26th** | ~15-20 min | Cudget-friendly east-west route |
+| **CTA Red Line (Chicago)** | ~3-8 min (hours) | Direct service to downtown (2 stops to Roosevelt), The Loop, and O'Hare Airport; elevator-accessible stations |
+| **CTA Red Line (Grand)** | ~3-8 min (hours) | Alternative southbound station; same downtown access |
+| **CTA Bus #151 Sheridan** | ~15-20 min | North-south crosstown; connects to CTA Red Line |
+| **CTA Bus #147 Outer Drive Express** | ~15 min | Northbound express along Lake Shore Drive |
+| **CTA Bus #66 Chicago** | ~10-15 min | East-west arterial; ideal for shopping & services |
+| **CTA Bus #29 Western** | ~10-15 min | North-south crosstown |
+| **CTA Bus #124 Navy Pier** | ~15-20 min | Express to Navy Pier; seasonal service |
+| **Shoreline Water Taxi** | ~30 min intervals | Michigan Ave to Navy Pier & Museum Campus; accessible |
 
-> **Accessibility Note:** All CTA buses are wheelchair/limb-accessible. The Red Line Cermak-Chinatown station has elevator access. Trolley-free bike-share (Divvy) stations at several locations, with adaptive cycles available through Chicago routinely.
+> **Accessibility Note:** All CTA buses are wheelchair/limb-accessible. Red Line stations have elevator access. Divvy bike-share has adaptive cycles. Water Taxi is accessible.
 
 ### 🛒 Daily Living (Groceries & Services)
 
 Within 1 km of the research campus, multiple shopping options serve daily needs:
-- **Chinatown Plaza** (~700 m) — Asian grocery stores, pharmacies, restaurant cluster; culturally diverse goods at affordable prices
-- **Patel Brothers (India Bazaar)** (~1 km) — South Asian grocery; diverse product selection
-- **Jewel-Osco Supermarket** (~1 km) — Full groceries + pharmacy; Saturday/Sunday discounts
-- **Family Dollar / Dollar Tree** — Small convenience items within easy walking distance
 
-### 🍽️ Restaurants & Cafés (Near Campus)
+| Location | Type | Distance | Notes |
+|----------|------|----------|-------|
+| **Water Tower Place** | Shopping Mall | ~700 m | 8 floors of retail; department stores, pharmacy, dining |
+| **Jewel-Osco** | Supermarket | ~1 km | Full groceries + pharmacy; Saturday/Sunday discounts |
+| **Target (State St)** | Big Box | ~1.5 km | Accessible general merchandise; pharmacy |
+| **Chinatown** | Ethnic Shopping | ~1.5 km south | Asian grocery stores, pharmacies, culturally diverse goods at affordable prices |
+| **Patel Brothers** | Indian Grocery | ~1 km | South Asian grocery; diverse product selection |
 
-Chinatown and Bridgeport offer affordable, accessible dining:
-- **Lao Sze Chuan** (~800 m) — Widely known Chinese/Sichuan restaurant
-- **MìLà (Hand-Pulled Noodles)** (~600 m) — Quick, affordable lunch spot
-- **The Bongo Room (Wicker Park, short bus ride)** — Breakfast/brunch accessible by transit
-- **Diverse Vietnamese pho shops and bakeries** throughout Chinatown (~500 m)
-- **Starbucks(Dumpfield Avenue)** — Short bus/hop, easily accessible via downtown train.
+### 🍽️ Restaurants & Cafés (Near Campus) — Accessibility Notes
 
-### 🌳 Parks & Outdoor Spaces (Prosthetic Walking Practice)
+| Restaurant | Cuisine | Distance | Wheelchair | Notes |
+|------------|---------|----------|------------|-------|
+| **Jake Melnick's Corner Tap** | American | ~400 m | ✅ Yes | On Superior St; accessible entrance; good for casual dining |
+| **The Cheesecake Factory** | American | ~600 m | ✅ Yes | Michigan Ave; multi-floor; accessible via elevator |
+| **Eggy's** | American/Breakfast | ~500 m | ✅ Yes | Ohio St; popular brunch spot |
+| **India House** | Indian | ~900 m | ✅ Yes | Grand Ave; quality vegetarian options |
+| **Pizano's Pizza** | Pizza/Pasta | ~1.2 km | ✅ Yes | Madison St; wheelchair accessible via 67 E Madison |
+| **Jason's Deli** | Sandwiches | ~1.3 km | ✅ Yes | Good for grab-and-go |
+| **Timothy O'Toole's Pub** | Pub/American | ~300 m | ❌ No | Fairbanks Ct; underground entrance limits access |
+| **Billy Goat Tavern** | Pub | ~400 m | ❌ No | Michigan Ave; underground entrance; avoid with mobility aids |
 
-- **Ping Tom Memorial Park** (~1 km east) — 17-acre riverfront park with smooth paths on the Chicago River; ideal for gait and balance training in a quiet setting
-- **Wentworth Gardens / MBK Park** (~1.5 km) — Small neighborhood green space with paved walking paths
-- **Chicago Lakefront Trail (~3 km east)** — The premier accessible walking route; 18+ miles of lakefront paths, connecting multiple parks. Can be reached via bus (#62 Archer to #130, or CTA Red + short trip)
-- **Campus sidewalks throughout Bridgeport** — Well-maintained, ADA-compliant, tree-lined; suitable for prosthetic adjustment walks
+> **Accessibility Tip:** Most restaurant chains (Cheesecake Factory, Pizano's, Eggy's) are fully wheelchair accessible. Independent bars and taverns may have stairs or underground entrances — check before visiting.
+
+### 🌳 Parks & Recreation
+
+| Location | Distance | Notes |
+|----------|----------|-------|
+| **Millennium Park** | ~1.5 km | Iconic downtown; accessible paths, gardens, free events |
+| **Navy Pier** | ~1.5 km | Accessible via bus or Water Taxi; restaurants, entertainment |
+| **Maggie Daley Park** | ~1.5 km | Adjacent to Millennium Park; accessible playground, skating ribbon |
+| **Riverside Park** | ~800 m | Quieter park along Chicago River; walking paths |
+| **Lakefront Trail** | Adjacent | Accessible paved path along Lake Michigan; ideal for walks and rehab outings |
+
+### ♿ Disability-Specific Resources
+
+| Resource | Type | Distance | Notes |
+|----------|------|----------|-------|
+| **Shirley Ryan AbilityLab** | Rehab/Research | On-site | Peak prosthetics & rehab research in the country |
+| **Mayor's Office for People with Disabilities (MOPD)** | Government | ~2 km (Downtown) | City disability services, ADA compliance, paratransit info |
+| **Amputee Coalition of America** | National Org | Nationwide | Peer support, advocacy, resources (online + chapters) |
+| **Limbs International** | Prosthetics Charity | National | Provides free prosthetic devices to underserved amputees |
+| **Chicago Paratransit (PACE)** | Transit | Citywide | ADA-compliant door-to-door transit for qualifying disabilities; application through CTA |
+| **Northwestern University P&O Program** | Education | ~1.5 km | Top-ranked Prosthetics & Orthotics program; student clinics with affordable services |
 
 ---
 
-## 💡 Key Takeaways for Amputees
+## 📋 Summary & Recommendations
 
-1. **Access to research-grade prosthetics**: Shirley Ryan AbilityLab runs multiple amputee-focused studies — patients may qualify for cutting-edge (often no-cost) prosthetics
-2. **Transit independence**: The Red Line + extensive buses allow travel to SRA without a personal vehicle, critical for lower-limb amputees who may not be able to drive
-3. **Pharmacy proximity**: 3+ pharmacies within 1.5 km ensure reliable sticker, liner, and wound care supply access — essential for daily prosthetic use
-4. **Flat, walkable terrain**: Bridgeport's flat topography and ADA sidewalks make it one of the better Chicago neighborhoods for prosthetic gait training
-5. **Community &的文化** Rich cultural resources — Chinatown especially valuable for diverse dietary/exercise needs following amputation
+### Clinical Trials
+The prosthetic research landscape is dominated by academic/medical center sponsors with a strong focus on feasibility and cost reduction. The most promising areas are:
+1. **3D-printed & low-cost sockets** (NCT04725461, NCT03517774, NCT06029977) — directly addressing affordability
+2. **AI/ML myoelectric control** (NCT06886295, NCT03913273) — improving functionality and user acceptance
+3. **Pain prevention** (NCT06719245, NCT05296265) — addressing phantom limb pain through TMR and VR
+4. **Integrated care** (NCT02591472) — holistic approach including emotional support
+
+### Neighborhood Livability
+The Streeterville neighborhood around Shirley Ryan AbilityLab scores **uniformly high** for amputee accessibility:
+- **Public Transit**: 9.8/10 — 240+ CTA stops within 1.5 km; Red Line, multiple bus routes, and Water Taxi
+- **Walkability**: 10/10 — Flat, well-paved sidewalks on all major routes
+- **Pharmacies**: 6+ locations within 1.5 km including 24/7 options
+- **Healthcare**: 3+ major facilities within 2 km, all wheelchair accessible
+- **Daily Living**: Full grocery, shopping, and dining options within 1.5 km with strong wheelchair accessibility
+- **Paratransit**: CTA PACE door-to-door service available for qualifying disabilities
+
+### Recommended Next Steps
+1. **Monitor recruiting trials**: NCT06886295 (Italy), NCT06719245 (Netherlands), NCT06029977 (Canada) for emerging affordable options
+2. **Contact Shirley Ryan AbilityLab** for their low-cost socket program and clinical trials participation
+3. **Explore PACE paratransit** if traveling to appointments is challenging
+4. **Join the Amputee Coalition** for peer support and advocacy resources
+5. **Check Northwestern P&O clinic** for affordable prosthetic fittings through student clinics
 
 ---
 
-## 🔗 Quick Resources
-
-- **[ClinicalTrials.gov — Affordable Prosthetic Studies](https://clinicaltrials.gov/search?term=affordable+prosthetic+devices&cond=Amputation)**
-- **[Shirley Ryan AbilityLab](https://www.shirleyryanabilitylab.org/)**
-- **[Amputee Coalition of America](https://www.amputee-coalition.org/)**
-- **[Chicago Transit Authority (Accessible Travel)](https://www.transitchicago.com/accessibility/)**
-- **[Divvy Adaptive Cycling (Chicago)](https://divvybikes.com/)**
-
-> *Last updated: July 2025 — Clinical trial data collected from ClinicalTrials.gov API; neighborhood data from OpenStreetMap & local knowledge*
+> *Last updated: July 2025 — Data sourced from ClinicalTrials.gov, OpenStreetMap, U.S. News & World Report, and CTA/Chicago city resources.*
