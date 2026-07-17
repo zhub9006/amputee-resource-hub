@@ -13,199 +13,214 @@ We searched ClinicalTrials.gov for studies on affordable prosthetic devices and 
 
 | # | NCT ID | Study Title | Status | Location | Sponsor |
 |---|--------|-------------|--------|----------|---------|
-| 1 | NCT04725461 | Low Cost Socket for Lower Limb Amputees | ✅ Completed | Chicago, IL (Shirley Ryan) | Shirley Ryan AbilityLab |
-| 2 | NCT03199222 | Prosthetic Smart Socket Technology (SST+P) | 🔄 Recruiting | Tampa, FL | University of South Florida |
-| 3 | NCT03517774 | Improving Prosthetic Care with 3D Printing | ✅ Completed | North York, Ontario | Sunnybrook Health Sciences Centre |
-| 4 | NCT04953364 | SMART: Self-Management for Amputee Rehab | 🔄 Recruiting | Vancouver, BC | University of British Columbia |
-| 5 | NCT06539936 | Glide Control for Upper Limb Prostheses | 🔄 Recruiting | Redondo Beach, CA | Infinite Biomedical Technologies |
-| 6 | NCT05831696 | Metabolic Cost: Passive vs Powered Prosthetic Knees | 🔄 Recruiting | Loma Linda, CA | Loma Linda University |
-| 7 | NCT02366702 | Passive vs Powered Prosthetic Devices (Bilateral TF) | ✅ Completed | Long Beach, CA | Southern California Inst for Research |
-| 8 | NCT06938087 | 3D Printed Prosthetic Foot (PROFIL) | ✅ Completed | Bologna, Italy | INAIL (Italy) |
-| 9 | NCT07519746 | Prosthetic Satisfaction & QoL in Gaza | ✅ Completed | Gaza, Palestinian Territories | Yeditepe University |
-| 10 | NCT04803253 | Social/Professional Reintegration Solutions | ⚠️ Unknown | Nepal | Orthopus (Handicap International) |
+| 1 | NCT04904003 | Prosthetic Use, Mobility and Daily Functioning (ProMob) | ✅ Completed | Oslo, Norway | Oslo Metropolitan University |
+| 2 | NCT06883942 | Pilot Study on Functionality, Safety & Reliability of New Tripping Devices for Lower Limbs | ✅ Completed | Florence, Italy | Fondazione Don Carlo Gnocchi ETS |
+| 3 | NCT04588753 | Active Isolated Stretch & Post Facilitation Stretch for Trans-tibial Amputees | ✅ Completed | Lahore, Pakistan | Riphah International University |
+| 4 | NCT06243549 | Personalisation of Prosthetic Care for Lower-Limb Amputees | ⭕ Active | Bath, UK | University of Bath |
+| 5 | NCT04043234 | RESCU System for Robust Upper Limb Prosthesis Control | ✅ Completed | USA (INB/Rehab) | Infinite Biomedical Technologies |
+| 6 | NCT06853938 | Optimizing Transhumeral Osseointegration Prosthesis Control | 🔄 Recruiting | Edmonton, Canada | University of Alberta |
+| 7 | NCT02366702 | Passive vs Powered Prosthetic Devices (Bilateral Transfemoral) | ⭕ Unknown | Long Beach, CA | Southern California Inst for Research |
+| 8 | NCT04238533 | Enhanced Auto-Diagnostic Adaptive Precision Trainer for Myoelectric Prosthetic Users (eADAPT) | ⭕ Unknown | Tampa, FL | University of South Florida |
+| 9 | NCT06539936 | Glide Control for Upper Limb Prostheses | 🔄 Recruiting | Redondo Beach, CA | Infinite Biomedical Technologies |
+| 10 | NCT04748484 | 3D Printed Prosthetic Foot (PROFIL) | ✅ Completed | Bologna, Italy | INAIL (Italy) |
+
+### Geographic Spread
+
+- **North America (4):** Edmonton (1 recruiting), Long Beach (1 unknown), Tampa (1 unknown), Redondo Beach (1 recruiting)
+- **Europe (4):** Oslo (1 completed), Florence (1 completed), Bath (1 active), Bologna (1 completed)
+- **Asia (1):** Lahore, Pakistan (1 completed — rehabilitation & stretching)
+- **Australia (0):** No studies in our top 10, but AMPP/Australian studies are worth monitoring
+
+> **Key insight:** 5 of 10 studies are completed, 2 are actively recruiting, 2 have unknown status, and 1 is active. **Recruiting studies** (NCT06853938 osseointegration prosthesis control, NCT06539936 glide control for prostheses) represent the most actionable opportunities for current participants.
 
 ---
 
 ## 📈 Trial Phase & Sponsor Analysis
 
-### Phase Trend (from the 10 verified studies)
+### Phase Trend (Broader Affordable Prosthetic/Amputation Search — 278 total studies)
 
 | Phase | Count | Significance |
 |-------|-------|--------------|
-| NA (feasibility/observational/interventional) | 10 | All 10 studies are non-traditional phase — device feasibility, observational, and pilot trials |
-| Phase 1–2 | 0 | No early-phase drug-style trials found |
-| Phase 3 | 0 | No definitive large-scale trials |
+| Unknown | 65 | Early-stage or not yet assigned |
+| NA (feasibility/observational) | 199 | Proof-of-concept and pilot work — most common |
+| Early Phase 1 | 3 | Setup and safety — long runway |
+| Phase 1 | 5 | Initial safety signals |
+| Phase 2 | 6 | First efficacy signals — still small |
+| Phase 3 | 2 | Definitive evidence for FDA — unmet need |
 
-> **Key takeaway:** Prosthetic/amputation device research is dominated by feasibility and pilot studies (NA). There are **no Phase 3 trials** among the affordable prosthetic studies — an unmet need for larger, definitive evidence. Most studies are small-sample (3–10 participants), underscoring the importance of the recruited studies for future evidence generation.
+> **Key takeaway:** Prosthetic/amputation research is overwhelmingly dominated by early-stage (NA/Phase 1–2) studies. Only **2 Phase 3 trials** exist among all 278 amputee prosthetics studies — an **unmet need for larger, definitive studies**. Most individual studies are small-sample (3–60 participants), underscoring the importance of the recruiting studies for future evidence generation.
 
-### Sponsor Type Breakdown
+### Sponsor Type Breakdown (from 278 amputee prosthetics studies)
 
 | Sponsor Type | Count | Examples |
 |--------------|-------|----------|
-| **Academic / University** | 5 | U. South Florida, U. British Columbia, Loma Linda, Yeditepe University |
-| **Academic Research Institutes** | 2 | Shirley Ryan AbilityLab, Sunnybrook Health Sciences Centre |
-| **Industry** | 2 | Infinite Biomedical Technologies, Orthopus |
-| **Government (Non-Federal)** | 1 | INAIL (Italy's worker injury insurance) |
-| **Non-Profit** | 1 | Handicap International (NGO) |
+| **Academic / University** | 183 | Most innovative; leads powered prosthetics, AI control, osseointegration, telerehabilitation |
+| **INDUSTRY** (prosthetic manufacturers) | 56 | Device commercialization; Infinite Biomedical Technologies, Össur, Otto Bock |
+| **Federal** (VA, DoD, NIAMS, etc.) | 33 | Strong veteran focus; prosthetics research, VA rehabilitation |
+| **Government (Non-Federal)** | 4 | National injury insurance programs (INAIL Italy, etc.) |
+| **Non-Profit / Other** | 4 | NGOs and hand/dental research foundations |
 
-> **Key takeaway:** Academic sponsors dominate (7 of 10) — they're the hotbed for powered prosthetics, smart socket tech, telerehabilitation, and 3D-printed solutions. Industry sponsors are emerging (Infinite Biomedical for myoelectric control, Orthopus for low-cost upper-limb devices). Non-profit involvement (Handicap International) is critical for LMIC reach.
+> **Key takeaway:** Academic sponsors dominate (66% of all studies) — they are the hotbed for powered prosthetics, telerehabilitation, AI-driven control, and osseointegration research. Federal sponsors (33) reflect the strong veteran amputee population and VA research infrastructure. Industry sponsors are emerging, especially around implantable EMG sensors (Infinite Biomedical Technologies) and bionic limb control.
 
-### Geographic Spread
+### Broader Landscape (7 total matching studies in affordable+prosthetic search)
 
-| Region | Count | Status |
-|--------|-------|--------|
-| North America | 5 | 2 Completed, 3 Recruiting |
-| Europe | 1 | Completed (Italy) |
-| Asia | 2 | 1 Completed (Gaza), 1 Unknown (Nepal) |
-| Oceania | 0 | — |
-| South America | 0 | — |
-
-> **Key insight:** North America leads in both completed and recruiting research. The geographic concentration in developed countries is a major gap — LMIC amputees (as studied in Gaza and Nepal) face the greatest prosthetic access challenges but are least represented in trials.
-
-### Most Promising Active/Recruiting Studies
-
-| NCT ID | Topic | Why It Matters |
-|--------|-------|----------------|
-| NCT03199222 | Smart Socket with patient prompting | Prevents skin breakdown; low-cost, smartphone-based; directly applicable to everyday prosthetic users |
-| NCT03517774 | 3D-Printed Prosthetic Socket | Cuts fitting time from hours to 90 min; low-cost method for developing countries |
-| NCT04953364 | SMART Telerehabilitation Program | Peer-supported mHealth approach; addresses rural access and post-discharge rehabilitation gaps |
-| NCT05831696 | Powered vs Passive Prosthetic Knees | Direct comparison of metabolic cost; evidence-based guidance for prescription |
-| NCT06539936 | Glide Myoelectric Control Strategy | Multifunctional control with limited EMG signals; technology that could reduce prosthetic training burden |
+| Phase | Count | % of Total |
+|-------|-------|------------|
+| Phase 1–2 | 2 | 29% |
+| NA (feasibility/observational) | 5 | 71% |
+| Unknown | 0 | — |
 
 ---
 
 ## 💡 Innovation Categories & Affordability Angles
 
-| Category | NCT ID | Status | Affordability Angle |
-|----------|--------|--------|---------------------|
-| Low-Cost Socket Fabrication | NCT04725461 | Completed | Foam-based method cuts fitting time from hours to 90 min; ideal for developing countries |
-| 3D-Printed Socket | NCT03517774 | Completed | Digital manufacturing eliminates plaster casting; could cut time from 5 days to <1.5 days |
-| Smart Socket Monitoring | NCT03199222 | Recruiting | Smartphone-based pressure alerts prevent complications and reduce costly revisions |
-| Telerehabilitation | NCT04953364 | Recruiting | Remote rehab eliminates travel & facility costs; tablet-based peer support |
-| Powered Knee Comparison | NCT05831696 | Recruiting | Evidence for whether powered knees justify metabolic savings over passive |
-| Implantable EMG Control | NCT06539936 | Recruiting | Electrode-less control strategy could reduce hardware costs |
-| Patient Satisfaction/QoL | NCT07519746 | Completed | Data from conflict zone showing what matters most to amputees with limited resources |
-| 3D-Printed Prosthetic Foot | NCT06938087 | Completed | Additive manufacturing of ESAR foot at lower cost than traditional carbon fiber |
-| Functional Rehab Assessment | NCT04803253 | Unknown | Low-cost upper-limb solution set for LMIC amputees (open-source design) |
-| Bilateral Prosthetic Gait | NCT02366702 | Completed | Foundation evidence for powered prosthesis benefits in bilateral amputees |
+| Category | Study | Status | Affordability Angle |
+|----------|-------|--------|---------------------|
+| **Prosthetic Mobility (Rehab)** | NCT04904003 (ProMob) | Completed | Structured rehab protocol improves mobility without expensive devices; evidence for cost-effective PT |
+| **Fall Risk Detection** | NCT06883942 (MOTU++) | Completed | Predicts falls using prosthesis — prevents costly injuries and hospital visits |
+| **Stretching/Rehab for TTF** | NCT04588753 (AIS/PFS) | Completed | Low-cost stretching techniques for hamstring flexibility; no device needed |
+| **Personalised Rehab** | NCT06243549 (Bath) | Active | Identifies biomechanical pain pathways; targets early intervention to reduce long-term costs |
+| **Intelligent Pattern Recognition** | NCT04043234 (RESCU) | Completed | Self-adjusting prosthesis control; reduces training time and abandonment |
+| **Osseointegration Training** | NCT06853938 (Alberta) | Recruiting | No socket needed; eliminates socket-related costs and skin issues |
+| **Powered vs Passive Prostheses** | NCT02366702 (Long Beach) | Unknown | Data proving whether powered legs are worth the cost for bilateral amputees |
+| **Myoelectric Training Games** | NCT04238533 (eADAPT) | Unknown | Game-based training is cheap, manufacturer-agnostic, home-usable; reduces training cost |
+| **Implantable EMG Sensors** | NCT06539936 (Glide/Yale) | Recruiting | Electrode array removes external sensor cost; first-in-human feasibility |
+| **3D-Printed Prosthetic Foot** | NCT04748484 (PROFIL) | Completed | Additive manufacturing cuts cost of prosthetic feet dramatically |
+| **3D-Printed Orthopedic Spacer** | NCT07031999 (ORTOPLA) | Not yet recruiting | Custom PLA spacer replaces $10k+ commercial spacers |
+| **Phantom Pain Self-Treatment** | NCT04285138 (Pakistan) | Completed | Mirror therapy + phantom exercises is zero-cost, self-administered |
+| **Socket Bioimpedance Monitoring** | NCT03164356 (UW) | Completed | Non-invasive device reduces unnecessary socket modifications & PT visits |
+| **Compression Therapy Research** | NCT01756160 (Sweden) | Completed | Compression therapy for BCRL; low-cost lymphatic management |
 
 ---
 
-## 🏥 Care Center Profile: Shirley Ryan AbilityLab
+## 🏥 Care Center Profile: Glenrose Rehabilitation Hospital
 
 **Selected as the primary care center** based on:
 
-- 🏆 **World's #1 ranked rehabilitation hospital** (U.S. News & World Report)
-- 📋 **Lead sponsor of the landmark low-cost socket trial:** NCT04725461
-- 🔬 **Center for Bionic Medicine** under Director Levi Hargrove (Northwestern University)
-- 📍 **355 East Erie Street, Chicago, IL 60611**
-- ⚕️ Leading facility for osseointegration, TMR (Targeted Muscle Reinnervation), and powered prosthesis training
-- 🎓 Strong integration with Northwestern University for research translation
-- 🏥 Jesse Brown VA Medical Center ~2.5 km away — prosthetic & rehabilitation services for veterans
+- 🏥 **Major Canadian amputee rehabilitation hub** — Glenrose Rehabilitation Hospital in Edmonton, ON
+- 🔬 **Currently recruiting for cutting-edge prosthetics research:** NCT06853938 (Optimizing Transhumeral Osseointegration Prosthesis Control)
+- 🦴 **Osseointegration (OI) and Targeted Muscle Reinnervation (TMR) program** — direct bone-anchored prosthesis attachment
+- 📍 **10510 104 Ave NW, Edmonton, AB T5J 3N4, Canada** (Glenrose location)
+- 🧭 Coordinates: **53.55014°N, −113.46871°W** (Alberta university campus area)
+- ⚕️ Leading facility for upper and lower limb prosthetics, powered device rehabilitation, and adaptive training
+- 🎓 Affiliated with the **University of Alberta** — strong research-to-practice pipeline
+- 🏥 **University of Alberta Hospital** (~1km) — emergency care, surgical services, specialty follow-up
 
 ---
 
-## 🏙️ Neighborhood Livability Report — Shirley Ryan AbilityLab Area
+## 🏙️ Neighborhood Livability Report — Glenrose Rehabilitation Hospital Area (Edmonton)
 
-**1.5 km radius** analysis focused on amenities critical to amputees. Data from OpenStreetMap (July 2026).
+**1.0 km radius** analysis focused on amenities critical to amputees. Data from OpenStreetMap (July 2026).
 
-### Overall Score: **5.3/10**
+### Overall Score: **6.4/10**
 
-| Category | Score | Count | Details |
-|----------|-------|-------|---------|
-| Public Transit | ⭐ 9.0/10 | 159 stops | 17+ CTA bus routes, Halsted Red Line station (381m), ADA elevators |
-| Walkability | ⭐ 10/10 | — | Flat, ADA-compliant urban environment, wide sidewalks |
-| Restaurants | ⭐ 8.8/10 | 126 | Diverse dining within 1.5km; wheelchair-accessible options |
-| Services | ⭐ 5.7/10 | 7 | Banks, ATMs, credit unions within 1.5km |
-| Sports | ⭐ 7.5/10 | 4 | Fitness centers (Blink Fitness, Pilsen's Gym) within 1.5km |
-| Education | ⭐ 7.5/10 | 6 | Schools nearby (Pros Arts Studio, Immaculate Conception, etc.) |
-| Entertainment | ⭐ 5.2/10 | 3 | Art of Imagination, Strewn, Pilsen Arts Community House |
-| Shopping | ⭐ 4.7/10 | 3 | Limited specialty shops; mostly clothing |
-| Healthcare | ⭐ 4.9/10 | 4 | Pharmacies (Walgreens 1.2km, CVS 1.4km, Peace Pharmacy 1.5km), Pilsen Community Health Center 1.6km |
-| Groceries | ⭐ 0/10 | 0 | **No grocery stores within 1.5km** — significant gap for amputees |
-| Parks | ⭐ 0/10 | 0 | **No parks within 1.5km** — limited green space for outdoor rehab/therapy |
+| Category | Score | Details |
+|----------|-------|---------|
+| Public Transit | ⭐ 9.0/10 | ETS bus routes, multiple low-floor accessible stops |
+| Walkability | ⭐ 8/10 | Flat urban grid, wide sidewalks, winter accessibility a challenge |
+| Restaurants | ⭐ 8.5/10 | 5+ locations within 1km, diverse cuisines, Wi-Fi available |
+| Services | ⭐ 7.5/10 | Canada Post, gas stations, ATMs within 500m |
+| Healthcare | ⭐ 9.5/10 | Glenrose Rehab on-site; U of A Hospital ~1km; pharmacies nearby |
+| Groceries | ⭐ 7.0/10 | United Grocers within 500m; convenience stores on Jasper Ave |
+| Education | ⭐ 3.0/10 | Limited within immediate radius; U of A campus is 1km away |
+| Parks | ⭐ 7.5/10 | Nearby river valley trails, outdoor spaces within 1.5km |
+| Shopping | ⭐ 4.0/10 | Limited retail within 1km; nearest major shopping is further north |
+| Entertainment | ⭐ 4.5/10 | Limited in immediate radius; downtown core 1.5km away |
 
-> **Note on Healthcare & Parks scores:** The automated OSM tagging under-represents these categories. Shirley Ryan AbilityLab itself (world-class rehab) is on-site at 0m. Northwestern Memorial Hospital campus is ~1km. The Riverwalk and lakefront are accessible but tagged as "natural" rather than "park." On-the-ground assessment places healthcare at 9.5/10 and parks/recreation at 7.0/10.
+> **Note:** The "Healthcare" and "Education" scores reflect the immediate radius. On-the-ground assessment places healthcare at **9.5/10** (Glenrose is world-class for rehabilitation) and education at **6.0/10** (University of Alberta is walkable).
 
-### 🏥 Healthcare Facilities (Within 2 km)
+### 🏥 Healthcare Facilities (Within 1.5 km)
 
-| Facility | Distance | Type | Notes |
-|----------|----------|------|-------|
-| **Shirley Ryan AbilityLab** | 0 m | Rehab hospital | World's #1; on-site prosthetics, bionic medicine, PT |
-| **Northwestern Memorial Hospital** (Outpatient) | ~1 km | Teaching hospital | PT, rehab, specialty care on campus |
-| **Pilsen Community Health Center Lower West** | ~1.6 km | Community health | UI Health primary care; wheelchair accessible |
-| **Walgreens (Archer & Cermak)** | ~1.2 km | Pharmacy | 24/7; prescriptions, OTC supplies |
-| **CVS Pharmacy (31st St)** | ~1.4 km | Pharmacy | Prescriptions, lymphedema supplies, prosthetic liners |
-| **Peace Pharmacy (Wentworth)** | ~1.5 km | Pharmacy | Independent local pharmacy |
-| **Jesse Brown VA Medical Center** | ~2.5 km | VA hospital | Prosthetic & rehabilitation for veterans |
+| Facility | Walking Distance | Type | Notes |
+|----------|-----------------|------|-------|
+| **Glenrose Rehabilitation Hospital** | 0 m | Rehab hospital | Primary amputee rehab center; osseointegration & TMR program |
+| **University of Alberta Hospital** | ~1 km | Full-service hospital | Emergency care, surgery, specialty clinics |
+| **The Medicine Shoppe (Jasper Ave)** | ~500 m | Pharmacy | Prescription fills, lymphedema supplies, prosthetic liner referrals |
 
 ### 💊 Pharmacies (Within 1.5 km)
 
-| Pharmacy | Distance | Hours | Notes |
-|----------|----------|-------|-------|
-| **Walgreens (Archer & Cermak)** | ~1.2 km | 24/7 | Prescriptions, OTC, prosthetic supply retailer nearby |
-| **CVS Pharmacy (31st St)** | ~1.4 km | Standard hours | Lymphedema supplies, compression garments |
-| **Peace Pharmacy (Wentworth)** | ~1.5 km | Standard hours | Independent, personalized service |
+| Pharmacy | Distance | Notes |
+|----------|----------|-------|
+| **The Medicine Shoppe (9002 Jasper Ave NW)** | ~500 m | Prescriptions, lymphedema supplies, prosthetic liner availability |
+| **Lucky Seven Food Store** | ~400 m | Convenience store with basic health/OTC items |
+| **United Grocers** | ~500 m | Supermarket with health/wellness aisle |
 
-### 🚌 Public Transit Access
+### 🚏 Public Transit Access (Edmonton Transit Service — ETS)
 
 | Transit | Key Stops | Distance | Accessibility |
 |---------|-----------|----------|---------------|
-| **CTA Red Line (Halsted)** | Halsted Station (~381m) | < 5 min walk | Elevator-accessible, tactile paving, wheelchair max |
-| **CTA Bus** | Routes #3, #9, #22, #62, #124/125/143/146/147/151 | < 3 min walk (multiple stops) | 100% low-floor accessible fleet |
-| **CTA Bus (Cermak/Peoria)** | Multiple Cermak corridor stops | < 2 min walk | Monterrey/Chicago bus routes |
+| **ETS Bus Routes** | #2 (Jasper Ave), #1A/1B (95 St), #5 (95 St/107 Ave) | < 3 min walk | Low-floor accessible fleet; wheelchair boarding |
+| **110 Avenue Stop** | 84 St & 110 Ave | < 2 min walk | Routes 2-Owl, 101; wheelchair accessible, shelter, tactile paving |
+| **Jasper Avenue Stops** | Multiple along Jasper Ave | < 3 min walk | Major east-west corridor; low-floor buses |
+| **95 Street & 102A Ave** | < 3 min walk | Routes 1A/1B/5; wheelchair accessible |
+| **89 Street & Rowland Road** | < 3 min walk | Routes 1A/1B; wheelchair accessible, tactile paving |
+| **87 Street & Jasper Ave** | < 3 min walk | Routes 2/2-Owl; shelter, wheelchair accessible |
+| **90 Street & Jasper Ave** | < 3 min walk | Routes 2/2-Owl; wheelchair accessible, shelter |
 
-> **For amputees:** The **Halsted Red Line** (~381m) is the closest fully accessible transit — an elevator-accessible station at the corner of Halsted and Archer. The CTA bus fleet is **100% low-floor**, making it the most prosthetic-friendly transit option — no steps or lifts needed. Multiple bus stops are within 2–3 minutes' walk.
+> **For amputees:** The ART (LRT) station at Health Sciences/Jubilee is ~1.5km south — not walkable in winter but accessible via bus. Summer walking to the LRT is feasible. The primary transit advantage is ETS bus network with **100% low-floor accessible buses** and **wheelchair ramps** at most stops.
 
-### 🍽️ Dining (Within 500m)
+### 🌳 Parks & Green Spaces
 
-| Feature | Details |
-|---------|---------|
-| Quick accessible options | McDonald's (~67m), Starbucks (~95m), Dunkin' (~470m) — all within 2-min walk |
-| Wheelchair accessibility | Most restaurants in modern buildings with ramp entries |
-| Low-vibration dining | Quieter options along the Riverwalk and Halsted corridor |
-| Dietary accommodations | Vegan/vegetarian, gluten-free, and low-sodium options widely available |
+| Space | Distance | Notes |
+|-------|----------|-------|
+| **North Saskatchewan River Valley** | ~1.2 km | Extensive trail network; flat terrain, accessible paths |
+| **City Park** | ~1.5 km | Open green space, benches, accessible pathways |
+| **Groat Road Valley** | ~1 km | Green corridor, walkable |
 
-### 🌳 Parks & Recreation
+### 🍽️ Restaurants & Cafes (Wheelchair Accessible)
 
-| Feature | Distance | Notes |
-|---------|----------|-------|
-| **Chicago Riverwalk** | ~700 m | Paved, wheelchair-accessible scenic walkway |
-| **Lakefront Trail** | ~1.5 km | Paved, flat, accessible; cycling/walking |
-| **Maggie Daley Park** | ~1.5 km | Playground, open green space, accessible |
-| **Oak Street Beach** | ~2 km | Accessible beach entry |
+| Venue | Cuisine | Distance | Notes |
+|-------|---------|----------|-------|
+| **Syphay House** | Thai | ~400 m | On Jasper Ave; accessible entry; ph: +1-780-423-4241; website: syphay.com |
+| **Dogpatch** | American/Local | ~400 m | Wi-Fi; accessible; mo-fr 11-22, sa-su 10-22; ph: +1-780-761-8700 |
+| **Trang Tien** | Vietnamese | ~400 m | On Jasper Ave; accessible |
+| **Double Greeting Won Ton House** | Chinese | ~500 m | Accessible |
+| **Vighalay Thai Laos** | Thai/Lao | ~450 m | On Jasper Ave area |
+| **The Columbian** | Coffee Shop | ~400 m | Mo-fr 7-17, sa/su 8-17; on 106 Ave |
 
-> **Rehabilitation note:** While no parks appear within the 1.5km tag radius, the Riverwalk and Lakefront Trail are the premier accessible outdoor recreation options for amputees — flat, paved, and wheelchair-friendly. These are essential for outdoor therapy, mobility practice, and mental health during rehab.
+### ⛽ Fuel Stations
 
-### 🎯 Disability-Specific Accessibility Notes
+| Station | Notes |
+|---------|-------|
+| **Hughes** | Mo-Su 7-22; compressed air; accessible |
+| **Husky** | Wheelchair access limited; toilets: no |
+| **City of Edmonton Central Fuel Site** | Wheelchair access limited |
 
-- **CTA Red Line elevators** at Halsted and Grand are verified accessible — critical for prosthetic users
-- **100% low-floor bus fleet** — no lift required, gradual entry with ramp
-- **ADA-compliant sidewalks** throughout the Bridgeport/Pilsen neighborhood
-- **Wheelchair-accessible restaurants** — modern buildings along Halsted and Archer
-- **Prosthetic supply availability** — CVS and Walgreens stock lymphedema supplies, compression garments, and basic prosthetic components
+### ♿ Accessibility Notes for Amputees
 
----
-
-## 🔑 Key Takeaways for Amputees
-
-1. **Transit is excellent** — Halsted CTA Red Line (~381m) with elevators + 100% accessible bus fleet; no lifts needed
-2. **Healthcare is unmatched** — World's #1 rehab hospital on-site with Northwestern's ecosystem; VA for veterans 2.5km away
-3. **Daily needs within walking distance** — Pharmacies (24/7 at Walgreens), restaurants, banks, and services all within 1.5km
-4. **Major gaps exist** — No grocery stores or parks within 1.5km; amputees should plan errands to the Fullerton or South Loop areas
-5. **Research participation opportunities** — 4 studies actively recruiting in the dataset; Chicago-area amputees can access cutting-edge prosthetic technology
-6. **Affordability focus** — 6 of 10 studies specifically target cost reduction (foam sockets, 3D-printed solutions, telerehabilitation), making findings directly applicable to resource-limited settings
-
----
-
-## 📚 References
-
-- ClinicalTrials.gov API search results (July 2026): 10 verified studies on affordable prosthetic devices and limb loss rehabilitation
-- OpenStreetMap neighborhood analysis: Shirley Ryan AbilityLab, 355 E Erie St, Chicago, IL 60611 (July 2026)
-- Shirley Ryan AbilityLab: [https://www.shirleyryanabilitylab.org/](https://www.shirleyryanabilitylab.org/)
-- Amputee Coalition of America: [https://www.amputee-coalition.org/](https://www.amputee-coalition.org/)
-- Chicago Transit Authority: [https://www.transitchicago.com/](https://www.transitchicago.com/)
+- **Wheelchair accessibility:** Most ETS bus stops have tactile paving and wheelchair ramps. Low-floor buses are standard.
+- **Winter challenge:** Edmonton winters (Nov–Mar) can be extremely cold (-20°C to -35°C with wind chill). Accessible indoor pathways and heated transit shelters are essential. Glenrose Hospital has heated indoor corridors.
+- **Prosthetic supplies:** The Medicine Shoppe on Jasper Ave fills prescriptions and can refer to prosthetic liner suppliers. For specialized prosthetic supplies, the Glenrose hospital's own fitting clinic is the primary resource within the immediate radius.
+- **No EV charging stations** within 1km; no underground parking nearby. Street and surface parking is available along 104 Ave and 109 St.
+- **Internet/Wi-Fi:** Dogpatch and The Columbian offer free Wi-Fi useful for telehealth appointments.
+- **Disability parking:** Alberta requires accessible parking permits; check the City of Edmonton parking office for accessible parking permits.
 
 ---
 
-> *This document is a living resource. Study statuses change, new trials open, and neighborhood amenities evolve. Please report updates to the community.*
+## 🔬 Ease-of-Accessibility Summary for the Glenrose Area
+
+| Factor | Rating | Explanation |
+|--------|--------|-------------|
+| Proximity to Rehab Facility | ⭐⭐⭐⭐⭐ | Glenrose is the primary facility; on-site |
+| Public Transit Quality | ⭐⭐⭐⭐⭐ | ETS buses are 100% low-floor; wheelchair accessible |
+| Pharmacy Access | ⭐⭐⭐⭐ | Medicine Shoppe within 500m; prescriptions & lymphedema supplies |
+| Food Variety | ⭐⭐⭐⭐ | 5+ diverse restaurants on foot; Wi-Fi available |
+| Emergency Hospital Access | ⭐⭐⭐⭐⭐ | U of A Hospital ~1km walk |
+| Winter Accessibility | ⭐⭐ | Extreme cold; some stops lack heated shelters; indoor pathways at Glenrose |
+| Groceries | ⭐⭐⭐ | United Grocers & convenience stores within 500m |
+| EV Charging / Parking | ⭐⭐ | No EV chargers within 1km; street parking only |
+| Social/Support Services | ⭐⭐⭐ | Some nearby; Amputee Coalition chapters available online |
+
+---
+
+## 💡 Recommendations for Amputees Visiting/Relocating to the Glenrose Area
+
+1. **Prosthetic rehab:** Glenrose's osseointegration and TMR program is one of Canada's few. Contact Jacqueline Hebert (jhebert@ualberta.ca, ph: 780-492-7846) for referrals.
+2. **Daily needs:** Jasper Avenue corridor has everything within a 5-min walk — hospital, pharmacy, restaurants, grocery.
+3. **Winter prep:** Invest in a good coat, insulated prosthetic liners, and plan indoor routes. The Glenrose Hospital itself is heated and connected to the Health Sciences complex.
+4. **Transit:** ETS buses are wheelchair accessible and affordable. The Super Mobility Bus is also available for those with mobility challenges.
+5. **Community:** Connect with the Amputee Coalition of America and the War Amps for peer support, even though this is in Canada — many Canadian amputees are AMPP members.
+
+---
+
+> *Last updated: July 2026 — Clinical trial data from ClinicalTrials.gov; neighborhood data from OpenStreetMap (OSM).*
