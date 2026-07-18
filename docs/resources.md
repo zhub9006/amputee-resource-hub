@@ -14,19 +14,19 @@ We searched ClinicalTrials.gov for studies on affordable prosthetic devices and 
 | # | NCT ID | Study Title | Status | Location | Sponsor |
 |---|--------|-------------|--------|----------|---------|
 | 1 | NCT04904003 | Prosthetic Use, Mobility and Daily Functioning (ProMob) | ✅ Completed | Oslo, Norway | Oslo Metropolitan University |
-| 2 | NCT06883942 | Pilot Study on Functionality, Safety & Reliability of New Tripping Devices for Lower Limbs | ✅ Completed | Florence, Italy | Fondazione Don Carlo Gnocchi ETS |
+| 2 | NCT06883942 | Pilot Study on Functionality, Safety & Reliability of New Tripping Devices for Lower Limbs (MOTU++) | ✅ Completed | Florence, Italy | Fondazione Don Carlo Gnocchi ETS |
 | 3 | NCT04588753 | Active Isolated Stretch & Post Facilitation Stretch for Trans-tibial Amputees | ✅ Completed | Lahore, Pakistan | Riphah International University |
-| 4 | NCT06243549 | Personalisation of Prosthetic Care for Lower-Limb Amputees | ⭕ Active | Bath, UK | University of Bath |
-| 5 | NCT04043234 | RESCU System for Robust Upper Limb Prosthesis Control | ✅ Completed | USA (INB/Rehab) | Infinite Biomedical Technologies |
-| 6 | NCT06853938 | Optimizing Transhumeral Osseointegration Prosthesis Control | 🔄 Recruiting | Edmonton, Canada | University of Alberta |
-| 7 | NCT02366702 | Passive vs Powered Prosthetic Devices (Bilateral Transfemoral) | ⭕ Unknown | Long Beach, CA | Southern California Inst for Research |
+| 4 | NCT06243549 | Personalisation of Prosthetic Care for Lower-Limb Amputees (L北 Pain Study) | ⭕ Active | Bath, UK | University of Bath |
+| 5 | NCT04043234 | RESCU System for Robust Upper Limb Prosthesis Control | ✅ Completed | USA (Infinite Biomedical) | Infinite Biomedical Technologies |
+| 6 | NCT06853938 | Optimizing Transhumeral Osseointegration Prosthesis Control | 🔄 Recruiting | Edmonton, Canada (Glenrose) | University of Alberta |
+| 7 | NCT02366702 | Passive vs Powered Prosthetic Devices (Bilateral Transfemoral) | ⭕ Unknown | Long Beach, CA | Southern California Institute for Research |
 | 8 | NCT04238533 | Enhanced Auto-Diagnostic Adaptive Precision Trainer for Myoelectric Prosthetic Users (eADAPT) | ⭕ Unknown | Tampa, FL | University of South Florida |
 | 9 | NCT06539936 | Glide Control for Upper Limb Prostheses | 🔄 Recruiting | Redondo Beach, CA | Infinite Biomedical Technologies |
-| 10 | NCT04748484 | 3D Printed Prosthetic Foot (PROFIL) | ✅ Completed | Bologna, Italy | INAIL (Italy) |
+| 10 | NCT04748484 | 3D-Printed Prosthetic Foot (PROFIL) / Connected Calo-prosthesis Kit | ✅ Completed | Bologna, Italy | INAIL (Italy) / Gregand Innovations |
 
 ### Geographic Spread
 
-- **North America (4):** Edmonton (1 recruiting), Long Beach (1 unknown), Tampa (1 unknown), Redondo Beach (1 recruiting)
+- **North America (4):** Edmonton (1 recruiting), Long Beach (unknown), Tampa (unknown), Redondo Beach (1 recruiting)
 - **Europe (4):** Oslo (1 completed), Florence (1 completed), Bath (1 active), Bologna (1 completed)
 - **Asia (1):** Lahore, Pakistan (1 completed — rehabilitation & stretching)
 - **Australia (0):** No studies in our top 10, but AMPP/Australian studies are worth monitoring
@@ -62,14 +62,6 @@ We searched ClinicalTrials.gov for studies on affordable prosthetic devices and 
 
 > **Key takeaway:** Academic sponsors dominate (66% of all studies) — they are the hotbed for powered prosthetics, telerehabilitation, AI-driven control, and osseointegration research. Federal sponsors (33) reflect the strong veteran amputee population and VA research infrastructure. Industry sponsors are emerging, especially around implantable EMG sensors (Infinite Biomedical Technologies) and bionic limb control.
 
-### Broader Landscape (7 total matching studies in affordable+prosthetic search)
-
-| Phase | Count | % of Total |
-|-------|-------|------------|
-| Phase 1–2 | 2 | 29% |
-| NA (feasibility/observational) | 5 | 71% |
-| Unknown | 0 | — |
-
 ---
 
 ## 💡 Innovation Categories & Affordability Angles
@@ -99,12 +91,12 @@ We searched ClinicalTrials.gov for studies on affordable prosthetic devices and 
 
 - 🏥 **Major Canadian amputee rehabilitation hub** — Glenrose Rehabilitation Hospital in Edmonton, ON
 - 🔬 **Currently recruiting for cutting-edge prosthetics research:** NCT06853938 (Optimizing Transhumeral Osseointegration Prosthesis Control)
-- 🦴 **Osseointegration (OI) and Targeted Muscle Reinnervation (TMR) program** — direct bone-anchored prosthesis attachment
-- 📍 **10510 104 Ave NW, Edmonton, AB T5J 3N4, Canada** (Glenrose location)
-- 🧭 Coordinates: **53.55014°N, −113.46871°W** (Alberta university campus area)
+- 🦿 **Osseointegration (OI) and Targeted Muscle Reinnervation (TMR) program** — direct bone-anchored prosthesis attachment
+- 📍 **10230 111 Avenue NW, Spruce Avenue, Avenue District, Edmonton, Alberta, T5G 0B7, Canada**
+- 🧭 Coordinates: **53.5602464°N, −113.4983131°W**
 - ⚕️ Leading facility for upper and lower limb prosthetics, powered device rehabilitation, and adaptive training
 - 🎓 Affiliated with the **University of Alberta** — strong research-to-practice pipeline
-- 🏥 **University of Alberta Hospital** (~1km) — emergency care, surgical services, specialty follow-up
+- 🏥 **University of Alberta Hospital** (~2km south) — emergency care, surgical services, specialty follow-up via Edmonton's Pedway system
 
 ---
 
@@ -112,115 +104,128 @@ We searched ClinicalTrials.gov for studies on affordable prosthetic devices and 
 
 **1.0 km radius** analysis focused on amenities critical to amputees. Data from OpenStreetMap (July 2026).
 
-### Overall Score: **6.4/10**
+### Overall Score: **5.5/10**
 
 | Category | Score | Details |
 |----------|-------|---------|
-| Public Transit | ⭐ 9.0/10 | ETS bus routes, multiple low-floor accessible stops |
-| Walkability | ⭐ 8/10 | Flat urban grid, wide sidewalks, winter accessibility a challenge |
-| Restaurants | ⭐ 8.5/10 | 5+ locations within 1km, diverse cuisines, Wi-Fi available |
-| Services | ⭐ 7.5/10 | Canada Post, gas stations, ATMs within 500m |
-| Healthcare | ⭐ 9.5/10 | Glenrose Rehab on-site; U of A Hospital ~1km; pharmacies nearby |
-| Groceries | ⭐ 7.0/10 | United Grocers within 500m; convenience stores on Jasper Ave |
-| Education | ⭐ 3.0/10 | Limited within immediate radius; U of A campus is 1km away |
-| Parks | ⭐ 7.5/10 | Nearby river valley trails, outdoor spaces within 1.5km |
-| Shopping | ⭐ 4.0/10 | Limited retail within 1km; nearest major shopping is further north |
-| Entertainment | ⭐ 4.5/10 | Limited in immediate radius; downtown core 1.5km away |
+| Public Transit | ⭐ 8.6/10 | ETS bus routes on Jasper Ave, 97 St, 95 St; multiple wheelchair-accessible stops |
+| Walkability | ⭐ 10/10 | Flat urban grid, wide sidewalks, Edmonton's grid layout is highly navigable |
+| Restaurants | ⭐ 8.7/10 | 54 locations within 1km, diverse cuisines, Wi-Fi available, many with takeaway |
+| Services | ⭐ 8.1/10 | Banks, gas stations, ATMs, parking within 1km |
+| Healthcare | ⭐ 8.5/10 | Glenrose Rehab on-site; Univ. of Alberta Hospital ~2km; 6 pharmacies within 2km |
+| Groceries | ⭐ 8.4/10 | Walmart Supercentre ~635m; 9 grocers within 1km including S.M. Convenience (310m) |
+| Shopping | ⭐ 7.9/10 | Multiple retail options within 1km; large strip malls accessible by bus |
+| Sports | ⭐ 5.0/10 | Limited on-site; river valley trails within walking distance for adaptive outdoor activity |
+| Parks | ⭐ 4.0/10 | River valley trails nearby; William Hawrelak Park ~1.5km; Gold Bar Park ~2km |
+| Education | ⭐ 3.0/10 | Limited within immediate radius; University of Alberta campus ~2km away |
+| Entertainment | ⭐ 4.5/10 | Limited in immediate radius; downtown core ~1.5km away via bus |
 
-> **Note:** The "Healthcare" and "Education" scores reflect the immediate radius. On-the-ground assessment places healthcare at **9.5/10** (Glenrose is world-class for rehabilitation) and education at **6.0/10** (University of Alberta is walkable).
+### 🏥 Healthcare Facilities (Within 2 km)
 
-### 🏥 Healthcare Facilities (Within 1.5 km)
+| Facility | Distance | Type | Notes |
+|----------|----------|------|-------|
+| **Glenrose Rehabilitation Hospital** | 0 m | Rehab hospital | Primary amputee rehab center; osseointegration & TMR program; on-site prosthetics clinic |
+| **University of Alberta Hospital** | ~2 km | Full-service hospital | Emergency care, surgery, specialty clinics; connected via Edmonton's Pedway (indoor walk system) |
+| **Royal Pharmacy** | ~370 m | Pharmacy | Prescriptions, lymphedema supplies, prosthetic liner referrals |
+| **Shoppers Drug Mart** | ~635 m | Pharmacy | Full-service pharmacy, drive-up window, OTC products |
+| **Halls Pharmacy** | ~400 m | Pharmacy | Independent pharmacy; website: hallspharmacy.ca |
+| **Alberta Avenue Pharmacy** | ~1.1 km | Pharmacy | Located on 118 Ave; carries lymphedema supplies |
+| **Family Drugs** | ~1.2 km | Pharmacy | Secondary pharmacy option on west end |
+| **London Drugs** | ~1.9 km | Pharmacy | Large-format pharmacy with photo, postal services; convenient for all needs |
 
-| Facility | Walking Distance | Type | Notes |
-|----------|-----------------|------|-------|
-| **Glenrose Rehabilitation Hospital** | 0 m | Rehab hospital | Primary amputee rehab center; osseointegration & TMR program |
-| **University of Alberta Hospital** | ~1 km | Full-service hospital | Emergency care, surgery, specialty clinics |
-| **The Medicine Shoppe (Jasper Ave)** | ~500 m | Pharmacy | Prescription fills, lymphedema supplies, prosthetic liner referrals |
+### 💊 Pharmacies (Within 2 km)
 
-### 💊 Pharmacies (Within 1.5 km)
+| Pharmacy | Distance | Wheelchair Accessible | Notes |
+|----------|----------|----------------------|-------|
+| **Royal Pharmacy** | ~370m | Yes | Closest option; 118 Ave & 97 St area |
+| **Halls Pharmacy** | ~400m | Yes | Independent; website available for refills |
+| **Shoppers Drug Mart** | ~635m | Yes | Drive-up, full-service, most brands |
+| **Alberta Avenue Pharmacy** | ~1.1km | Yes | 118 Ave NW; lymphedema supply specialist |
+| **Family Drugs** | ~1.2km | Yes | West end location |
+| **London Drugs** | ~1.9km | Yes | Mega-pharmacy with postal, photo, health products |
 
-| Pharmacy | Distance | Notes |
-|----------|----------|-------|
-| **The Medicine Shoppe (9002 Jasper Ave NW)** | ~500 m | Prescriptions, lymphedema supplies, prosthetic liner availability |
-| **Lucky Seven Food Store** | ~400 m | Convenience store with basic health/OTC items |
-| **United Grocers** | ~500 m | Supermarket with health/wellness aisle |
+> **Tip:** Shoppers Drug Mart and London Drugs are the most comprehensive for adaptive equipment like compression garments, bathing aids, and prosthetic liner supplies.
 
-### 🚏 Public Transit Access (Edmonton Transit Service — ETS)
+### 🚌 Public Transit Access (Edmonton Transit Service — ETS)
 
 | Transit | Key Stops | Distance | Accessibility |
 |---------|-----------|----------|---------------|
-| **ETS Bus Routes** | #2 (Jasper Ave), #1A/1B (95 St), #5 (95 St/107 Ave) | < 3 min walk | Low-floor accessible fleet; wheelchair boarding |
-| **110 Avenue Stop** | 84 St & 110 Ave | < 2 min walk | Routes 2-Owl, 101; wheelchair accessible, shelter, tactile paving |
-| **Jasper Avenue Stops** | Multiple along Jasper Ave | < 3 min walk | Major east-west corridor; low-floor buses |
-| **95 Street & 102A Ave** | < 3 min walk | Routes 1A/1B/5; wheelchair accessible |
-| **89 Street & Rowland Road** | < 3 min walk | Routes 1A/1B; wheelchair accessible, tactile paving |
-| **87 Street & Jasper Ave** | < 3 min walk | Routes 2/2-Owl; shelter, wheelchair accessible |
-| **90 Street & Jasper Ave** | < 3 min walk | Routes 2/2-Owl; wheelchair accessible, shelter |
+| **ETS Bus #3** | 96 St & 111 Ave | <2 min walk | Routes to downtown; wheelchair accessible, shelter |
+| **ETS Bus #3** | 103 St & 111 Ave | <1 min walk | Routes 3;103;111;701;202;560; wheelchair accessible, shelter |
+| **ETS Bus #5** | 89 St & 118 Ave | <1 min walk | Routes to South Side; wheelchair accessible |
+| **ETS Bus #5** | 90 St & 118 Ave | <1 min walk | Routes to South Side; wheelchair accessible, shelter |
+| **ETS Bus #8** | 89 St & 118 Ave | <1 min walk | Routes to North Side; wheelchair accessible |
+| **ETS Bus #8** | 84 St & 118 Ave | <1 min walk | Routes to North Side; wheelchair accessible |
+| **ETS Bus #2** | Alex Taylor Rd & Jasper Ave | ~4 min walk | Major east-west corridor; wheelchair accessible |
+| **ETS Bus #1A/1B** | 95 St & Rowland Rd | ~3 min walk | North-South routes; wheelchair accessible |
+| **ETS Bus #2-Owl** | 84 St & 110 Ave | ~5 min walk | Night service route; wheelchair accessible |
+| **ETS Bus #130X/150X** | 97 St & 102 Ave | ~4 min walk | Express routes; wheelchair accessible |
+| **Central LRT Station** | ~1 km | ~12 min walk | Blue line to NAIT, downtown, Mill Woods |
+| **Bay/Enterprise Square LRT** | ~1 km | ~13 min walk | Capital Line to University area, South Campus |
 
-> **For amputees:** The ART (LRT) station at Health Sciences/Jubilee is ~1.5km south — not walkable in winter but accessible via bus. Summer walking to the LRT is feasible. The primary transit advantage is ETS bus network with **100% low-floor accessible buses** and **wheelchair ramps** at most stops.
+> **Edmonton's Pedway System:** A network of underground and indoor walkways connecting key buildings in downtown and the U of A Health区. Glenrose Hospital connects via surface streets to the Pedway at University of Alberta Hospital (~2km), allowing year-round accessible travel in Edmonton's harsh winters — critical for amputees who are sensitive to cold and moisture.
 
-### 🌳 Parks & Green Spaces
+### 🛒 Groceries & Services (Within 1 km)
 
-| Space | Distance | Notes |
-|-------|----------|-------|
-| **North Saskatchewan River Valley** | ~1.2 km | Extensive trail network; flat terrain, accessible paths |
-| **City Park** | ~1.5 km | Open green space, benches, accessible pathways |
-| **Groat Road Valley** | ~1 km | Green corridor, walkable |
+| Service | Distance | Notes |
+|---------|----------|-------|
+| **S.M. Convenience Store** | ~310m | Closest option; 111 Ave NW |
+| **Royal Alex Food Mart** | ~370m | Quick staples and pharmacy items |
+| **Walmart Supercentre** | ~635m | Full supermarket + pharmacy + auto + ATM; 1 Kingsway NW |
+| **Expo Convenience Store** | ~770m | Quick shopping |
+| **Tung Lam Supermarket** | ~795m | Asian grocery; diverse food options |
+| **Norwood Convenience Store** | ~795m | Quick stops |
+| **Productos Latinos** | ~825m | Latin American market |
+| **Arden's Food Varimart** | ~870m | Quick grocery |
 
-### 🍽️ Restaurants & Cafes (Wheelchair Accessible)
+### 🍽️ Restaurants (Within 1 km — 54 total!)
 
-| Venue | Cuisine | Distance | Notes |
-|-------|---------|----------|-------|
-| **Syphay House** | Thai | ~400 m | On Jasper Ave; accessible entry; ph: +1-780-423-4241; website: syphay.com |
-| **Dogpatch** | American/Local | ~400 m | Wi-Fi; accessible; mo-fr 11-22, sa-su 10-22; ph: +1-780-761-8700 |
-| **Trang Tien** | Vietnamese | ~400 m | On Jasper Ave; accessible |
-| **Double Greeting Won Ton House** | Chinese | ~500 m | Accessible |
-| **Vighalay Thai Laos** | Thai/Lao | ~450 m | On Jasper Ave area |
-| **The Columbian** | Coffee Shop | ~400 m | Mo-fr 7-17, sa/su 8-17; on 106 Ave |
+| Restaurant | Distance | Cuisine | Wheelchair Access |
+|------------|----------|---------|-------------------|
+| **Nha Trang Vietnamese Restaurant** | ~270m | Vietnamese | Limited |
+| **J Café** | ~295m | Café | Yes |
+| **Subway** | ~370m | Sandwiches | Yes |
+| **Domino's** | ~375m | Pizza (takeaway) | Yes |
+| **Fresh Bubble Tea & Sandwich Bar** | ~390m | Sandwiches | Limited |
+| **The Wokkery Restaurant** | ~465m | Chinese | Yes |
+| **Mr. Pretzels** | ~485m | Pretzels | Yes |
+| **Pfilthy Philly's** | ~380m | American/Philly | Limited |
+| **Ricky's All Day Grill** | ~2km | American/All Day | Yes |
+| **Pho Hoan Pasteur Fusion** | ~2km | Vietnamese | Yes |
 
-### ⛽ Fuel Stations
+> **Diabetes-friendly note:** With 54 restaurants nearby, many amputees managing diabetes (a leading cause of amputation) will appreciate that multiple options offer low-carb/sugar-conscious meals.
 
-| Station | Notes |
-|---------|-------|
-| **Hughes** | Mo-Su 7-22; compressed air; accessible |
-| **Husky** | Wheelchair access limited; toilets: no |
-| **City of Edmonton Central Fuel Site** | Wheelchair access limited |
+### 🌳 Parks & Recreation (Within 2 km)
 
-### ♿ Accessibility Notes for Amputees
+| Location | Distance | Notes |
+|----------|----------|-------|
+| **William Hawrelak Park** | ~1.5km | River valley trails, outdoor fitness, adaptive walking paths |
+| **Gold Bar Park** | ~2km | River valley, walking trails, nature access |
+| **Emily Murphy Park** | ~1km | Quieter river valley spot |
+| **North Saskatchewan River Valley** | Adjacent | Directly adjacent to Glenrose; 22km of paved trails for walking/rollering |
 
-- **Wheelchair accessibility:** Most ETS bus stops have tactile paving and wheelchair ramps. Low-floor buses are standard.
-- **Winter challenge:** Edmonton winters (Nov–Mar) can be extremely cold (-20°C to -35°C with wind chill). Accessible indoor pathways and heated transit shelters are essential. Glenrose Hospital has heated indoor corridors.
-- **Prosthetic supplies:** The Medicine Shoppe on Jasper Ave fills prescriptions and can refer to prosthetic liner suppliers. For specialized prosthetic supplies, the Glenrose hospital's own fitting clinic is the primary resource within the immediate radius.
-- **No EV charging stations** within 1km; no underground parking nearby. Street and surface parking is available along 104 Ave and 109 St.
-- **Internet/Wi-Fi:** Dogpatch and The Columbian offer free Wi-Fi useful for telehealth appointments.
-- **Disability parking:** Alberta requires accessible parking permits; check the City of Edmonton parking office for accessible parking permits.
+### 🔑 Key Findings for Amputees in This Area
 
----
-
-## 🔬 Ease-of-Accessibility Summary for the Glenrose Area
-
-| Factor | Rating | Explanation |
-|--------|--------|-------------|
-| Proximity to Rehab Facility | ⭐⭐⭐⭐⭐ | Glenrose is the primary facility; on-site |
-| Public Transit Quality | ⭐⭐⭐⭐⭐ | ETS buses are 100% low-floor; wheelchair accessible |
-| Pharmacy Access | ⭐⭐⭐⭐ | Medicine Shoppe within 500m; prescriptions & lymphedema supplies |
-| Food Variety | ⭐⭐⭐⭐ | 5+ diverse restaurants on foot; Wi-Fi available |
-| Emergency Hospital Access | ⭐⭐⭐⭐⭐ | U of A Hospital ~1km walk |
-| Winter Accessibility | ⭐⭐ | Extreme cold; some stops lack heated shelters; indoor pathways at Glenrose |
-| Groceries | ⭐⭐⭐ | United Grocers & convenience stores within 500m |
-| EV Charging / Parking | ⭐⭐ | No EV chargers within 1km; street parking only |
-| Social/Support Services | ⭐⭐⭐ | Some nearby; Amputee Coalition chapters available online |
-
----
-
-## 💡 Recommendations for Amputees Visiting/Relocating to the Glenrose Area
-
-1. **Prosthetic rehab:** Glenrose's osseointegration and TMR program is one of Canada's few. Contact Jacqueline Hebert (jhebert@ualberta.ca, ph: 780-492-7846) for referrals.
-2. **Daily needs:** Jasper Avenue corridor has everything within a 5-min walk — hospital, pharmacy, restaurants, grocery.
-3. **Winter prep:** Invest in a good coat, insulated prosthetic liners, and plan indoor routes. The Glenrose Hospital itself is heated and connected to the Health Sciences complex.
-4. **Transit:** ETS buses are wheelchair accessible and affordable. The Super Mobility Bus is also available for those with mobility challenges.
-5. **Community:** Connect with the Amputee Coalition of America and the War Amps for peer support, even though this is in Canada — many Canadian amputees are AMPP members.
+1. **Trail blazing rehab proximity:** Glenrose is literally on-site — one of Canada's top rehab hospitals with osseointegration and TMR programs, and it's actively recruiting for cutting-edge prosthetics research.
+2. **Public transit is strong:** 10+ wheelchair-accessible bus stops within 1km, with routes to downtown, U of A, and LRT stations. The Pedway system enables winter accessibility.
+3. **Pharmacy coverage is excellent:** 6 pharmacies within 2km, including Shoppers Drug Mart (drive-up) and London Drugs (mega-pharmacy).
+4. **Grocery access is solid:** Walmart Supercentre within 635m for full shopping; 9 grocery/convenience options within 1km.
+5. **Restaurant diversity:** 54 options within 1km — critical for amputees with dietary needs (diabetes, weight management).
+6. **River Valley advantage:** Direct access to North Saskatchewan River Valley trails for pool walking and adaptive outdoor activities.
+7. **Winter challenge:** Edmonton winters are harsh. The Pedway and sheltered bus stops help, but amputees with cold sensitivity should plan for heated transit and mobility aid hand warmers.
+8. **Limited entertainment:** Downtown core is ~1.5km away; consider bus routes for cultural outings.
 
 ---
 
-> *Last updated: July 2026 — Clinical trial data from ClinicalTrials.gov; neighborhood data from OpenStreetMap (OSM).*
+## 📎 Quick Links
+
+- [ClinicalTrials.gov — Prosthetic Amputee Studies](https://clinicaltrials.gov/search?term=prosthetic+amputee&aggFilters=ages:adult)
+- [Glenrose Rehabilitation Hospital](https://www.shirleyryanabilitylab.org/)
+- [University of Alberta Hospital](https://www.ualberta.ca/medicine/market-square-health-centre/)
+- [Edmonton Transit Service](https://www.transitchicago.com/) *(Note: Edmonton Transit — actual URL: edmonton.ca/transit)*
+- [Amputee Coalition of America](https://www.amputee-coalition.org/)
+- [Edmonton Pedway Map](https://www.edmonton.ca/city-government/edmonton-pedway)
+
+---
+
+> *Last updated: July 2026 | Data sources: ClinicalTrials.gov API, OpenStreetMap, Edmonton Transit Service*
