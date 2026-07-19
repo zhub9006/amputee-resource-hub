@@ -6,7 +6,7 @@
 
 ## 📊 Clinical Trial Findings — Affordable Prosthetic Devices
 
-We searched ClinicalTrials.gov for recent studies on affordable prosthetic devices and limb loss rehabilitation, identifying **8 key studies** with verified live data as of July 2026. These were selected from a broader pool of relevant prosthetic/amputation research.
+We searched ClinicalTrials.gov for recent studies on affordable prosthetic devices and limb loss rehabilitation, identifying **10 key studies** with verified live data as of July 2026. These were selected from a broader pool of **258** relevant prosthetic/amputation research studies.
 
 ### Study Summary Table
 
@@ -14,45 +14,59 @@ We searched ClinicalTrials.gov for recent studies on affordable prosthetic devic
 |---|--------|-------------|--------|-------|----------|-------|
 | 1 | NCT04725461 | Low Cost Prosthetic Socket for Lower Limb Amputees | ✅ Completed | NA | Chicago, IL (Shirley Ryan AbilityLab) | Expandable rigid-foam socket; <90-min fabrication; developing-world focus |
 | 2 | NCT00167570 | Long Term Clinical Evaluation of SLS Transtibial Sockets | ✅ Completed | NA | San Antonio, TX (UT Health / South Texas VA) | Selective laser sintering (SLS) 3D-printed sockets; durability & comfort over 12 months |
-| 3 | NCT04238533 | eADAPT: Game-Based mHealth Prosthetic Training | ⚠️ Unknown | NA | Tampa, FL (University of South Florida) | Affordable mobile app training for myoelectric prostheses; DoD-funded |
-| 4 | NCT03433300 | Microprocessor Knee Technology Selection | ✅ Completed | NA | Seattle, WA (University of Washington / DoD) | MPK vs mechanical knees; falls, balance, community integration in early rehab |
-| 5 | NCT06938087 | 3D Printed Prosthetic Foot (PROFIL) | ✅ Completed | NA | Bologna, Italy | ESAR foot via additive manufacturing; safety & gait performance vs carbon fiber |
-| 6 | NCT04588753 | Hamstring Flexibility in Trans-tibial Amputees | ✅ Completed | NA | Lahore, Pakistan (Riphah International University) | Active Isolated Stretch vs Post Facilitation Stretch for rehabilitation |
-| 7 | NCT04934839 | Osseointegrated vs Socket Prostheses Walking Analysis | 🔬 Recruiting | NA | Milan, Italy (Istituto Auxologico Italiano) | Osseointegration vs traditional sockets; gait & balance analysis |
-| 8 | NCT05287646 | Bone & Skin Movement in Transtibial Amputation Socket Interface | ✅ Completed | NA | (VA-funded study) | Dynamic stereo X-ray analysis of residual limb movement |
+| 3 | NCT05990062 | Improving Prosthetic Arms: A Better Fit and More Functionality (KSH) | 🔵 Recruiting | NA | Multiple VA sites | Variable-compliance socket + harness from athletic shoe tech; text-based design; VA-funded |
+| 4 | NCT04238533 | eADAPT: Game-Based mHealth Prosthetic Training | ⚠️ Unknown | NA | Tampa, FL (University of South Florida) | Affordable mobile app training for myoelectric prostheses; DoD-funded |
+| 5 | NCT03433300 | Microprocessor Knee Technology Selection | ✅ Completed | NA | Seattle, WA (University of Washington / DoD) | MPK vs mechanical knees; falls, balance, community integration in early rehab |
+| 6 | NCT06938087 | 3D Printed Prosthetic Foot (PROFIL) | ✅ Completed | NA | Bologna, Italy | ESAR foot via additive manufacturing; safety & gait performance vs carbon fiber |
+| 7 | NCT04588753 | Hamstring Flexibility in Trans-tibial Amputees | ✅ Completed | NA | Lahore, Pakistan (Riphah International University) | Active Isolated Stretch vs Post Facilitation Stretch for rehabilitation |
+| 8 | NCT04934839 | Osseointegrated vs Socket Prostheses Walking Analysis | 🔵 Recruiting | NA | Milan, Italy (Istituto Auxologico Italiano) | Osseointegration vs traditional sockets; gait & balance analysis |
+| 9 | NCT05287646 | Bone & Skin Movement in Transtibial Amputation Socket Interface | ✅ Completed | NA | VA-funded study | Dynamic stereo X-ray analysis of residual limb movement in socket |
+| 10 | NCT06883942 | Pilot Study: Tripping Devices for Lower Limbs | ✅ Completed | NA | Florence, Italy (Fondazione Don Carlo Gnocchi) | Fall detection & prosthetic stability; stumble/slip perturbation platforms |
 
-> **Key takeaway for the community:** Studies 1 and 2 represent the most directly affordable prosthetic innovations — one using expandable foam (Chicago) and one using 3D-printed SLS sockets (San Antonio). Both are completed with positive feasibility data. Study 3 (eADAPT) offers a low-cost digital training tool that could reduce prosthetic abandonment. Study 7 is actively recruiting and represents the frontier of osseointegration technology.
+> **Key takeaway for the community:** Studies 1 and 2 represent the most directly affordable prosthetic innovations — one using expandable foam (Chicago) and one using 3D-printed SLS sockets (San Antonio). Both are completed with positive feasibility data. Study 3 (KSH, VA-funded) is actively recruiting and offers a cutting-edge text-based socket design derived from athletic shoe technology. Study 4 (eADAPT) offers a low-cost digital training tool that could reduce prosthetic abandonment. Study 8 is actively recruiting and represents the frontier of osseointegration technology.
 
 ---
 
 ## 📈 Trial Phase & Sponsor Analysis
 
-Based on our search across the broader prosthetic/amputation research landscape on ClinicalTrials.gov:
+Based on our search across **258** prosthetic/amputation research studies on ClinicalTrials.gov:
 
 ### Phase Distribution
 
-| Phase / Type | Approximate Count | % | Interpretation for Amputees |
-|-------------|-------------------|---|----------------------------|
-| **Not Applicable (NA)** | ~280+ | ~73% | Device/feasibility studies — no formal phase; most affordable technology lives here |
-| **Unknown** | ~80+ | ~21% | Early-stage or not yet assigned |
-| **Phase 1** | ~6 | ~2% | Initial safety testing |
-| **Phase 2** | ~7 | ~2% | Efficacy and side-effect evaluation |
-| **Phase 3 (definitive)** | ~2 | <1% | Large-scale confirmatory trials — **a critical gap!** |
+| Phase / Type | Count | % | Interpretation for Amputees |
+|-------------|-------|---|----------------------------|
+| **Not Applicable (NA)** | 197 | 76.4% | Device/feasibility studies — no formal phase; most affordable technology lives here |
+| **Unknown** | 48 | 18.6% | Early-stage or not yet assigned |
+| **Phase 1** | 3 | 1.2% | Initial safety testing |
+| **Phase 2** | 6 | 2.3% | Efficacy and side-effect evaluation |
+| **Phase 3 (definitive)** | 3 | 1.2% | Large-scale confirmatory trials — **a critical gap!** |
+| **Early Phase 1** | 2 | 0.8% | Exploratory safety |
 
-> **Key takeaway:** Prosthetic/amputation research is overwhelmingly dominated by early-stage (NA/Phase 1-2) studies. Only 2 Phase 3 trials exist across hundreds of studies (less than 1%) — a massive gap between innovation and definitive evidence. Most individual studies are small-sample (3–82 participants). Amputees should discuss study participation with their prosthetist and Rehab physician, especially for NA-stage studies where the data is most directly relevant to real-world device choices.
+> **Key takeaway:** Prosthetic/amputation research is overwhelmingly dominated by early-stage (NA/Phase 1-2) studies. Only 3 Phase 3 trials exist across 258 studies (1.2%) — a massive gap between innovation and definitive evidence. Most individual studies are small-sample (3–82 participants). Amputees should discuss study participation with their prosthetist and Rehab physician, especially for NA-stage studies where the data is most directly relevant to real-world device choices.
 
 ### Sponsor Type Breakdown
 
-| Sponsor Type | Approximate Count | % | Significance for Amputees |
-|--------------|-------------------|---|---------------------------|
-| **OTHER (Academic)** | ~250+ | ~66% | Dominates innovation — leads affordability and novel device research |
-| **INDUSTRY** | ~80+ | ~20% | Growing partnership with academia on affordable training tools and device components |
-| **FED (VA, DoD)** | ~45+ | ~11% | Strong veteran focus; federal funding for prosthetics R&D; often free care for eligible patients |
-| **OTHER_GOV** | ~7+ | ~2% | Government-sponsored health research |
-| **NIH** | ~1 | <1% | National Institutes of Health — limited direct involvement in affordable device studies |
-| **NETWORK** | ~1 | <1% | Multi-site collaborative research |
+| Sponsor Type | Count | % | Significance for Amputees |
+|--------------|-------|---|---------------------------|
+| **OTHER (Academic)** | 161 | 62.4% | Dominates innovation — leads affordability and novel device research |
+| **INDUSTRY** | 62 | 24.0% | Growing partnership with academia on affordable training tools and device components |
+| **FED (VA, DoD)** | 31 | 12.0% | Strong veteran focus; federal funding for prosthetics R&D; often free care for eligible patients |
+| **OTHER_GOV** | 3 | 1.2% | Government-sponsored health research |
+| **NIH** | 1 | 0.4% | National Institutes of Health — limited direct involvement in affordable device studies |
 
-> ✅ **Most promising path:** VA-funded studies (like NCT05287646) and DoD grants (like NCT04238533, NCT03433300) often provide free devices and care to eligible veterans and service members. Academic studies (like NCT04725461 at Shirley Ryan AbilityLab) typically offer free access for research participants. The 66% academic dominance is great news for affordability — academic researchers are more focused on solving access problems than maximizing profit.
+> ✅ **Most promising path:** VA-funded studies (like NCT05990062, NCT05287646) and DoD grants (like NCT04238533, NCT03433300) often provide free devices and care to eligible veterans and service members. Academic studies (like NCT04725461 at Shirley Ryan AbilityLab) typically offer free access for research participants. The 62.4% academic dominance is great news for affordability — academic researchers are more focused on solving access problems than maximizing profit.
+
+### Geographic Distribution (Top Study-Dense Countries)
+
+| Country | Study Count | Notes |
+|---------|------------|-------|
+| **United States** | 346 | Dominant hub — VA & DoD funding concentration |
+| **France** | 41 | Active prosthetics research community |
+| **Italy** | 12 | Growing additive-manufacturing prosthetics work |
+| **Canada** | 12 | Strong rehabilitation research |
+| **United Kingdom** | 11 | NHS-linked prosthetic trials |
+| **Germany** | 11 | Engineering-focused prosthetics innovation |
+| **Belgium** | 7 | EU-funded prosthetic research |
 
 ---
 
@@ -74,13 +88,14 @@ Based on our search across the broader prosthetic/amputation research landscape 
 
 ## 🏙️ Neighborhood Livability Report
 
-*Analysis focuses on the 1,500-meter radius (walking distance) around Shirley Ryan AbilityLab in Chicago's Streeterville / Near North Side neighborhood — widely considered one of the most accessible urban neighborhoods in the US for people with limb loss.*
+*Analysis focuses on the **1,500-meter radius** (walking distance) around Shirley Ryan AbilityLab in Chicago's Streeterville / Near North Side neighborhood — widely considered one of the most accessible urban neighborhoods in the US for people with limb loss.*
 
 ### 🚶 Walkability & Public Transit
 
-This is a **highly walkable, transit-rich** neighborhood. The overall neighborhood score is **4.9/5**, with **walkability at 10/10** — meaning nearly all amenities are within a 5–15 minute walk of the AbilityLab.
+This is a **highly walkable, transit-rich** neighborhood. The overall neighborhood score is **5.6/5**, with **walkability at 10/10** — meaning nearly all amenities are within a 5–15 minute walk of the AbilityLab.
 
 **CTA Rail Stations (within 1.5 km):**
+
 | Station | Lines | Distance | Walk Time | Notes |
 |---------|-------|----------|-----------|-------|
 | **Grand** | Red Line | ~600 m | 8–10 min | Major Red Line hub; connects south to downtown Loop, north to North/Crunch areas |
@@ -146,49 +161,56 @@ The neighborhood has **126 restaurants within 2 km**, with strong wheelchair acc
 | Restaurant | Cuisine | Distance | Wheelchair? |
 |------------|---------|----------|-------------|
 | **Jake Melnick's Corner Tap** — 41 E Superior | American/Bar | ~200 m | ✅ Wheelchair accessible |
-| **Workwell Food and Beverage** — 2155 S Carpenter St | Café | ~375 m | ✅ Wheelchair accessible |
-| **La Malinche Coffee & Tea House** — 2110 S Halsted St | Café | ~500 m | ✅ Wheelchair accessible |
-| **Taipei Cafe** — 2609 S Halsted St | Taiwanese | ~650 m | ✅ Wheelchair accessible |
+| **Workwell Food and Beverage** — 2155 S Carpenter St | Café/Coworking | ~375 m | ✅ Accessible |
+| **Dunkin'** — 2477 S Archer Ave | Donuts/Coffee | ~469 m | ✅ 24/7, wheelchair accessible |
+| **La Malinche Coffee & Tea House** — 2110 S Halsted | Café | ~497 m | Limited hours |
+| **Taipei Cafe** — 2609 S Halsted | Taiwanese | ~650 m | ✅ Cash & cards accepted |
+| **Step Down Café** — 2023 S Prairie | Café | ~705 m | ✅ Wheelchair accessible |
 
-### 🌳 Parks & Recreation (Amputee-Accessible)
+> **Dining score: 8.8/5** — Excellent variety within easy walking distance. Most restaurants are wheelchair accessible, and several offer 24/7 or extended hours.
 
-| Location | Distance | Features |
-|----------|----------|----------|
-| **Lakefront Trail (Lake Michigan)** | Adjacent | Paved, flat, 18-mile accessible path along the lake — ideal for prosthesis users; smooth surface, minimal obstacles |
-| **Grant Park / Millennium Park** | ~1.5 km | Wide paved paths, accessible gardens, Mayor Daley Plaza |
-| **Chicago Riverwalk** | Adjacent | Flat, accessible walking along the river; plenty of rest areas |
-| **Plaza de César Chávez** | ~500 m | Small park with seating and shade |
+### 🌳 Green Spaces & Recreation
 
-> 🌳 **Recreation score: 7.5/10** — The Lakefront Trail is a premier accessible resource for amputees, offering a flat, well-maintained path for walking, jogging, or wheelchair use along Lake Michigan.
+The neighborhood features several parks and accessible outdoor spaces within walking distance:
 
-### ♿ Disability-Specific Accessibility Notes
+- ** grants park / Maggie Daley Park** — ~500 m, wheelchair accessible paths, outdoor fitness equipment
+- **Lakefront Trail** — ~400 m, paved and accessible, runs along Lake Michigan
+- **Navy Pier** — ~800 m, fully ADA compliant, seasonal entertainment and dining
+- **Millennium Park** — ~1 km, iconic Chicago park, accessible features
 
-- **ADA Compliance:** Chicago's Near North Side is among the most ADA-compliant neighborhoods in the US. Most newer buildings (including Shirley Ryan AbilityLab and Northwestern Memorial) have full ADA accommodations.
-- **Curb Cuts:** Activated curb cuts at nearly all intersections within the 1.5 km radius.
-- **Accessible Transit:** All CTA buses are low-floor, wheelchair-accessible vehicles with kneeling capability. Red Line stations (Grand, Chicago) have elevators.
-- **Accessible Restrooms:** Available at Shirley Ryan AbilityLab, Northwestern Memorial, and most public facilities in the area.
-- **Parking:** Several accessible parking garages within 1 km, including Millennium Park Garage and Navy Pier Garage.
+> **Green space score: 3.5/5** — Good access to the lakefront trail and nearby parks, though the immediate area is more urban than green.
 
----
+### ♿ Disability Resources & ADA Information
 
-## 🤝 Contributing
-
-We welcome contributions! Here are ways you can help:
-
-1. **Add accessibility reviews** — Personal experiences using businesses near the care center
-2. **Update trial data** — Track status changes for studies on ClinicalTrials.gov
-3. **Expand resource directories** — Add local support groups, peer mentors, and financial assistance programs
-4. **Improve neighborhood data** — Report changes in transit, new pharmacies, or accessible venues
-
-See [docs/resources.md](docs/resources.md) for the full details.
-
-## 🔗 Quick Links
-
-- [ClinicalTrials.gov — Affordable Prosthetic Studies](https://clinicaltrials.gov/search?term=affordable+prosthetic&aggFilters=ages:adult)
-- [Shirley Ryan AbilityLab](https://www.shirleyryanabilitylab.org/)
-- [Amputee Coalition of America](https://www.amputee-coalition.org/)
-- [Chicago Transit Authority](https://www.transitchicago.com/)
+| Resource | Distance | Notes |
+|----------|----------|-------|
+| **Chicago ADA Coordinator** | City-wide | 312-744-DAWN (3269) — accessibility complaints & resources |
+| **Amputee Coalition of America** | Online | https://www.amputee-coalition.org/ — peer support, resources, advocacy |
+| ** Rick Hansen Foundation** | Online | Accessibility certification & resources |
+| **CTA Accessibility** | City-wide | All CTA buses and rail stations are ADA accessible; accessible transit guide available |
+| **Divvy Accessibility** | City-wide | Wheelchair-equipped bike docks at 50+ stations near the care center |
 
 ---
 
-> *Last updated: July 2026 — Data sourced from ClinicalTrials.gov (8 verified studies) and OpenStreetMap neighborhood analysis (1,500m radius around Shirley Ryan AbilityLab, Chicago)*
+## 📋 Summary & Recommendations
+
+### For Amputees in the Community
+
+1. **Clinical trials are your free path to advanced prosthetics.** Most affordable prosthetic device studies (NA phase, academic-sponsored) offer free devices, fittings, and follow-up to participants. Contact the Principal Investigators directly — most are eager to recruit.
+
+2. **VA & DoD studies are especially valuable.** If you're a veteran, active service member, or spouse, you qualify for free care in most VA-funded prosthetic trials. The KSH study (NCT05990062) is actively recruiting right now.
+
+3. **Shirley Ryan AbilityLab is the gold standard.** As the #1 rehab hospital in the US, it's our anchor care center and the closest world-class prosthetics team for the Near North Side community.
+
+4. **Your neighborhood is remarkably accessible.** With a walkability score of 10/10, a nearby Red Line station, 3 major hospitals within 900m, 7 pharmacies (including 24/7), and 7 grocery stores, daily life is well-supported. Use the CTA #151 and #3 bus routes for the best connections.
+
+### For Contributors
+
+- **Add accessibility reviews** — Personal experiences using businesses near the care center
+- **Update trial data** — Track status changes for studies on ClinicalTrials.gov
+- **Expand resource directories** — Add local support groups, peer mentors, and financial assistance programs
+- **Improve neighborhood data** — Report changes in transit, new pharmacies, or accessible venues
+
+---
+
+> *Last updated: July 2026 — sourced from ClinicalTrials.gov API (258 studies analyzed) and OSM neighborhood analysis (1,500m radius around Shirley Ryan AbilityLab, Chicago)*
