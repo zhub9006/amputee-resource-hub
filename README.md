@@ -2,7 +2,7 @@
 
 Community resource hub for people adjusting to limb loss — research, support, and accessibility information.
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 ```
 amputee-resource-hub/
@@ -16,12 +16,12 @@ amputee-resource-hub/
 ### `docs/resources.md`
 A comprehensive research and accessibility resource covering:
 
-- **📊 Clinical Trial Findings** — 10 recent studies on affordable prosthetic devices, with phase, sponsor, and geographic trend analysis from ClinicalTrials.gov (514 studies analyzed)
+- **📊 Clinical Trial Findings** — 10 recent studies on affordable prosthetic devices, with phase, sponsor, and geographic trend analysis from ClinicalTrials.gov (393 studies analyzed)
 - **🏥 Care Center Profile** — Shirley Ryan AbilityLab, Chicago (world's #1 ranked rehabilitation hospital)
 - **🏙️ Neighborhood Livability Report** — Detailed accessibility analysis around the care center including:
   - Public transit (17+ CTA bus stops, Red Line station, Water Taxi)
   - Healthcare facilities (3 major hospitals within 900m)
-  - Pharmacies (6 locations within 1km, including 24/7 options)
+  - Pharmacies (8 locations within 1km, including 24/7 options)
   - Groceries, restaurants, parks, and recreation
   - Disability-specific resources and ADA information
 
@@ -45,4 +45,4 @@ See [docs/resources.md](docs/resources.md) for the full details.
 
 ---
 
-> *Last updated: July 2025*
+> *Last updated: July 2026*
