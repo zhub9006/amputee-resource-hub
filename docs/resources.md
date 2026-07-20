@@ -62,13 +62,13 @@ Based on 10-study targeted search and broader ClinicalTrials.gov context (348 to
 | **Phone** | (312) 238-6143 |
 | **Website** | https://www.shirleyryanabilitylab.org/ |
 | **Key Study** | NCT04725461 (Low Cost Socket) — Completed |
-| **Coordinates** | 41.89387° N, -87.61843° W |
+| **Coordinates** | 41.89387 N, 87.61843 W |
 
 ---
 
 ## Neighborhood Livability Report
 
-*Area: Shirley Ryan AbilityLab, Streeterville / Near North Side, Chicago. Source: ClinicalTrials.gov + OpenStreetMap.*
+Area: Shirley Ryan AbilityLab, Streeterville / Near North Side, Chicago. Source: ClinicalTrials.gov + OpenStreetMap.
 
 ### OSM Neighborhood Scores (1 km radius)
 
@@ -97,7 +97,7 @@ Based on 10-study targeted search and broader ClinicalTrials.gov context (348 to
 | **Division** | Blue | Yes | ~0.8 km |
 | **Washington/Wells** | Brown, Orange, Pink, Purple | Yes | ~0.9 km |
 
-**Buses:** 24+ routes. **Water Taxi:** ~0.4 km, wheelchair-accessible.
+Buses: 24+ routes. Water Taxi: ~0.4 km, wheelchair-accessible.
 
 ### Healthcare Within 2 km
 
@@ -118,23 +118,23 @@ Based on 10-study targeted search and broader ClinicalTrials.gov context (348 to
 
 ### Daily Living & Disability Resources
 
-- **Groceries:** Whole Foods (0.3 km); Trader Joe's (0.7 km); Jewel (1.2 km)
-- **Parks:** Lakefront Trail (0.4 km); Lakeshore East (0.4 km); Maggie Daley (1.2 km); Riverwalk
-- **Adaptive Sports:** GLASA — 0.9 km
-- **Community:** DRIVE peer support at SRL; Amputee Coalition Chicago
-- **ADA:** Michigan Ave & Ohio St corridors; elevators on all CTA platforms; curb cuts everywhere
+- Groceries: Whole Foods (0.3 km); Trader Joe's (0.7 km); Jewel (1.2 km)
+- Parks: Lakefront Trail (0.4 km); Lakeshore East (0.4 km); Maggie Daley (1.2 km); Riverwalk
+- Adaptive Sports: GLASA — 0.9 km
+- Community: DRIVE peer support at SRL; Amputee Coalition Chicago
+- ADA: Michigan Ave & Ohio St corridors; elevators on all CTA platforms; curb cuts everywhere
 
 ---
 
 ## Quick Resources
 
-- [ClinicalTrials.gov — Affordable Prosthetics](https://clinicaltrials.gov/search?term=affordable+prosthetic)
-- [Shirley Ryan AbilityLab](https://www.shirleyryanabilitylab.org/)
-- [DRIVE Peer Support](https://www.shirleyryanabilitylab.org/amputee-rehabilitation/drive/)
-- [Amputee Coalition of America](https://www.amputee-coalition.org/)
-- [CTA Accessibility](https://www.transitchicago.com/accessibility/)
-- [GLASA — Adaptive Sports](https://www.glasa.org/)
+- ClinicalTrials.gov — Affordable Prosthetics: https://clinicaltrials.gov/search?term=affordable+prosthetic
+- Shirley Ryan AbilityLab: https://www.shirleyryanabilitylab.org/
+- DRIVE Peer Support: https://www.shirleyryanabilitylab.org/amputee-rehabilitation/drive/
+- Amputee Coalition of America: https://www.amputee-coalition.org/
+- CTA Accessibility: https://www.transitchicago.com/accessibility/
+- GLASA — Adaptive Sports: https://www.glasa.org/
 
 ---
 
-*Last updated: July 2026. Sources: ClinicalTrials.gov (348+ studies), OpenStreetMap, Shirley Ryan AbilityLab official resources. See [docs/clinical-trial-supplement.md](clinical-trial-supplement.md) for extended study profiles.*
+*Last updated: July 2026. Sources: ClinicalTrials.gov (348+ studies), OpenStreetMap, Shirley Ryan AbilityLab official resources.*
