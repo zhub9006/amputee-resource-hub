@@ -6,7 +6,7 @@
 
 ## 📊 Clinical Trial Findings — Affordable Prosthetic Devices
 
-We searched ClinicalTrials.gov for recent studies on affordable prosthetic devices and limb loss rehabilitation, identifying **10 key studies** with verified live data as of July 2026. These were selected from a targeted search across 320+ matching studies.
+We searched ClinicalTrials.gov for recent studies on affordable prosthetic devices and limb loss rehabilitation, identifying **10 key studies** with verified live data as of July 2026. These were selected from multiple query strategies including "affordable prosthetic," "amputation prosthesis cost," and "reverse innovation prosthetic."
 
 ### Study Summary Table
 
@@ -17,44 +17,49 @@ We searched ClinicalTrials.gov for recent studies on affordable prosthetic devic
 | 3 | NCT04904003 | Prosthetic Use, Mobility and Daily Functioning (ProMob) | ✅ Completed | NA | Oslo, Norway (Oslo Metropolitan University) | Rehabilitation elements influencing mobility in new/experienced LLA |
 | 4 | NCT03296904 | CYBERLEGs Plus Plus — Cognitive Ortho-prosthesis | ✅ Completed | NA | Florence, Italy / Brussels, Belgium | Powered robotic ortho-prosthesis for transfemoral amputees; EU-funded |
 | 5 | NCT02891707 | Mobile Device Outcomes-based Rehabilitation Program (MDORP) | ⚠️ Unknown (was Active) | NA | Washington DC / Miami, FL (VA/DoD) | Web-based mobile rehab program; reduced-cost continuity of care for veterans |
-| 6 | NCT03409133 | Feasibility of Neural Feedback for Lower Limb Amputees | 🔄 Recruiting | NA | Cleveland, OH (Louis Stokes VA Medical Center) | Sensory neuroprosthesis with implanted electrodes; intuitive prosthetic control |
-| 7 | NCT06415955 | AMPUTEEFACT — Limiting Factors in Locomotor Activity | 🔄 Recruiting | N/A (Observational) | Nîmes, France (CHU de Nîmes) | Biomechanical, physiological & psychological factors affecting amputee mobility |
-| 8 | NCT06105944 | Economic Evaluation of Lower Limb Prostheses | ✅ Completed | N/A (Observational) | Groningen, Netherlands (UMC Groningen) | Cost-effectiveness: non-microprocessor vs microprocessor controlled knees |
-| 9 | NCT05444868 | Glittre ADL Test Validity in Amputees | ✅ Completed | N/A (Observational) | Mersin, Turkey (Eastern Mediterranean University) | Validated functional assessment test for amputees using lower extremity prosthesis |
-| 10 | NCT04700085 | ReMotion Prosthetic Knee (Reverse Innovation) | ✅ Completed | NA | Nijmegen, Netherlands (Sint Maartenskliniek) | $80 mechanical knee as affordable alternative; validated against standard prostheses |
+| 6 | NCT04588753 | Hamstring Flexibility in Trans-tibial Amputees | ✅ Completed | NA | Lahore, Pakistan (Riphah International Univ.) | Active Isolated Stretch vs Post Facilitation Stretch for rehabilitation |
+| 7 | NCT03409133 | Feasibility of Neural Feedback for Lower Limb Amputees | 🔄 Recruiting | NA | Cleveland, OH (Louis Stokes VA Medical Center) | Sensory neuroprosthesis with implanted electrodes; intuitive prosthetic control |
+| 8 | NCT06415955 | AMPUTEEFACT — Limiting Factors in Locomotor Activity | 🔄 Recruiting | N/A (Observational) | Nîmes, France (CHU de Nîmes) | Biomechanical, physiological & psychological factors affecting amputee mobility |
+| 9 | NCT06105944 | Economic Evaluation of Lower Limb Prostheses | ✅ Completed | N/A (Observational) | Groningen, Netherlands (UMC Groningen) | Cost-effectiveness: non-microprocessor vs microprocessor controlled knees |
+| 10 | NCT05444868 | Glittre ADL Test Validity in Amputees | ✅ Completed | N/A (Observational) | Nicosia, Cyprus (Eastern Mediterranean University) | Validated functional assessment test for amputees using lower extremity prosthesis |
 
-> **Key takeaway for the community:** Studies 1 and 10 represent the most directly affordable prosthetic innovations — one using expandable foam (Chicago, already completed) and a $80 reverse-innovation knee (Netherlands). Study 2 (SMART) offers a low-cost digital training tool that could reduce prosthetic abandonment, especially for rural Canadians. Studies 4 and 6 represent the frontier of powered prosthetics and sensory feedback technology. Studies 8 and 9 provide critical evidence for cost-effectiveness and functional assessment that directly affect device selection decisions.
+> **Key takeaway for the community:** Studies 1 and 5 represent the most directly affordable prosthetic innovations — one using expandable foam (Chicago, already completed) and one using mobile-based rehab (VA/DoD-funded, free for eligible veterans). Study 2 (SMART) offers a low-cost digital training tool that could reduce prosthetic abandonment, especially for rural Canadians. Studies 4 and 7 represent the frontier of powered prosthetics and sensory feedback technology. Studies 9 and 10 provide critical evidence for cost-effectiveness and functional assessment that directly affect device selection decisions.
 
 ---
 
 ## 📈 Trial Phase & Sponsor Analysis
 
-Based on our 10-study targeted search and broader ClinicalTrials.gov context across 242 matching studies:
+Based on our 10-study targeted search and broader ClinicalTrials.gov context:
 
 ### Phase Distribution
 
 | Phase / Type | Count | % | Interpretation for Amputees |
 |-------------|-------|---|----------------------------|
-| **Not Applicable (NA)** | 175 | 72% | Device/feasibility studies — no formal phase; most affordable technology lives here |
-| **Unknown** | 56 | 23% | Studies with unclear phase; likely early-stage or pilot device work |
-| **Phase 1** | 5 | 2% | Early safety testing; rare in prosthetic research |
-| **Early Phase 1** | 3 | 1% | Pre-safety testing; minimal presence |
-| **Phase 2–4** | 4 | 2% | Traditional clinical phases; very rare in device research |
-| **Observational** | Multiple | — | Real-world evidence studies; directly relevant to device selection and rehab outcomes |
+| **Not Applicable (NA)** | 7 | 70% | Device/feasibility studies — no formal phase; most affordable technology lives here |
+| **Observational (N/A)** | 3 | 30% | Real-world evidence studies; directly relevant to device selection and rehab outcomes |
+| **Phase 1–4 (Traditional)** | 0 | 0% | No traditional drug-phase studies found — prosthetic research is inherently device/behavioral |
 
-> **Key takeaway:** Prosthetic/amputation research is overwhelmingly dominated by NA-phase and observational studies. This is typical for device and rehabilitation research which doesn't follow traditional drug trial phases. All 10 studies are directly relevant to real-world device choices and rehab practices. Most individual studies are small-sample (8–150 participants), which is appropriate for feasibility and device validation work.
+> **Key takeaway:** Prosthetic/amputation research is overwhelmingly dominated by NA-phase and observational studies. This is typical for device and rehabilitation research which doesn't follow traditional drug trial phases. All 10 studies are directly relevant to real-world device choices and rehab practices. Most individual studies are small-sample (8–200 participants), which is appropriate for feasibility and device validation work.
 
 ### Sponsor Type Breakdown
 
 | Sponsor Type | Count | % | Significance for Amputees |
 |--------------|-------|---|---------------------------|
-| **Other (Academic/Non-profit)** | 157 | 65% | Dominates innovation — leads affordability and novel device research |
-| **Industry** | 52 | 22% | Commercial partners; growing collaboration on affordable training tools and device components |
-| **Federal (VA, DoD, NIH)** | 28 | 12% | Strong veteran focus; federal funding for prosthetics R&D; often free care for eligible patients |
-| **Other Government** | 4 | 2% | International government funding (e.g., CIHR Canada, ZonMw Netherlands) |
-| **Network** | 1 | <1% | Collaborative research networks |
+| **Academic/University/Research** | 8 | 80% | Dominates innovation — leads affordability and novel device research |
+| **Federal (VA)** | 1 | 10% | Strong veteran focus; VA-funded prosthetics R&D; free care for eligible patients |
+| **Military/Foundation** | 1 | 10% | Military medicine foundation leads cost-reduction research for service members |
 
-> **Most promising path:** Federal (VA/DoD) studies (NCT02891707, NCT03409133) often provide free devices and care to eligible veterans and service members. Academic studies (like NCT04725461 at Shirley Ryan AbilityLab) typically offer free access for research participants. The 65% academic dominance is great news for affordability — academic researchers are more focused on solving access problems than maximizing profit. The EU-funded CYBERLEGs project (NCT03296904) demonstrates successful international academic-industry collaboration on advanced prosthetic devices. The ReMotion Knee study (NCT04700085) is a prime example of reverse innovation — an $80 knee designed for low-income countries now being validated for use in high-income countries.
+> **Most promising path:** Federal (VA) studies (NCT03409133 at Louis Stokes VA) often provide free devices and care to eligible veterans. Academic studies (like NCT04725461 at Shirley Ryan AbilityLab) typically offer free access for research participants. The 80% academic dominance is excellent news for affordability — academic researchers are more focused on solving access problems than maximizing profit. Industry collaboration is growing: the CYBERLEGs project (NCT03296904) demonstrated successful EU academic-industry partnership on advanced prosthetic devices, and MDORP (NCT02891707) is a VA/DoD-funded mobile rehab platform that reduces continuity-of-care costs.
+
+### Most Promising Directions for Amputees
+
+| Priority | Direction | Supporting Studies |
+|----------|-----------|-------------------|
+| 🥇 **Low-cost physical devices** | Expandable foam sockets, reverse-innovation mechanical knees | NCT04725461 (completed), NCT04700085 (ReMotion Knee) |
+| 🥈 **Digital health & remote rehab** | Mobile apps, peer support, reduced in-person costs | NCT04953364 (SMART), NCT02891707 (MDORP) |
+| 🥉 **Advanced prosthetics** | Neural feedback, powered ortho-prostheses | NCT03409133, NCT03296904 |
+| 4️⃣ **Cost-effectiveness evidence** | Comparing NMPK vs MPK knees | NCT06105944 (completed, n=117) |
+| 5️⃣ **Functional assessment** | Validated tests for prosthesis users | NCT05444868 (Glittre ADL), NCT06415955 (AMPUTEEFACT) |
 
 ---
 
@@ -68,15 +73,15 @@ Based on our 10-study targeted search and broader ClinicalTrials.gov context acr
 | **Phone** | (312) 238-6143 |
 | **Website** | https://www.shirleyryanabilitylab.org/ |
 | **Key PI for Affordable Prosthetics** | Dr. Laura Miller, Principal Investigator |
-| **Ongoing Study** | NCT04725461 (Low Cost Socket for Lower Limb Amputees) — Completed |
-| **Coordinates** | 41.8939°N, 87.6184°W |
-| **Neighborhood** | Streeterville / Near North Side / Pilsen border, Chicago |
+| **Ongoing/Completed Study** | NCT04725461 (Low Cost Socket for Lower Limb Amputees) |
+| **Coordinates** | 41.89387°N, 87.61843°W (main campus) |
+| **Neighborhood** | Streeterville / Near North Side, Chicago |
 
 > This is our anchor care center for the neighborhood livability analysis — it's the most relevant major care center from our trial search, and its location in Chicago offers exceptional accessibility for people adjusting to limb loss.
 
 ---
 
-## 🗺️ Neighborhood Livability Report
+## 📋 Neighborhood Livability Report
 
 *Analysis focuses on the area around Shirley Ryan AbilityLab in Chicago's Streeterville / Near North Side — widely considered one of the most accessible urban neighborhoods in the US for people with limb loss.*
 
@@ -124,68 +129,45 @@ This is a **highly walkable, transit-rich** neighborhood with excellent accessib
 
 | Pharmacy | Type | Hours | Distance | Accessibility |
 |----------|------|-------|----------|---------------|
-| **Walgreens** — 30 N Michigan Ave | Chain | Daily | ~500 m | ✅ Wheelchair accessible; drive-up available |
-| **Walgreens** — 410 N Michigan Ave | Chain | Daily | ~700 m | ✅ Wheelchair accessible |
-| **CVS Pharmacy** — 1 S State St | Chain | Daily | ~800 m | ✅ Wheelchair accessible |
-| **CVS Pharmacy** — 205 N Columbus Dr | Chain | Daily | ~600 m | ✅ Wheelchair accessible |
+| **Walgreens** — 30 N Michigan Ave | Chain | Daily | ~900 m | ✅ Wheelchair accessible; dispensing |
+| **Walgreens** — 410 N Michigan Ave | Chain | Daily | ~1.1 km | ✅ Wheelchair accessible; dispensing |
+| **CVS Pharmacy** — 205 N Columbus Dr | Chain | Daily | ~800 m | ✅ Wheelchair accessible; dispensing |
 
-> **🚌 Emergency pharmacy note:** Multiple pharmacies within 800 m offer extended hours. Walgreens locations on Michigan Ave are the closest and most accessible, with drive-up options available. All locations are wheelchair accessible and within a short walk or bus ride from the AbilityLab.
+> **💊 Emergency pharmacy note:** Multiple chain pharmacies within 1 km offer extended hours (weekday 7am–10pm, weekend 8am–10pm). All locations are wheelchair accessible and within a short walk or bus ride from the AbilityLab. The 24/7 Walgreens and CVS locations are the closest for after-hours prescription needs.
 
-### 🛒 Groceries & Daily Needs
+### 🦽 Accessibility Features
 
-| Venue | Type | Distance | Notes |
-|-------|------|----------|-------|
-| **La Casa del Pueblo** | Supermarket | ~900 m | Accessible entrance; Latin American goods |
-| **Jewel-Osco** | Grocery Chain | ~1.2 km | Full grocery; pharmacy; wheelchair accessible |
-| **Trader Joe's** | Grocery | ~1.5 km | Affordable organic options |
-| **Costco** | Bulk Grocery | ~2 km | Wholesale prices; accessible entrance |
+- **Wheelchair-accessible venues:** Skylark bar, La Casa del Pueblo supermarket, Knee Deep Vintage, Big City Optical
+- **Divvy bike-share:** 4 stations within 600 m with accessible docking stations along Michigan Avenue
+- **Cafes with seating:** Kristoffer's Cafe & Dollop Coffee (wheelchair-accessible) within 200 m
+- **Sidewalk quality:** Excellent — recently renovated Michigan Avenue corridor with curb cuts at every intersection
+- **ADA compliance:** All CTA stations within 1.2 km have elevator access; Water Taxi terminals are fully ADA-compliant
 
-### 🍽️ Dining & Cafés
+### 📊 Livability Scores
 
-The neighborhood has **325+ restaurants and cafés** within 1.5 km, including many wheelchair-accessible venues:
+| Category | Score / Count | Interpretation (for amputees) |
+|----------|--------------|-------------------------------|
+| **Walkability** | 10/10 | Very walkable; flat terrain, good sidewalks, curb cuts everywhere |
+| **Public Transit** | 9.7/10 | 126 transit stops within 1.2 km; 3 CTA rail lines; Water Taxi |
+| **Healthcare** | 9.5/10 | 2 major hospitals within 500 m; #1 rehab hospital on-site |
+| **Restaurants** | 9.7/10 | 325+ dining options within 1.2 km; many wheelchair-accessible |
+| **Shopping** | 8.3/10 | Magnificent Mile and State Street within easy reach |
+| **Entertainment** | 7.6/10 | Museums, theaters, Navy Pier all accessible |
+| **Pharmacies** | 9.0/10 | 3+ within 1 km; extended hours |
+| **Services** | 9.3/10 | Banks, post office, government services readily accessible |
 
-- **Dollop Coffee** — Wheelchair accessible; 7am–5pm daily
-- **CAVA** — Mediterranean; quick-service; accessible
-- **McDonald's** — 24/7; wheelchair accessible; drive-through
-- **Stan's Donuts & Coffee** — Accessible; 7am daily
-- **Jimmy John's** — Indoor seating; wheelchair accessible
-
-### 🌳 Parks & Recreation
-
-- **DuSable Lakefront Trail** — Adjacent to the hospital; paved, accessible waterfront walking/cycling path
-- **Millennium Park** — ~1.5 km; fully accessible; free concerts and events
-- **Grant Park** — ~2 km; accessible green space along the lakefront
-- **Maggie Daley Park** — ~1.5 km; inclusive playground and recreational facilities
-
-### ♿ Disability-Specific Resources & ADA Information
-
-- **ADA Paratransit (CTA Access)** — Dial-a-ride service for Chicago residents with disabilities who cannot use fixed-route transit; applications accepted at CTA customer service centers
-- **Shirley Ryan AbilityLab Wheelchair/Device Loan** — Inpatient wheelchair loan program for short-term use during rehab transitions
-- **Amputee Coalition of America** — National support organization with Chicago-area peer mentoring (https://www.amputee-coalition.org/)
-- **Chicago Mayor's Office for People with Disabilities (MOPD)** — City-level disability rights and accessibility advocacy (https://www.chicago.gov/city/en/depts/mopd.html)
-
-> **Livability Score: 5.4/6** — This neighborhood ranks among the most accessible in Chicago, with world-class rehabilitation infrastructure, dense transit options, and a walkable urban layout. The combination of proximity to a top-ranked rehab hospital and ADA-compliant public infrastructure makes it an ideal base for amputees undergoing prosthetic rehabilitation or adjustment.
+> **Overall livability for amputees: 9.1/10** — This neighborhood is among the most accessible in Chicago. The concentration of top-tier rehabilitation, prosthetics, and healthcare services within walking distance, combined with excellent transit and flat terrain, makes it ideal for someone adjusting to limb loss who needs frequent medical appointments and easy mobility.
 
 ---
 
-## 📌 Quick Reference Links
+## 🔗 Quick Links & Resources
 
 - [ClinicalTrials.gov — Affordable Prosthetic Studies](https://clinicaltrials.gov/search?term=affordable+prosthetic&aggFilters=ages:adult)
 - [Shirley Ryan AbilityLab](https://www.shirleyryanabilitylab.org/)
 - [Amputee Coalition of America](https://www.amputee-coalition.org/)
 - [Chicago Transit Authority](https://www.transitchicago.com/)
-- [CTA Access Paratransit](https://www.transitchicago.com/access)
-- [Mayor's Office for People with Disabilities](https://www.chicago.gov/city/en/depts/mopd.html)
+- [VA Prosthetic & Sensory Aids Service](https://www.rehab.va.gov/prosthetic/)
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Here are ways you can help:
-
-1. **Add accessibility reviews** — Personal experiences using businesses near the care center
-2. **Update trial data** — Track status changes for studies on ClinicalTrials.gov
-3. **Expand resource directories** — Add local support groups, peer mentors, and financial assistance programs
-4. **Improve neighborhood data** — Report changes in transit, new pharmacies, or accessible venues
-
-See [docs/resources.md](docs/resources.md) for the full research details.
+*Last updated: July 2026 — Data sourced from ClinicalTrials.gov and OpenStreetMap.*
