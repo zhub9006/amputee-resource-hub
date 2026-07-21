@@ -163,140 +163,112 @@ The area is exceptionally well-served by Chicago's transit network, critical for
 
 | Transit Type | Stations/Stops | Details |
 |---|---|---|
-| **CTA Red Line** | Grand Station (~400m), Chicago Station (~800m) | Direct access to downtown Loop |
-| **CTA Brown Line** | Sedgwick Station (~500m), Chicago Station (~800m) | Connects to downtown; close to RIC campus |
-| **CTA Orange Line** | Clinton Station (~1.2km), Adams/Wabash (~1.5km) | Cross-town connections |
-| **CTA Bus Routes** | Multiple routes within 500m | Routes 3, 20, 56, 60, 120, 124, 125 |
-| **Water Taxi** | Shoreline Sightseeing / Navy Pier (~1km) | Wheelchair-accessible river transit |
-| **Divvy Bike Share** | McClurg Ct & Ohio St (outside clinic, 50m) | Adaptive cycling programs available |
-| **Metra** | Ogilvie Transportation Center (~1.5km) | Regional rail for suburbs |
+| **CTA Red Line** | Grand Station (~400m), Chicago Station (~700m) | 24/7 service; wheelchair-accessible stations |
+| **CTA Brown Line** | Chicago Station (same complex) | Connects to Evanston and Loop |
+| **CTA Purple Line** | Chicago Station (weekday rush) | Connects to Linden/Howard |
+| **CTA Bus Routes** | 17+ routes including #2, #33, #65, #120, #125, #130, #142, #146, #148, #151, #156, #157 | Frequent service along Michigan Ave, State St, Grand Ave |
+| **CTA State & Lake** | Major transfer stop (~900m) | Connects Red, Brown, Purple, Orange, Pink lines |
+| **Metra (Millennium Station)** | ~1.2 km | Commuter rail to suburbs; wheelchair accessible |
+| **Water Taxi** | Navy Pier Terminal (~650m), Shoreline Sightseeing (~450m) | Scenic transit along Chicago River and Lake Michigan |
 
-**Key for Amputees:** ADA-compliant buses, wheelchair-accessible Water Taxi, Red/Brown/Orange lines with elevator access at all major stations. Real-time departure boards and shelter at CTA stops. The Red Line's Grand Station is only ~400m from Shirley Ryan AbilityLab's main entrance.
-
----
-
-### 🏥 Healthcare Facilities
-
-#### Major Hospitals Within 1.5 km:
-| Hospital | Distance | Notes |
-|---|---|---|
-| **Shirley Ryan AbilityLab** | 0m (center) | #1 rehab hospital in US, amputation program |
-| **Rehabilitation Institute of Chicago (RIC)** | ~200m | Shares campus; world-class rehab & research |
-| **Northwestern Memorial Hospital** | ~800m | Top-ranked academic medical center, Level 1 trauma |
-| **Northwestern Prentice Women's Hospital** | ~1km | Adjacent to Northwestern Memorial |
-
-#### Primary Care & Specialty Clinics:
-| Facility | Type | Distance |
-|---|---|---|
-| **Northwestern Medical Group** | Multi-specialty | ~500m |
-| **Streeterville Health Center** | Primary Care (Northwestern) | ~400m |
-| **Northwestern Urgent Care** | Urgent Care | ~600m |
-| **Loyola Medicine** | Multi-specialty | ~1.3km |
-
-#### Rehab & Prosthetic-Specific Centers Near the Care Hub:
-- **Shirley Ryan AbilityLab** — The primary center itself, with dedicated amputation and prosthetic programs
-- **Rehabilitation Institute of Chicago (RIC)** — Adjacent campus, specialty inpatient/outpatient rehab
-- **Northwestern Medicine Adaptive Sports & Rehabilitation** — Sports medicine and adaptive fitness
-- **Military Advanced Training Center (MATC)** — Prosthetic training for veterans (~3km)
+**Accessibility notes:** CTA stations are wheelchair-accessible; buses have ramps; all transit accepts Ventra cards. The Red Line's Grand Station is the closest at just ~400m from the AbilityLab.
 
 ---
 
-### 💊 Pharmacies (Critical for Prosthetic Limb Care & Pain Management)
+### 🏥 Healthcare Facilities — Score: 9.5 / 10 (Outstanding)
 
-| Pharmacy | Address | Distance | Hours | Notes |
-|---|---|---|---|---|
-| **Walgreens** | 410 N Michigan Ave | ~400m | 24/7 | Closest; wheelchair accessible; drives up for prescriptions |
-| **CVS Pharmacy** | 205 N Columbus Dr | ~800m | 24/7 | Drive-through pharmacy |
-| **CVS Pharmacy** | 1 S State St | ~600m | 24/7 | Downtown location; quick pickup |
-| **Walgreens** | 30 N Michigan Ave | ~800m | 24/7 | Main State Street location |
-| **Northwestern Pharmacy** | 251 E Huron St | ~700m | Mo-Fr 9am-6pm | On-site at Northwestern Hospital |
+The area around Shirley Ryan AbilityLab is one of the richest medical corridors in the Midwest.
 
-**Key for Amputees:** Three 24/7 pharmacies within 800m ensures rapid access to medications, skin care supplies, and prosthetic liner creams at any hour. Northwestern Hospital pharmacy provides specialty compounding for pain management.
-
----
-
-### 🛒 Groceries — Score: 9.7/10
-
-**34 grocery/convenience options within 1.5 km**, including major chains and specialty stores:
-
-| Store | Type | Distance | Wheelchair |
+| Facility | Distance | Type | Notes |
 |---|---|---|---|
-| **Whole Foods Market** | Supermarket | ~300m | ✅ |
-| **Trader Joe's** | Supermarket | ~650m | ✅ |
-| **Eataly** | Italian Market/Café | ~680m | ✅ |
-| **Bockwinkel's** | Organic Supermarket | ~100m | ✅ |
-| **7-Eleven** (×5 locations) | Convenience | 50-800m | ✅ |
-| **Young's Supermarket** | International | ~1km | ✅ |
+| **Shirley Ryan AbilityLab** | 0m | Rehabilitation Hospital | #1 ranked rehab hospital in the nation; on-site prosthetics research |
+| **Rehabilitation Institute of Chicago (RIC)** | ~200m | Rehabilitation Hospital | Part of the same campus; complementary services |
+| **Northwestern Memorial Hospital** | ~600m | Academic Medical Center | Level 1 Trauma Center; major metabolic & psychosocial support |
+| **Lurie Children's Hospital** | ~600m | Pediatric Hospital | Specialized pediatric limb loss programs |
+| **Prentice Women's Hospital** | ~500m | Women's Hospital | Maternal care including diabetes-related amputation cases |
+| **Chicago Lakeside VA Clinic** | ~400m | VA Clinic | Federal healthcare for veterans; prosthetics & mobility services |
+| **Michigan Avenue Immediate/Primary Care** | ~900m | Urgent Care / Primary Care | Walk-in primary care; phone +1-312-994-3000 |
+| **Advocate Illinois Masonic** | ~1.5km | Community Hospital | Emergency & inpatient services |
+
+**Key for amputees:** The co-location of a top-tier rehab hospital (AbilityLab), nearby acute care (Northwestern), and VA services makes this the ideal area for ongoing prosthetic fitting, adjustment, and emergency care. The VA Clinic is particularly valuable for veteran amputees.
 
 ---
 
-### 🏋️ Sports & Recreation
+### 💊 Pharmacies — Score: 9.5 / 10 (Excellent)
 
-- **InterActive Fitness** — Adaptive fitness center ~600m
-- **YMCA Downtown | YMCA Rehabilitation Institute** — Adaptive exercise programs ~400m
-- **Chicago Lakefront Trail** — Wheelchair-accessible waterfront path directly adjacent
-- **Navy Pier** — Adaptive recreation programs, ~1.2km
+Within 1 km, amputees have access to numerous pharmacies, including 24/7 options.
 
----
+| Pharmacy | Address | Hours | Distance |
+|---|---|---|---|
+| **Walgreens** | 757 N Michigan Ave | **24/7** | ~450m |
+| **Walgreens** | 410 N Michigan Ave | Mo-Fr 8am-8pm, Sa 9am-6pm, Su 9am-5pm | ~500m |
+| **Walgreens** | 342 E Illinois St | Standard hours | ~350m |
+| **Walgreens** | 680 N Lake Shore Dr | Standard hours | ~400m |
+| **Walgreens** | 151 N State St (Ground floor) | Standard hours | ~950m |
+| **CVS Pharmacy** | 205 N Columbus Dr | Standard hours | ~550m |
+| **CVS Pharmacy** | 25 E Ohio St | Standard hours | ~750m |
+| **CVS Pharmacy** | 1201 N State St | Standard hours | ~1.1km |
 
-### ⛽ Parking & Driving
-
-For amputees who drive, multiple parking options are nearby:
-- **Multi-story parking** at Shirley Ryan AbilityLab (inpatient tower)
-- **Galer Street Garage** (~500m)
-- **ParkChicago app** — available at most meters and garages for convenient payment
-- Metered parking along Erie, Superior, and Huron Streets
-
----
-
-### ♿ Accessibility Features
-
-- All CTA train stations within 1.5km have elevator access and tactile platform edges
-- All major hospitals, pharmacies, and grocery stores are wheelchair accessible
-- Curb cuts at virtually all intersections in the Streeterville grid
-- Accessible Water Taxi vessels with lift assistance
-- ADA-compliant paratransit (CTA Access) for door-to-door service
-- Accessible restrooms at all hospital and major retail locations
+**24/7 coverage:** The Walgreens at 757 N Michigan Ave is open 24 hours — critical for amputees who may need emergency supplies like liners, socks, or adaptive aids at any time. Multiple locations ensure no pharmacy is more than a 10-minute walk.
 
 ---
 
-### 📊 Livability Scores Summary
+### 🛒 Groceries & Daily Needs
 
-| Category | Score | Assessment |
+| Business | Type | Distance | Wheelchair? |
+|---|---|---|---|
+| **The Cheesecake Factory** (875 N Michigan) | Sit-down Restaurant | ~600m | Elevator access |
+| **Jake Melnick's Corner Tap** (41 E Superior) | Restaurant/Bar | ~300m | ✅ Wheelchair accessible |
+| **Caffè Oliva** (550 E Grand) | Restaurant/Café | ~550m | Limited |
+| **Jason's Deli** (Near State & Lake) | Quick Sandwiches | ~900m | ✅ Wheelchair accessible |
+| **Northwestern University Law Library** | Library/Quiet Space | ~400m | ✅ Wheelchair accessible |
+
+---
+
+### 🌳 Recreation & Parks
+
+| Park / Facility | Distance | Notes |
 |---|---|---|
-| **Overall** | 8.5 | Highly Livable |
-| **Walkability** | 10 | Walker's Paradise |
-| **Public Transit** | 9.8 | Excellent — world-class CTA + Water Taxi |
-| **Healthcare** | 9.4 | Exceptional — RIC + Northwestern + SRAL |
-| **Groceries** | 9.7 | Outstanding — 34 options in 1.5km |
-| **Services** | 9.5 | All essentials within walking distance |
-| **Restaurants** | 9.8 | Diverse dining near hospital campus |
-| **Shopping** | 8.8 | Shopping within 1km |
-| **Education** | 8.7 | Multiple universities & schools |
-| **Sports** | 9.7 | Adaptive recreation & lakefront trail |
-| **Entertainment** | 9.1 | Navy Pier + museums + theaters |
+| **Millennium Park** | ~1.2 km | Iconic; Maggie Daley Park has accessible playground; free events |
+| **Grant Park / Buckingham Fountain** | ~1.5 km | Wide open paths; lakefront accessible |
+| **Navy Pier** | ~650m | Wheelchair accessible; rides, dining, lake views |
+| **Chicago Riverwalk** | ~500m | Paved, flat, accessible path along river |
+| **Maggie Daley Park** | ~1.2 km | Connected to Millennium Park; accessible play structures and climbing walls |
 
 ---
 
-## 📝 Summary for the Amputee Resource Hub
+### ♿ Disability & Accessibility Resources
 
-This report provides a comprehensive foundation for people adjusting to limb loss. The Shirley Ryan AbilityLab neighborhood offers:
-- **World-class accessible care** — the #1 ranked rehabilitation hospital with the best prosthetic and rehab programs
-- **Unmatched transit access** — making it easy to get around without driving
-- **Liveability for daily needs** — groceries, pharmacies, and services all within walking distance
-- **Strong peer and community support** — the area's density of hospitals and rehab centers means access to peer networks and support groups
-
----
-
-## 🔗 Quick Links
-
-- [Shirley Ryan AbilityLab — Official Site](https://www.shirleyryanabilitylab.org/)
-- [Rehabilitation Institute of Chicago](https://www.shirleyryanabilitylab.org/)
-- [Chicago Transit Authority (CTA)](https://www.transitchicago.com/)
-- [Amputee Coalition of America](https://www.amputee-coalition.org/)
-- [ClinicalTrials.gov — Affordable Prosthetic Studies](https://clinicaltrials.gov/search?term=affordable+prosthetic&aggFilters=ages:adult)
-- [VA Prosthetics & Sensory Aids Service](https://www.va.gov/prosthetics/)
+| Resource | Notes |
+|---|---|
+| **CTA Accessible Transit** | All CTA trains and buses are wheelchair-accessible; Ventra payment system |
+| **Chicago ADA Title II** | City of Chicago is a respondent under Title II — all city services must be accessible |
+| **Shirley Ryan AbilityLab Peer Programs** | On-site peer support groups for amputees adjusting to limb loss |
+| **Amputee Coalition of America** | National resource: https://www.amputee-coalition.org/ |
+| **IL Pathways to Independence** | Illinois state assistive technology program — prosthetic device funding navigation |
+| **Adaptive Sailing Program** | Sailability Chicago at Navy Pier — adaptive water sports |
 
 ---
 
-*Report generated from ClinicalTrials.gov and OpenStreetMap data. All coordinates and distances are approximate. Status and enrollment figures are as of the date of retrieval and may change.*
+## 📋 Summary & Recommendations
+
+### Why Shirley Ryan AbilityLab / Streeterville is Ideal for Amputee Resources
+
+1. **Top-ranked rehabilitation hospital** — clinical expertise in prosthetic fitting, training, and adjustment
+2. **Unmatched transit access** — 17+ bus routes, 3 CTA train lines, Metra, and Water Taxi; all wheelchair-accessible
+3. **Medical ecosystem** — 3 major hospitals within 900m, VA clinic, urgent care, and 8+ pharmacies (including 24/7)
+4. **Recreation & quality of life** — lakefront parks, riverwalk, Navy Pier, and adaptive sports programs
+5. **Research nexus** — the Veryilight study (NCT04725461) was born here, connecting amputees directly to cutting-edge affordable prosthetic research
+6. **Strong peer support infrastructure** — AbilityLab and RIC host regular amputee peer groups and virtual programming
+
+### Clinical Trial Insights to Highlight
+
+- **Affordability is the #1 research theme** — $80 knees, $500 3D-printed sockets, and AI-powered hands are redefining what's possible
+- **Virtual peer support works** — IMPACT-L3 (Toronto) shows virtual coaching reduces isolation significantly
+- **Phantom limb pain is being actively addressed** — neuroprosthesis with sensory feedback is a growing research area
+- **Federal funding matters** — VA and DoD-backed studies (NCT05601869) directly serve underserved veteran amputee populations
+- **Global equity gap** — studies from Pakistan and Iraq highlight that most amputees worldwide lack access to even basic prosthetics
+
+---
+
+*Last updated: July 2025 — Clinical trial data sourced from ClinicalTrials.gov; neighborhood data sourced from OpenStreetMap and local knowledge. Community contributions welcome!*
