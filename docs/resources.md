@@ -4,7 +4,7 @@
 
 ### Overview of 10 Recent Studies on Affordable Prosthetic Devices
 
-A comprehensive search of ClinicalTrials.gov identified 10 recent studies evaluating affordable prosthetic technologies for people adjusting to limb loss. These studies span upper and lower limb amputations, academic and community care settings, and multiple countries — reflecting the global nature of the affordability challenge.
+A comprehensive search of ClinicalTrials.gov identified 10 recent studies evaluating affordable prosthetic technologies for people adjusting to limb loss. These studies span upper and lower limb amputations, academic and community care settings, and multiple countries — reflecting the global nature of the affordability challenge. 393 total prosthetic/amputation studies were analyzed to produce the phase and sponsor breakdown below.
 
 ---
 
@@ -24,7 +24,7 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 - **Focus:** Testing an investigational fabrication system for transtibial prostheses using expandable rigid foam. The foam is formed by mixing two liquid components that expand several times its original volume, allowing socket fabrication in under 30 minutes — vs. days for traditional methods.
 - **Key Outcomes:** Socket Comfort Score (1–10), Four Square Step Test, L-Test, 2-Minute Walk Test, Amputee Mobility Predictor
 - **Location:** Chicago, IL (Shirley Ryan AbilityLab)
-- **Why it matters:** This is the care center we selected for our neighborhood analysis. The simplified socket method could dramatically reduce costs and waiting times, especially in settings with limited prosthetist availability.
+- **Why it matters:** This is the care center selected for our neighborhood analysis. The simplified socket method could dramatically reduce costs and waiting times, especially in settings with limited prosthetist availability.
 
 #### 3. PROLIMB: Sensorimotor Prosthesis for Upper Limb [NCT05220553]
 - **Status:** COMPLETED | **Phase:** N/A | **Enrollment:** 10
@@ -103,7 +103,7 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 | **Phase 2** | ~16 | ~4% |
 | **Early Phase 1** | ~11 | ~3% |
 
-**Key Insight:** The vast majority (~67%) of studies are "N/A" phase, meaning they are device/behavioral/interventional studies that do not follow traditional pharmaceutical trial phases. This is expected for prosthetics — these are typically feasibility studies, device evaluations, and behavioral interventions. For amputees seeking cutting-edge but proven approaches, the few Phase 2 studies represent the most rigorous testing of new devices.
+**Key Insight:** The vast majority (~67%) of studies are "N/A" phase, meaning they are device/behavioral/interventional studies that do not follow traditional pharmaceutical trial phases. This is expected for prosthetics — these are typically feasibility studies, device evaluations, and behavioral interventions. The few Phase 2 studies represent the most rigorous testing of new devices.
 
 ### Sponsor Type Distribution
 
@@ -116,144 +116,70 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 | **NIH** | ~1 | <1% |
 | **Network** | ~1 | <1% |
 
-**Key Insight:** Academic/Other institutions dominate prosthetic research (~65%), with Industry playing a meaningful role (~21%). Federal funding (particularly VA and DoD programs) accounts for ~11% of studies — critical for veteran amputee populations seeking cost-free access to advanced prosthetics. The relatively higher industry share compared to our targeted search reflects the broader prosthetic literature, including commercial device evaluations.
+**Key Insight:** Academic/Other institutions dominate prosthetic research (~65%), with Industry playing a meaningful role (~21%). Federal funding (particularly VA and DoD programs) accounts for ~11% of studies — critical for veteran amputee populations seeking cost-free access to advanced prosthetics. The higher industry share compared to our targeted search reflects the broader prosthetic literature, including commercial device evaluations.
 
 ### Most Promising Trends
 
 1. **Reverse innovation** (ReMotion Knee) — products designed for low-resource settings being validated for high-income use, offering dramatic cost savings ($80 vs. $5,000+ for standard mechanical knees)
 2. **3D printing** — multiple studies (NCT04725461, NCT03517774, NCT06504303, NCT06938087) show 3D-printed sockets and components can reduce fabrication time from days to hours and costs by 50–80%
-3. **AI-driven control** — emerging approaches using machine learning for intuitive prosthetic control without the complexity and cost of current commercial bionic systems
-4. **Sensory feedback integration** (PROLIMB, NCT06702904) — addressing the #1 reason amputees abandon prostheses: lack of tactile sensation and phantom limb pain
-5. **VA/federal funding** — growing investment in veteran-specific prosthetic research, ensuring cost-free access pathways
+3. **AI-driven control** — emerging approaches using machine learning for intuitive prosthetic control without the complexity and cost of current commercial myoelectric systems
+4. **Federal/Veterans Affairs investment** (NCT05601869) — strong VA/DoD commitment to affordable prosthetic solutions for veteran populations
+5. **Sensory feedback integration** (NCT06702904, NCT05220553) — adding tactile sensation to prostheses could dramatically improve device acceptance and quality of life
 
 ---
 
 ## 🏥 Care Center Profile: Shirley Ryan AbilityLab
 
-We selected **Shirley Ryan AbilityLab** in Chicago, IL as our anchor care center for neighborhood analysis. It is the world's #1 ranked rehabilitation hospital (U.S. News & World Report) and a leading center for prosthetic and rehabilitation research.
+**Selected as the primary care center** because it is:
+- Ranked #1 in the U.S. for rehabilitation by U.S. News & World Report
+- Located at **355 East Erie Street, Streeterville, Chicago, IL 60611**
+- A leading center for prosthetic research and amputee rehabilitation
+- Host of the NCT04725461 study on low-cost prosthetic sockets
+- Coordinates: 41.894°N, -87.618°W
 
-- **Address:** 355 East Erie Street, Streeterville, Chicago, IL 60611
-- **Coordinates:** 41.8939°N, 87.6184°W
-- **Key Relevance:** Lead sponsor of NCT04725461 (Low Cost Prosthetic Socket study), making it a direct hub for affordable prosthetic innovation
-- **Transit Access:** Adjacent to the CTA Red Line (Chicago/State station ~1 km), multiple bus routes, and the Water Taxi at Navy Pier
-- **Medical Ecosystem:** Within 1 km — 3 major hospitals, VA clinic, Northwestern Medicine Immediate Care, multiple pharmacies
+### Neighborhood Livability Analysis (1 km radius)
 
----
+| Category | Score (0–10) | Key Findings |
+|----------|-------------|--------------|
+| **Overall Livability** | **6.5** | Excellent walkability and transit; very strong healthcare infrastructure |
+| **Walkability** | **10/10** | Highly walkable urban neighborhood — ideal for amputees who rely on prostheses or wheelchairs |
+| **Healthcare** | **9.1/10** | Multiple major hospitals within 900m; proximity to Shirley Ryan AbilityLab itself; VA clinic accessible via CTA Red Line (~15 min) |
+| **Public Transit** | **9.7/10** | CTA Red/Brown/Purple line stations within walking distance; 17+ bus routes; water taxi terminals on the Chicago River and Lake Michigan (Shoreline Sightseeing, Navy Pier routes) |
+| **Groceries** | **9.6/10** | Whole Foods (255 E Grand Ave), Trader Joe's, Bockwinkel's, multiple 7-Eleven locations — all within 650m |
+| **Restaurants** | **9.7/10** | Extensive dining options including Jake Melnick's, Jason's Deli, Eataly, and more — wheelchair-accessible options available |
+| **Sports & Recreation** | **9.5/10** | Proximity to Lakefront Trail, Millennium Park, and Navy Pier for adaptive recreation |
+| **Shopping** | **8.3/10** | Magnificent Mile and State Street retail within walking distance |
+| **Services** | **9.3/10** | Banks, post office, and other essential services readily accessible |
 
-## 📍 Neighborhood Livability Report — Shirley Ryan AbilityLab Area
+### Key Amenities for Amputees
 
-### Overall Score: 3.6 / 5 | Walkability: 10/10 (Walker's Paradise)
+**Healthcare Facilities (within 1 km):**
+- Shirley Ryan AbilityLab (0 m) — the care center itself
+- Northwestern Memorial Hospital (~900m) — major tertiary hospital
+- Prentice Women's Hospital (~850m) — part of Lurie Children's network
+- VA clinic accessible via CTA Red Line (~15 min)
 
-The Streeterville / Near North Side neighborhood around Shirley Ryan AbilityLab scores highly for walkability and general amenities, with strong healthcare and transit infrastructure — critical for amputees who rely on accessible routes to rehabilitation appointments.
+**Pharmacies (within 1 km):**
+- Walgreens (410 N Michigan Ave) — ~600m south, wheelchair accessible
+- CVS Pharmacy (205 N Columbus Dr) — ~1.1km, dispensing services
 
----
+**Public Transit:**
+- CTA Red Line: Chicago station (~800m north) and Grand station (~1km south)
+- CTA Brown/Purple Line: Washington/State station (~900m)
+- 17+ CTA bus routes serving Erie, Grand, Chicago, and State Streets
+- Water Taxi: Navy Pier (Lake & River routes), Shoreline Sightseeing — wheelchair-accessible
+- Divvy Bike Share: McClurg Ct & Ohio St station (device-adaptable bikes available)
 
-### 🏥 Healthcare Facilities (within 1 km)
+**Accessibility Notes:**
+- Neighborhood is largely wheelchair-friendly with ADA-compliant curb cuts
+- Flat terrain along the lakefront — favorable for prosthetic ambulation
+- Multiple parking garages within 500m for vehicle-accessible patients
 
-| Facility | Type | Distance | Notes |
-|----------|------|----------|-------|
-| **Shirley Ryan AbilityLab** | Rehab Hospital | 0 m | Anchor facility |
-| **Chicago Lakeside VA Clinic** | VA Clinic | ~500 m | Federal healthcare for veterans; key for amputee care |
-| **Northwestern Medicine Immediate Care** | Urgent Care Clinic | ~400 m | Walk-in clinic at Michigan & Chicago |
-| **Dentologie** | Dentist | ~700 m | Dental care accessible |
-
-**Major Hospitals Nearby (1–2 km):**
-- Northwestern Memorial Hospital (~1.5 km) — Level I trauma center
-- Rehabilitation Institute of Chicago (on-site at Shirley Ryan AbilityLab)
-- Advocate Illinois Masonic Medical Center (~2 km)
-
-**Disability Access:** The area is well-equipped for wheelchair users — sidewalks are wide, curb cuts are prevalent, and public transit stations have elevator access.
-
----
-
-### 🚌 Public Transit (within 1 km)
-
-| Transit Option | Lines/Routes | Distance | Notes |
-|----------------|-------------|----------|-------|
-| **CTA Red Line** | Chicago/State Station | ~1 km | 24/7 service; elevator-accessible; connects to Loop, O'Hare, South Side |
-| **CTA Blue Line** | Grand Station | ~800 m | Connects to O'Hare, Forest Park; accessible |
-| **CTA Bus Routes** | Multiple (#2, #33, #134, #136, #143, #146, #147, #151, #156, #157, #65, #124, #130, #76) | Various | Bus shelters with benches at most stops |
-| **Metra** | Millennium Station | ~1 km | commuter rail to suburbs; accessible |
-| **Water Taxi** | Shoreline Water Taxi | ~500 m | Navy Pier terminal; accessible |
-| **Divvy Bikes** | McClurg Ct & Ohio St | ~300 m | 24/7 bike share with adaptive options |
-
-**Key Insight:** Excellent transit connectivity — the Red and Blue Lines provide direct access to the Loop (10–15 min) and O'Hare Airport (~30 min). Multiple bus routes cover the neighborhood. The Water Taxi offers an accessible scenic option to the Loop. All major stations are wheelchair-accessible.
-
----
-
-### 💊 Pharmacies (within 1 km)
-
-| Pharmacy | Address | Distance | Hours |
-|----------|---------|----------|-------|
-| **Walgreens** | 757 N Michigan Ave | ~400 m | **24/7** ✅ |
-| **Walgreens** | 342 E Illinois St | ~300 m | Standard hours |
-| **Walgreens** | 410 N Michigan Ave | ~700 m | Standard hours |
-| **Walgreens** | 680 N Lake Shore Dr | ~500 m | Standard hours |
-| **CVS Pharmacy** | 205 N Columbus Dr | ~900 m | Standard hours |
-
-**Key Insight:** Multiple 24/7 pharmacy options within walking distance — essential for amputees who may need medications or supplies at any hour. Walgreens on Michigan Ave is the closest 24/7 option.
+### Disability-Specific Resources
+- **Amputee Coalition of America** — national resource for peer support and financial assistance
+- **Shirley Ryan AbilityLab Rehab Technologies & Outcomes Lab** — Dr. Arun Jayaraman directs prosthetic and orthotic research
+- **Chicago Transit Authority** — reduced fare program for individuals with disabilities (American Disability Card)
 
 ---
 
-### 🛒 Groceries & Daily Essentials (within 1 km)
-
-| Store | Type | Distance | Accessible |
-|-------|------|----------|------------|
-| **Whole Foods Market** (Streeterville) | Supermarket | ~300 m | ✅ |
-| **Trader Joe's** (River North) | Supermarket | ~650 m | ✅ |
-| **Bockwinkel's** | Organic Supermarket | ~130 m | ✅ |
-| **7-Eleven** (multiple locations) | Convenience | 80–800 m | ✅ |
-| **Eataly** | Italian Food Market/Café | ~680 m | ✅ |
-
----
-
-### 🏞️ Parks, Recreation & Green Space
-
-- **Navy Pier** (~500 m) — Public park, parks along the lakefront, outdoor walking paths
-- **Graceland Cemetery** (~1.2 km) — Historic grounds with walking paths
-- **Lakefront Trail** (~300 m) — ADA-accessible paved trail along Lake Michigan
-- **Maggie Daley Park** (~1.5 km) — Accessible playground and recreation
-
----
-
-### 🅿️ Parking Facilities (within 1 km)
-
-| Facility | Type | Distance | Hours |
-|----------|------|----------|-------|
-| DoubleTree Garage | Multi-storey | ~160 m | 24/7 |
-| Underground Parking (Ohio St) | Underground | ~380 m | Public access |
-| Grand Plaza Parking | Underground/Surface | ~870 m | Paid |
-| Multiple surface lots | Surface | 500–1000 m | Varies |
-
----
-
-### ♿ Disability-Specific Resources & ADA Information
-
-- **ADA Compliance:** The Streeterville/Near North Side area is generally well-compliant with ADA standards. Sidewalks are wide, curb cuts are standard, and public transit stations have elevator access.
-- **Accessible Transit:** All CTA Red/Blue Line stations within 1 km are elevator-accessible. Bus shelters have benches and shelters.
-- **Wheelchair-Accessible Venues:** Most restaurants, shops, and transit options in the area are wheelchair-accessible.
-- **Rehab Resources:** Shirley Ryan AbilityLab itself is the premier resource, plus the Chicago Lakeside VA Clinic provides veteran-specific amputee support.
-- **Related Organizations:**
-  - Amputee Coalition of America — national support organization
-  - Iraq and Afghanistan Veterans of America (IAVA) — veteran peer support
-  - Chicago Center for Black Music Arts — community engagement
-
----
-
-### 📋 Summary: Livability for Amputees
-
-| Category | Score | Notes |
-|----------|-------|-------|
-| **Healthcare Access** | ⭐⭐⭐⭐⭐ | VA clinic, rehab hospital, urgent care all within 1 km |
-| **Public Transit** | ⭐⭐⭐⭐⭐ | Red/Blue lines, 15+ bus routes, Water Taxi — all accessible |
-| **Pharmacies** | ⭐⭐⭐⭐⭐ | 5+ pharmacies, 24/7 Walgreens nearby |
-| **Groceries** | ⭐⭐⭐⭐⭐ | Whole Foods, Trader Joe's, organic market nearby |
-| **Walkability** | ⭐⭐⭐⭐⭐ | Walker's Paradise — 10/10 Walk Score |
-| **Parks/Rec** | ⭐⭐⭐⭐ | Lakefront trail, Navy Pier, accessible paths |
-| **Parking** | ⭐⭐⭐⭐ | Multiple paid options within 1 km |
-
-**Overall Assessment:** The area around Shirley Ryan AbilityLab is exceptionally well-suited for amputees needing regular access to rehabilitation, medical care, and daily amenities. The combination of top-tier rehabilitation infrastructure, excellent accessible transit, and nearby essential services makes this an ideal location for the amputee community.
-
----
-
-*Last updated: July 2026 | Sources: ClinicalTrials.gov (studies NCT04700085, NCT04725461, NCT05220553, NCT06938087, NCT06504303, NCT05601869, NCT06702904, NCT03517774, NCT06780943, NCT04169594), OpenStreetMap (neighborhood data), U.S. News & World Report (hospital ranking)*
+*Last updated: July 2026 — Based on ClinicalTrials.gov data and OpenStreetMap neighborhood analysis*
