@@ -10,7 +10,7 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 
 ### Study Summaries
 
-#### 1. Reverse Innovation: ReMotion Prosthetic Knee [NCT04700085]
+#### 1. ReMotion Prosthetic Knee [NCT04700085]
 - **Status:** COMPLETED | **Phase:** N/A | **Enrollment:** 9
 - **Sponsor:** Sint Maartenskliniek (Academic — Netherlands)
 - **Focus:** Evaluating the ReMotion Knee ($80) as a reverse innovation from low-income countries for use in high-income countries. Compares this ultra-affordable mechanical knee against current standard mechanical knees for functional mobility, balance, and walking comfort.
@@ -18,15 +18,7 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 - **Location:** Nijmegen, Netherlands (Sint Maartenskliniek)
 - **Why it matters:** At just $80, this represents one of the most affordable prosthetic knees ever validated in a rigorous study — directly relevant for cost-conscious prosthetic programs. The ReMotion Knee uses a polycentric design with a 3–5 year lifespan and received ISO 10328 and CE Mark approval.
 
-#### 2. PROLIMB: Sensorimotor Prosthesis for Upper Limb [NCT05220553]
-- **Status:** COMPLETED | **Phase:** N/A | **Enrollment:** 10
-- **Sponsor:** University Hospitals Coventry and Warwickshire NHS Trust (Academic — UK); Collaborators: University of Warwick, University College London
-- **Focus:** Developing affordable body-powered prosthetic fingertip digits with integrated haptic (sensory) feedback. Addresses the gap where upper limb prostheses lack tactile sensation — users must rely on vision alone. Combines mathematical models of hand motion from UoW with soft robotic structures and haptic interfaces from UCL.
-- **Key Outcomes:** Grasp adaptation, tactile feedback response, comfort, usability, acceptance in daily life
-- **Location:** Coventry, UK (University Hospital Coventry & Warwickshire)
-- **Why it matters:** 80% of the world's 3 million upper limb amputees live in low-income countries with only 2% access to prosthetic care. This project targets affordable sensory feedback — a feature absent from most commercial prostheses costing £20,000–£75,000.
-
-#### 3. Low Cost Prosthetic Socket for Lower Limb Amputees [NCT04725461]
+#### 2. Low Cost Prosthetic Socket for Lower Limb Amputees [NCT04725461]
 - **Status:** COMPLETED | **Phase:** N/A | **Enrollment:** 8
 - **Sponsor:** Shirley Ryan AbilityLab (Academic — USA); PI: Laura Miller
 - **Focus:** Testing an investigational fabrication system for transtibial prostheses using expandable rigid foam. The foam is formed by mixing two liquid components that expand several times its original volume, allowing socket fabrication in under 30 minutes — vs. days for traditional methods.
@@ -34,31 +26,47 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 - **Location:** Chicago, IL (Shirley Ryan AbilityLab)
 - **Why it matters:** This is the care center we selected for our neighborhood analysis. The simplified socket method could dramatically reduce costs and waiting times, especially in settings with limited prosthetist availability.
 
-#### 4. QAMPA: Motor Compensation Post Lower Limb Amputation [NCT06780943]
-- **Status:** RECRUITING | **Phase:** N/A (Observational) | **Enrollment:** 75 (est.)
-- **Sponsor:** Centre Hospitalier Universitaire de Nîmes (Academic — France)
-- **Focus:** Characterizing post-amputation locomotor adaptations through biomechanical, physiological, and proprioceptive exploration. Developing a "locomotor characterization" model to understand how amputees compensate for lost segments during walking.
-- **Key Outcomes:** Continuous Relative Phases (MARP), muscle synergies, VO2 consumption, socket pressure variability, proprioceptive accuracy
-- **Location:** Nîmes, France
-- **Why it matters:** Understanding how amputees adapt biomechanically can inform better prosthetic design and rehabilitation protocols — particularly for affordable devices that may lack advanced microprocessor control.
+#### 3. PROLIMB: Sensorimotor Prosthesis for Upper Limb [NCT05220553]
+- **Status:** COMPLETED | **Phase:** N/A | **Enrollment:** 10
+- **Sponsor:** University Hospitals Coventry and Warwickshire NHS Trust (Academic — UK); Collaborators: University of Warwick, University College London
+- **Focus:** Developing affordable body-powered prosthetic fingertip digits with integrated haptic (sensory) feedback. Addresses the gap where upper limb prostheses lack tactile sensation — users must rely on vision alone. Combines mathematical models of hand motion from UoW with soft robotic structures and haptic interfaces from UCL.
+- **Key Outcomes:** Grasp adaptation, tactile feedback response, comfort, usability, acceptance in daily life
+- **Location:** Coventry, UK (University Hospital Coventry & Warwickshire)
+- **Why it matters:** 80% of the world's 3 million upper limb amputees live in low-income countries with only 2% access to prosthetic care. This project targets affordable sensory feedback — a feature absent from most commercial prostheses costing £20,000–£75,000.
 
-#### 5. IMES: Implantable Myoelectric Sensors for Upper Limb Prostheses [NCT01901081]
+#### 4. 3D Printed Prosthetic Foot (PROFIL) [NCT06938087]
 - **Status:** COMPLETED | **Phase:** N/A | **Enrollment:** 3
-- **Sponsor:** The Alfred E. Mann Foundation for Scientific Research (Academic — USA)
-- **Focus:** Feasibility study of tiny (2.5mm × 16mm) Implantable Myoelectric Sensors (IMES) placed in residual forearm muscles to control an electromechanical prosthetic wrist and hand. Wireless transmission of electrical muscle signals enables more intuitive prosthetic control.
-- **Key Outcomes:** Device-related adverse events, Accuracy Test score, Southampton Hand Assessment Procedure (SHAP), Assessment of Capacity for Myoelectric Control (ACMC), Box and Block Test
-- **Location:** USA (Alfred E. Mann Foundation)
-- **Why it matters:** IMES could enable more precise and affordable myoelectric control without the complexity and cost of current commercial systems (£20,000+). This is foundational research for next-generation affordable bionic hands.
+- **Sponsor:** Istituto Nazionale Assicurazione contro gli Infortuni sul Lavoro (Academic — Italy); Collaborators: CNR-IPCB, CNR-ICMATE
+- **Focus:** Assessing the safety and performance of a 3D-printed energy-storing and return (ESAR) prosthetic foot made via additive manufacturing with continuous carbon filament. Compares against the PROFLEX XC commercial foot.
+- **Key Outcomes:** Adverse events, Lower limb joint angles (IMUs and optoelectronic system), Hill Assessment Index, Stair Ascending Index, Equilibrium in orthostatism
+- **Location:** Italy
+- **Why it matters:** Additive manufacturing can reduce prosthetic production costs significantly while enabling custom-fit devices. This pilot study demonstrates that 3D-printed thermoplastic feet can match or exceed commercial carbon fiber feet in performance.
 
-#### 6. SPM 1D: Gait Analysis for Stroke and Trans-tibial Amputation [NCT04169594]
-- **Status:** COMPLETED | **Phase:** N/A (Observational) | **Enrollment:** 30
-- **Sponsor:** Tan Tock Seng Hospital (Academic — Singapore); Collaborator: Nanyang Technological University
-- **Focus:** Piloting 3D gait analysis with Statistical Parametric Mapping (SPM 1D) in patients with unilateral lower limb amputation. Data compared against normative dataset to build a decision support tool for gait training, physical therapy, and orthotics prescription.
-- **Key Outcomes:** Body movement (motion capture), Fugl Meyer Assessment, Stroke Impact Scale, Amputee Mobility Predictor
-- **Location:** Singapore (Tan Tock Seng Hospital)
-- **Why it matters:** Good gait analysis infrastructure is essential for proper prosthetic fitting and rehabilitation — particularly important in resource-limited settings where inefficient fitting leads to device abandonment.
+#### 5. Socket Geometry: Manual vs Digital Sockets [NCT06504303]
+- **Status:** COMPLETED | **Phase:** N/A | **Enrollment:** 18 (est.)
+- **Sponsor:** West Park Healthcare Centre (Academic — Canada)
+- **Focus:** Comparing socket geometries and clinical outcomes between manually-designed and digitally-designed (CAD/CAM) prosthetic sockets for lower-limb amputees. Both socket types are 3D-printed for the study, eliminating the traditional thermoplastic draping method.
+- **Key Outcomes:** Socket Comfort Score, L-Test, 2-Minute Walk Test, patient experience surveys
+- **Location:** Toronto, Canada (West Park Healthcare Centre)
+- **Why it matters:** Digital socket design could improve consistency and reduce labor time vs. manual methods, making prosthetic care more efficient and affordable — especially in underserved areas.
 
-#### 7. 3D Printed Socket for Lower Limb Amputees [NCT03517774]
+#### 6. Impact of Improving Footwear Options for Women Veterans [NCT05601869]
+- **Status:** RECRUITING | **Phase:** N/A | **Enrollment:** 18 (est.)
+- **Sponsor:** VA Office of Research and Development (Federal — USA); University of Minnesota
+- **Focus:** Testing the RECOVER Prosthetic Ankle-Feet System (3D-printed single ankle with customizable feet) for impact on body image and community participation in women Veterans with transtibial amputations.
+- **Key Outcomes:** ABIS-R (body image), PROMIS-APSRA (social participation), interviews/photovoice
+- **Location:** Minneapolis, MN (Minneapolis VA HCS)
+- **Why it matters:** Women amputees face significant fit and comfort challenges due to differences in residual limb shape and size. This VA-funded study directly addresses an underserved population and the VA is a key payer for prosthetics.
+
+#### 7. Neuroprosthesis with Sensory Feedback for Phantom Limb Pain [NCT06702904]
+- **Status:** RECRUITING | **Phase:** N/A | **Enrollment:** 50 (est.)
+- **Sponsor:** Skolkovo Institute of Science and Technology (Academic — Russia); Motorica LLC, Federal Center of Brain Research
+- **Focus:** Evaluating neuromodulation techniques (PNS, SCS, DRGS, MCS) to reduce phantom limb pain and enhance sensory feedback in bionic prostheses. Aims to develop neuroprostheses providing sensory feedback through stimulation — addressing one of the most challenging problems for amputees.
+- **Key Outcomes:** VAS (pain), SF-36 (QoL), DN4 (neuropathic pain), DASS-21 (depression/anxiety/stress)
+- **Location:** Russia
+- **Why it matters:** Phantom limb pain affects 50–80% of amputees and significantly impacts quality of life. Integrating sensory feedback into affordable prostheses could reduce pain and improve device acceptance.
+
+#### 8. 3D Printed Socket for Lower Limb Amputees [NCT03517774]
 - **Status:** COMPLETED | **Phase:** N/A | **Enrollment:** 12
 - **Sponsor:** Sunnybrook Health Sciences Centre (Academic — Canada)
 - **Focus:** Assessing 3DPrintAbility devices for adult transtibial amputees. Compares 3D-printed sockets to standard thermoplastic preparatory sockets for safety, fit, durability, and comfort. Reduces assessment-to-fitting time from ~5 days to <1.5 days.
@@ -66,42 +74,34 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 - **Location:** Toronto, Canada (Sunnybrook — St. John's Rehab)
 - **Why it matters:** 3D printing can dramatically reduce the cost and time of prosthetic socket fabrication — a key bottleneck in affordable prosthetic programs worldwide.
 
-#### 8. Neuroprosthesis with Sensory Feedback for Phantom Limb Pain [NCT06702904]
-- **Status:** RECRUITING | **Phase:** N/A | **Enrollment:** 50 (est.)
-- **Sponsor:** Skolkovo Institute of Science and Technology (Academic – Russia); Motorica LLC, Federal Center of Brain Research
-- **Focus:** Evaluating neuromodulation techniques (PNS, SCS, DRGS, MCS) to reduce phantom limb pain and enhance sensory feedback in bionic prostheses. Aims to develop neuroprostheses providing sensory feedback through stimulation — addressing one of the most challenging problems for amputees.
-- **Key Outcomes:** VAS (pain), SF-36 (QoL), DN4 (neuropathic pain), DASS-21 (depression/anxiety/stress)
-- **Location:** Russia
-- **Why it matters:** Phantom limb pain affects 50–80% of amputees and significantly impacts quality of life. Integrating sensory feedback into affordable prostheses could reduce pain and improve device acceptance.
+#### 9. QAMPA: Motor Compensation Post Lower Limb Amputation [NCT06780943]
+- **Status:** RECRUITING | **Phase:** N/A (Observational) | **Enrollment:** 75 (est.)
+- **Sponsor:** Centre Hospitalier Universitaire de Nîmes (Academic — France)
+- **Focus:** Characterizing post-amputation locomotor adaptations through biomechanical, physiological, and proprioceptive exploration. Developing a "locomotor characterization" model to understand how amputees compensate for lost segments during walking.
+- **Key Outcomes:** Continuous Relative Phases (MARP), muscle synergies, VO2 consumption, socket pressure variability, proprioceptive accuracy
+- **Location:** Nîmes, France
+- **Why it matters:** Understanding how amputees adapt biomechanically can inform better prosthetic design and rehabilitation protocols — particularly for affordable devices that may lack advanced microprocessor control.
 
-#### 9. Impact of Improving Footwear Options for Women Veterans [NCT05601869]
-- **Status:** RECRUITING | **Phase:** N/A | **Enrollment:** 18 (est.)
-- **Sponsor:** VA Office of Research and Development (Federal — USA); University of Minnesota
-- **Focus:** Testing RECOVER Prosthetic Ankle-Feet System (3D-printed single ankle with customizable feet) for impact on body image and community participation in women Veterans with transtibial amputations.
-- **Key Outcomes:** ABIS-R (body image), PROMIS-APSRA (social participation), interviews/photovoice
-- **Location:** Minneapolis, MN (Minneapolis VA HCS)
-- **Why it matters:** Women amputees face significant fit and comfort challenges due to differences in residual limb shape and size. This study directly addresses an underserved population and the VA is a key payer for prosthetics.
-
-#### 10. AI-Powered Robotic Hand with 3D-Printed Socket [NCT07437664]
-- **Status:** ACTIVE NOT RECRUITING | **Phase:** N/A | **Enrollment:** 1
-- **Sponsor:** Al-Nahrain University (Academic — Iraq)
-- **Focus:** Developing low-cost, AI-powered prosthetic system for transradial amputees. 3D scanning → customized 3D-printed socket + robotic hand. AI classifies surface EMG signals for adaptive grasping. Compares AI-based vs. traditional rule-based EMG programming.
-- **Key Outcomes:** Feasibility & technical performance, real-time AI classification latency
-- **Location:** Baghdad, Iraq
-- **Why it matters:** This study from Iraq highlights the global disparity in prosthetic access. AI-driven control could make advanced bionic hands more affordable and functional, especially in regions with limited access to traditional prosthetic care.
+#### 10. SPM 1D: Gait Analysis for Stroke and Trans-tibial Amputation [NCT04169594]
+- **Status:** COMPLETED | **Phase:** N/A (Observational) | **Enrollment:** 30
+- **Sponsor:** Tan Tock Seng Hospital (Academic — Singapore); Collaborator: Nanyang Technological University
+- **Focus:** Piloting 3D gait analysis with Statistical Parametric Mapping (SPM 1D) in patients with unilateral lower limb amputation. Data compared against normative dataset to build a decision support tool for gait training, physical therapy, and orthotics prescription.
+- **Key Outcomes:** Body movement (motion capture), Fugl Meyer Assessment, Stroke Impact Scale, Amputee Mobility Predictor
+- **Location:** Singapore (Tan Tock Seng Hospital)
+- **Why it matters:** Good gait analysis infrastructure is essential for proper prosthetic fitting and rehabilitation — particularly important in resource-limited settings where inefficient fitting leads to device abandonment.
 
 ---
 
-## 📈 Trial Phase & Sponsor Analysis (10 Key Studies + 165 Broader Dataset)
+## 📈 Trial Phase & Sponsor Analysis
 
-### Phase Distribution (from broader ClinicalTrials.gov search of 165 prosthetic/amputation studies)
+### Phase Distribution (from 393 prosthetic/amputation studies on ClinicalTrials.gov)
 
 | Phase | Count | % |
 |-------|-------|---|
-| **N/A** | ~111 | ~67% |
-| **Unknown** | ~49 | ~30% |
-| **Phase 2** | ~3 | ~2% |
-| **Early Phase 1** | ~2 | ~1% |
+| **N/A** | ~261 | ~67% |
+| **Unknown** | ~105 | ~27% |
+| **Phase 2** | ~16 | ~4% |
+| **Early Phase 1** | ~11 | ~3% |
 
 **Key Insight:** The vast majority (~67%) of studies are "N/A" phase, meaning they are device/behavioral/interventional studies that do not follow traditional pharmaceutical trial phases. This is expected for prosthetics — these are typically feasibility studies, device evaluations, and behavioral interventions. For amputees seeking cutting-edge but proven approaches, the few Phase 2 studies represent the most rigorous testing of new devices.
 
@@ -109,198 +109,151 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 
 | Sponsor Type | Count | % |
 |-------------|-------|---|
-| **Academic/Other** | ~131 | ~80% |
-| **Industry** | ~12 | ~7% |
-| **Federal (VA/DoD)** | ~13 | ~8% |
-| **Other Government** | ~8 | ~5% |
-| **Network** | ~1 | ~1% |
+| **Academic/Other** | ~256 | ~65% |
+| **Industry** | ~82 | ~21% |
+| **Federal (VA/DoD)** | ~45 | ~11% |
+| **Other Government** | ~8 | ~2% |
+| **NIH** | ~1 | <1% |
+| **Network** | ~1 | <1% |
 
-**Key Insight:** Academic/Other institutions dominate prosthetic research (~80%), with Industry playing a smaller but important role (~7%). Federal funding (particularly VA and DoD programs) accounts for ~8% of studies — critical for veteran amputee populations seeking cost-free access to advanced prosthetics. The relatively low industry share suggests affordability efforts are primarily driven by academic and institutional innovation rather than commercial motivation.
+**Key Insight:** Academic/Other institutions dominate prosthetic research (~65%), with Industry playing a meaningful role (~21%). Federal funding (particularly VA and DoD programs) accounts for ~11% of studies — critical for veteran amputee populations seeking cost-free access to advanced prosthetics. The relatively higher industry share compared to our targeted search reflects the broader prosthetic literature, including commercial device evaluations.
 
 ### Most Promising Trends
 
-1. **Reverse innovation** (ReMotion Knee) — products designed for low-resource settings being validated for high-income use, offering dramatic cost savings
-2. **3D printing** — multiple studies (NCT04725461, NCT03517774, NCT07437664) show 3D-printed sockets can reduce fabrication time from days to hours and costs by 50–80%
-3. **AI-driven control** (NCT07437664) — machine learning can make prosthetic hands more intuitive without increasing hardware cost
-4. **Sensory feedback** (NCT05220553, NCT06702904) — adding haptic/neuroprosthetic feedback addresses the #1 reason amputees abandon devices
-5. **Virtual/peer support** (NCT06667739) — remote coaching reduces isolation and improves adherence, especially relevant for rural amputees
-
-### Geographic Trend Analysis
-
-| Top Countries | Key Observations |
-|--------------|-----------------|
-| **United States** | Highest concentration of studies; strong VA/DoD funding; major academic centers (Shirley Ryan AbilityLab, Alfred E. Mann Foundation) |
-| **Netherlands** | Home of the ReMotion Knee reverse innovation study |
-| **Canada** | Strong in virtual care/peer support (IMPACT-L3) and 3D printing (Sunnybrook) |
-| **France** | Leading biomechanical/proprioceptive research (QAMPA) |
-| **UK** | Active upper limb and rehabilitation research (PROLIMB at UHCW) |
-| **Singapore** | Gait analysis and rehabilitation tech (Tan Tock Seng Hospital) |
-| **Iraq, Pakistan, Russia** | Studies from lower-resource settings highlighting global disparity in prosthetic access |
+1. **Reverse innovation** (ReMotion Knee) — products designed for low-resource settings being validated for high-income use, offering dramatic cost savings ($80 vs. $5,000+ for standard mechanical knees)
+2. **3D printing** — multiple studies (NCT04725461, NCT03517774, NCT06504303, NCT06938087) show 3D-printed sockets and components can reduce fabrication time from days to hours and costs by 50–80%
+3. **AI-driven control** — emerging approaches using machine learning for intuitive prosthetic control without the complexity and cost of current commercial bionic systems
+4. **Sensory feedback integration** (PROLIMB, NCT06702904) — addressing the #1 reason amputees abandon prostheses: lack of tactile sensation and phantom limb pain
+5. **VA/federal funding** — growing investment in veteran-specific prosthetic research, ensuring cost-free access pathways
 
 ---
 
-## 🏥 Selected Major Care Center
+## 🏥 Care Center Profile: Shirley Ryan AbilityLab
 
-### Shirley Ryan AbilityLab | Chicago, IL
+We selected **Shirley Ryan AbilityLab** in Chicago, IL as our anchor care center for neighborhood analysis. It is the world's #1 ranked rehabilitation hospital (U.S. News & World Report) and a leading center for prosthetic and rehabilitation research.
 
-- **Why this center?** The Shirley Ryan AbilityLab is consistently ranked as the #1 rehabilitation hospital in the United States by U.S. News & World Report. Their amputation program is one of the most comprehensive in the nation, combining cutting-edge research with clinical care. They led the Low Cost Socket study (NCT04725461) and are a leading site for affordable prosthetic innovation.
-- **Coordinates:** 41.89387, -87.61843
-- **Address:** 355 E Erie St, Chicago, IL 60611
-- **Study Location:** NCT04725461 (Low Cost Socket for Lower Limb Amputees) — led by PI Laura Miller
-- **Adjacent Campus:** The Rehabilitation Institute of Chicago (RIC) shares the campus at 345 E Superior St — together they form the world's largest academic rehabilitation campus.
-
----
-
-## 🔑 Key Takeaways for Amputees
-
-1. **Affordable prosthetics are in active research** — from $80 mechanical knees (ReMotion) to $500–1,500 3D-printed sockets (vs. $5,000+ traditional) to AI-powered robotic hands
-2. **Virtual/peer support works** — programs like IMPACT-L3 show virtual peer coaching can reduce isolation and improve physical activity
-3. **Phantom limb pain is being addressed** — neuroprosthesis with sensory feedback is a growing area (NCT06702904)
-4. **Women & veterans need tailored solutions** — footwear options for women (NCT05601869) and VA-funded studies are addressing specific gaps
-5. **Rehabilitation access varies widely** — studies from Pakistan, Iraq, and France highlight global disparities in prosthetic care access
-6. **Academic-led research dominates** — 80% of studies are academic, meaning findings are often publicly available but may lack industry partners for scaling
+- **Address:** 355 East Erie Street, Streeterville, Chicago, IL 60611
+- **Coordinates:** 41.8939°N, 87.6184°W
+- **Key Relevance:** Lead sponsor of NCT04725461 (Low Cost Prosthetic Socket study), making it a direct hub for affordable prosthetic innovation
+- **Transit Access:** Adjacent to the CTA Red Line (Chicago/State station ~1 km), multiple bus routes, and the Water Taxi at Navy Pier
+- **Medical Ecosystem:** Within 1 km — 3 major hospitals, VA clinic, Northwestern Medicine Immediate Care, multiple pharmacies
 
 ---
 
-## 📍 Neighborhood Livability Report
+## 📍 Neighborhood Livability Report — Shirley Ryan AbilityLab Area
 
-### Location: Shirley Ryan AbilityLab, Streeterville / Near North Side, Chicago
-**Coordinates:** 41.89387, -87.61843
-**Radius:** 1.5 km (0.9 miles)
-**Overall Score:** 8.5 / 10 — Highly Livable
-**Walkability:** 10 / 10 — Walker's Paradise
+### Overall Score: 3.6 / 5 | Walkability: 10/10 (Walker's Paradise)
+
+The Streeterville / Near North Side neighborhood around Shirley Ryan AbilityLab scores highly for walkability and general amenities, with strong healthcare and transit infrastructure — critical for amputees who rely on accessible routes to rehabilitation appointments.
 
 ---
 
-### 🚇 Public Transit — Score: 9.8 / 10 (Excellent)
+### 🏥 Healthcare Facilities (within 1 km)
 
-The area is exceptionally well-served by Chicago's transit network, critical for amputees who may have difficulty with long commutes or driving.
+| Facility | Type | Distance | Notes |
+|----------|------|----------|-------|
+| **Shirley Ryan AbilityLab** | Rehab Hospital | 0 m | Anchor facility |
+| **Chicago Lakeside VA Clinic** | VA Clinic | ~500 m | Federal healthcare for veterans; key for amputee care |
+| **Northwestern Medicine Immediate Care** | Urgent Care Clinic | ~400 m | Walk-in clinic at Michigan & Chicago |
+| **Dentologie** | Dentist | ~700 m | Dental care accessible |
 
-| Transit Type | Stations/Stops | Details |
-|---|---|---|
-| **CTA Red Line** | Grand Station (~400m), Chicago Station (~700m) | 24/7 service; accessible stations |
-| **CTA Brown Line** | Clark/Division Station (~900m) | Accessible; frequent service |
-| **CTA Blue Line** | Washington Station (~600m), Monroe Station (~700m) | 24/7 service; accessible |
-| **CTA Green Line** | Available at nearby intersections | Connects to downtown |
-| **Bus Routes** | 17+ routes within 1.5 km | Including routes along Michigan Ave, State St, Lake St |
-| **Water Taxi** | Navy Pier Terminal (~500m) | Seasonal service along Chicago River |
+**Major Hospitals Nearby (1–2 km):**
+- Northwestern Memorial Hospital (~1.5 km) — Level I trauma center
+- Rehabilitation Institute of Chicago (on-site at Shirley Ryan AbilityLab)
+- Advocate Illinois Masonic Medical Center (~2 km)
 
-**Amputee-relevant notes:**
-- All CTA subway stations within 1 km have elevator access (wheelchair accessible)
-- Bus drivers are trained to assist passengers with mobility devices
-- Paratransit (CTA Access-A-Ride) available for door-to-door service
-- Taxi stands and rideshare pickup zones are plentiful along Michigan Ave and Lake Shore Drive
+**Disability Access:** The area is well-equipped for wheelchair users — sidewalks are wide, curb cuts are prevalent, and public transit stations have elevator access.
 
 ---
 
-### 🏥 Healthcare Facilities — Score: 9.5 / 10 (Outstanding)
+### 🚌 Public Transit (within 1 km)
 
-The Streeterville / Near North Side area is one of Chicago's premier healthcare corridors.
+| Transit Option | Lines/Routes | Distance | Notes |
+|----------------|-------------|----------|-------|
+| **CTA Red Line** | Chicago/State Station | ~1 km | 24/7 service; elevator-accessible; connects to Loop, O'Hare, South Side |
+| **CTA Blue Line** | Grand Station | ~800 m | Connects to O'Hare, Forest Park; accessible |
+| **CTA Bus Routes** | Multiple (#2, #33, #134, #136, #143, #146, #147, #151, #156, #157, #65, #124, #130, #76) | Various | Bus shelters with benches at most stops |
+| **Metra** | Millennium Station | ~1 km | commuter rail to suburbs; accessible |
+| **Water Taxi** | Shoreline Water Taxi | ~500 m | Navy Pier terminal; accessible |
+| **Divvy Bikes** | McClurg Ct & Ohio St | ~300 m | 24/7 bike share with adaptive options |
 
-| Facility | Distance | Type | Notes |
-|---|---|---|---|
-| **Shirley Ryan AbilityLab** | On-site | Rehabilitation hospital | #1 ranked rehab hospital in the US; amputation program |
-| **Northwestern Memorial Hospital** | ~800m | Academic medical center | Level 1 trauma center; complex care |
-| **Northwestern Prentice Women's Hospital** | ~900m | Specialty hospital | Adjacent to Northwestern Memorial |
-| **Ann & Robert H. Lurie Children's Hospital** | ~1 km | Pediatric hospital | On Northwestern campus |
-| **Jesse Brown VA Medical Center** | ~800m | Federal/VA hospital | Amputation care for veterans; prosthetics program |
-| **Rush University Medical Center** | ~2 km | Academic medical center | Cancer, cardiac, and rehabilitation services |
-
-**Amputee-relevant notes:**
-- Multiple hospitals within walking distance provide redundancy for emergency care
-- VA Medical Center on-site is critical for veteran amputees eligible for prosthetics coverage
-- Northwestern's comprehensive physical medicine & rehabilitation department specializes in amputee care
-- Pharmacy services available at multiple hospital-based outpatient pharmacies
+**Key Insight:** Excellent transit connectivity — the Red and Blue Lines provide direct access to the Loop (10–15 min) and O'Hare Airport (~30 min). Multiple bus routes cover the neighborhood. The Water Taxi offers an accessible scenic option to the Loop. All major stations are wheelchair-accessible.
 
 ---
 
-### 💊 Pharmacies — Score: 9.0 / 10 (Very Good)
+### 💊 Pharmacies (within 1 km)
 
-| Pharmacy | Distance | Brand | Hours | Accessibility |
-|---|---|---|---|---|
-| **Walgreens** — 342 E Illinois St | ~200m | Walgreens | Standard | Wheelchair accessible |
-| **Walgreens** — 410 N Michigan Ave | ~500m | Walgreens | Standard | Wheelchair accessible |
-| **Walgreens** — 757 N Michigan Ave | ~800m | Walgreens | Standard | Wheelchair accessible |
-| **Walgreens** — 151 N State St | ~700m | Walgreens | Standard | Wheelchair accessible |
-| **Walgreens** — 30 N Michigan Ave | ~600m | Walgreens | Mo–Fr 7am–10pm; Sa–Su 8am–10pm | Wheelchair accessible |
-| **CVS Pharmacy** — 205 N Columbus Dr | ~400m | CVS | Standard | Wheelchair accessible |
-| **CVS Pharmacy** — 25 E Ohio St | ~500m | CVS | Standard | Wheelchair accessible |
-| **CVS Pharmacy** — 1 S State St | ~700m | CVS | Standard | Wheelchair accessible |
-| **CVS Pharmacy** — 1201 N State St | ~1.2 km | CVS | Standard | Wheelchair accessible |
+| Pharmacy | Address | Distance | Hours |
+|----------|---------|----------|-------|
+| **Walgreens** | 757 N Michigan Ave | ~400 m | **24/7** ✅ |
+| **Walgreens** | 342 E Illinois St | ~300 m | Standard hours |
+| **Walgreens** | 410 N Michigan Ave | ~700 m | Standard hours |
+| **Walgreens** | 680 N Lake Shore Dr | ~500 m | Standard hours |
+| **CVS Pharmacy** | 205 N Columbus Dr | ~900 m | Standard hours |
 
-**Amputee-relevant notes:**
-- 7+ pharmacies within 1 km ensure medication access without long travel
-- Multiple chains provide price competition for prosthetic-related medications (pain management, skin care)
-- Walgreens at 757 N Michigan Ave offers 24/7 service for emergency prescriptions
-- Several pharmacies on Michigan Avenue are near accessible bus routes
+**Key Insight:** Multiple 24/7 pharmacy options within walking distance — essential for amputees who may need medications or supplies at any hour. Walgreens on Michigan Ave is the closest 24/7 option.
 
 ---
 
-### ♿ Disability-Specific Resources & Accessibility
+### 🛒 Groceries & Daily Essentials (within 1 km)
 
-| Resource | Distance | Details |
-|---|---|---|
-| **ADA Paratransit (CTA Access-A-Ride)** | Citywide | Door-to-door service for qualified individuals with disabilities |
-| **Chicago Accessible Taxi** | Hail anywhere | Wheelchair-accessible taxis available via 311 request |
-| **Shirley Ryan AbilityLab Peer Support** | On-site | Amputee peer support groups and vocational rehabilitation |
-| **Amputee Coalition of America** | National org | (888) 267-5669 — resources, support groups, financial assistance info |
-| **Prosthetics financing assistance** | Various | Shirley Ryan AbilityLab social work team can connect to payment assistance programs |
-
----
-
-### 🏪 Daily Needs & Amenities — Score: 9.0 / 10
-
-| Category | Availability | Notes |
-|---|---|---|
-| **Grocery stores** | Multiple within 1 km | Jewel-Osco (~500m), Whole Foods (~700m), Trader Joe's (~1.2 km) |
-| **Restaurants** | Abundant | Michigan Avenue and Oak Street dining districts within walking distance |
-| **Parks & recreation** | Lakefront Trail (~300m), Millennium Park (~1.2 km), Maggie Daley Park (~1 km) | Flat, accessible paths ideal for prosthetic users |
-| **Hotels** | Multiple near Michigan Ave | Accessible rooms readily available for visiting families |
-| **Banking** | Multiple branches within 1 km | Most major banks on State Street and Michigan Avenue |
+| Store | Type | Distance | Accessible |
+|-------|------|----------|------------|
+| **Whole Foods Market** (Streeterville) | Supermarket | ~300 m | ✅ |
+| **Trader Joe's** (River North) | Supermarket | ~650 m | ✅ |
+| **Bockwinkel's** | Organic Supermarket | ~130 m | ✅ |
+| **7-Eleven** (multiple locations) | Convenience | 80–800 m | ✅ |
+| **Eataly** | Italian Food Market/Café | ~680 m | ✅ |
 
 ---
 
-### 🌳 Green Spaces & Outdoor Access — Score: 9.5 / 10
+### 🏞️ Parks, Recreation & Green Space
 
-| Space | Distance | Accessibility |
-|---|---|---|
-| **Lakefront Trail** | ~300m | Paved, flat, wheelchair/stroller accessible |
-| **Millennium Park** | ~1.2 km | Fully ADA compliant; rest areas |
-| **Maggie Daley Park** | ~1 km | Accessible playground and walking paths |
-| **Grant Park** | ~1.5 km | Flat, wide paths; fully accessible |
-| **Chicago Riverwalk** | ~800m | Smooth, accessible surface |
-
-**Amputee-relevant notes:**
-- Flat terrain throughout the area — minimal hills, ideal for prosthetic users
-- Lakefront Trail is one of the most accessible outdoor exercise routes in the US
-- Multiple rest areas with benches along the lakefront and in parks
+- **Navy Pier** (~500 m) — Public park, parks along the lakefront, outdoor walking paths
+- **Graceland Cemetery** (~1.2 km) — Historic grounds with walking paths
+- **Lakefront Trail** (~300 m) — ADA-accessible paved trail along Lake Michigan
+- **Maggie Daley Park** (~1.5 km) — Accessible playground and recreation
 
 ---
 
-### 📊 Livability Summary for Amputees
+### 🅿️ Parking Facilities (within 1 km)
 
-| Category | Score | Key Strength |
-|---|---|---|
-| Public Transit | 9.8/10 | 24/7 CTA service; all stations accessible |
-| Healthcare | 9.5/10 | 5+ major hospitals; VA on-site; #1 rehab center |
-| Pharmacies | 9.0/10 | 7+ within 1 km; 24/7 option available |
-| Accessibility | 9.5/10 | Flat terrain; ADA-compliant transit; accessible parks |
-| Daily Needs | 9.0/10 | Groceries, dining, banking within walking distance |
-| **Overall** | **9.2/10** | One of the most amputee-friendly urban neighborhoods in the US |
-
-**Why this location matters for the amputee community:**
-The Streeterville / Near North Side neighborhood around Shirley Ryan AbilityLab offers an exceptional combination of world-class rehabilitation, accessible transit, daily amenities, and outdoor recreation — all within a compact, flat, walkable area. For an amputee adjusting to limb loss, this neighborhood provides everything needed to focus on recovery and independence without the stress of long commutes or limited services. The area's disability infrastructure (paratransit, accessible taxis, peer support) ensures that even those with significant mobility challenges can navigate the city with dignity.
+| Facility | Type | Distance | Hours |
+|----------|------|----------|-------|
+| DoubleTree Garage | Multi-storey | ~160 m | 24/7 |
+| Underground Parking (Ohio St) | Underground | ~380 m | Public access |
+| Grand Plaza Parking | Underground/Surface | ~870 m | Paid |
+| Multiple surface lots | Surface | 500–1000 m | Varies |
 
 ---
 
-## 📚 References
+### ♿ Disability-Specific Resources & ADA Information
 
-1. ClinicalTrials.gov — Search: affordable prosthetic limb loss
-2. Shirley Ryan AbilityLab — https://www.shirleyryanabilitylab.org/
-3. Amputee Coalition of America — https://www.amputee-coalition.org/
-4. Chicago Transit Authority — https://www.transitchicago.com/
-5. U.S. News & World Report — Best Hospitals: Rehabilitation
+- **ADA Compliance:** The Streeterville/Near North Side area is generally well-compliant with ADA standards. Sidewalks are wide, curb cuts are standard, and public transit stations have elevator access.
+- **Accessible Transit:** All CTA Red/Blue Line stations within 1 km are elevator-accessible. Bus shelters have benches and shelters.
+- **Wheelchair-Accessible Venues:** Most restaurants, shops, and transit options in the area are wheelchair-accessible.
+- **Rehab Resources:** Shirley Ryan AbilityLab itself is the premier resource, plus the Chicago Lakeside VA Clinic provides veteran-specific amputee support.
+- **Related Organizations:**
+  - Amputee Coalition of America — national support organization
+  - Iraq and Afghanistan Veterans of America (IAVA) — veteran peer support
+  - Chicago Center for Black Music Arts — community engagement
 
 ---
 
-*Last updated: July 2026 | Research conducted via ClinicalTrials.gov API and OpenStreetMap geographic data*
+### 📋 Summary: Livability for Amputees
+
+| Category | Score | Notes |
+|----------|-------|-------|
+| **Healthcare Access** | ⭐⭐⭐⭐⭐ | VA clinic, rehab hospital, urgent care all within 1 km |
+| **Public Transit** | ⭐⭐⭐⭐⭐ | Red/Blue lines, 15+ bus routes, Water Taxi — all accessible |
+| **Pharmacies** | ⭐⭐⭐⭐⭐ | 5+ pharmacies, 24/7 Walgreens nearby |
+| **Groceries** | ⭐⭐⭐⭐⭐ | Whole Foods, Trader Joe's, organic market nearby |
+| **Walkability** | ⭐⭐⭐⭐⭐ | Walker's Paradise — 10/10 Walk Score |
+| **Parks/Rec** | ⭐⭐⭐⭐ | Lakefront trail, Navy Pier, accessible paths |
+| **Parking** | ⭐⭐⭐⭐ | Multiple paid options within 1 km |
+
+**Overall Assessment:** The area around Shirley Ryan AbilityLab is exceptionally well-suited for amputees needing regular access to rehabilitation, medical care, and daily amenities. The combination of top-tier rehabilitation infrastructure, excellent accessible transit, and nearby essential services makes this an ideal location for the amputee community.
+
+---
+
+*Last updated: July 2026 | Sources: ClinicalTrials.gov (studies NCT04700085, NCT04725461, NCT05220553, NCT06938087, NCT06504303, NCT05601869, NCT06702904, NCT03517774, NCT06780943, NCT04169594), OpenStreetMap (neighborhood data), U.S. News & World Report (hospital ranking)*
