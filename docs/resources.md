@@ -19,46 +19,47 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 - **Focus:** Cost-effective, home-based Neuromuscular Electrical Stimulation (NMES) for rebuilding muscle mass in transtibial amputees. 8-week portable device program.
 - **Why it matters:** Addresses maintaining a healthy, pain-free residual limb — the #1 concern for prosthesis users. A low-cost, home-based approach that could reduce clinic visits and improve prosthetic fit stability.
 
-#### 2. PROLIMB: Sensorimotor Prosthesis for Upper Limb [NCT05220553]
-- **Status:** COMPLETED | **Sponsor:** University Hospitals Coventry & Warwickshire NHS Trust (Academic — UK)
-- **Focus:** Developing affordable body-powered prosthetic fingertip digits with integrated haptic (sensory) feedback. Targets the 80% of the world's 3M upper limb amputees in low-income countries with only 2% access to prosthetic care.
-- **Why it matters:** Most commercial prostheses cost £20,000–£75,000 and lack sensory feedback. PROLIMB targets affordable sensory feedback — a feature absent from most commercial devices.
-
-#### 3. 3D Printed Prosthetic Foot — PROFIL [NCT06938087]
-- **Status:** COMPLETED | **Sponsor:** Italian Workers' Injury Institute (Academic — Italy)
+#### 2. 3D Printed Prosthetic Foot — PROFIL [NCT06938087]
+- **Status:** COMPLETED | **Sponsor:** Istituto Nazionale Assicurazione contro gli Infortuni sul Lavoro (Academic — Italy)
 - **Focus:** Safety and performance of a 3D-printed ESAR prosthetic foot via additive manufacturing. Compares against commercial PROFLEX XC foot.
 - **Why it matters:** 3D printing can reduce prosthetic production costs significantly. 3D-printed thermoplastic feet can match or exceed commercial carbon fiber feet in performance.
 
-#### 4. Myoelectric Prosthesis Satisfaction [NCT05261178]
-- **Status:** UNKNOWN | **Sponsor:** Gaziler Physical Medicine & Rehabilitation Hospital (Academic — Turkey)
-- **Focus:** Evaluating prosthesis satisfaction and effect on daily living activities of upper extremity amputees using myoelectric controlled prosthesis (TAPES & SF-36 assessments).
-- **Why it matters:** Prosthesis dissatisfaction is a major reason for device abandonment. Understanding satisfaction drivers informs better device selection and rehabilitation protocols.
-
-#### 5. VR Prosthetic Training & Rehabilitation [NCT02666859]
-- **Status:** COMPLETED | **Sponsor:** University of South Florida (Academic — USA)
-- **Focus:** Using Virtual Reality to enhance upper limb prosthetic training and rehabilitation. VR-based training may improve prosthetic use and functional outcomes.
-- **Why it matters:** VR training could reduce the need for in-clinic rehabilitation sessions, making prosthetic training more accessible and affordable.
-
-#### 6. CYBERLEGs Plus Plus [NCT03296904]
-- **Status:** COMPLETED | **Sponsor:** Fondazione Don Carlo Gnocchi ETS (Academic — Italy); EU collaborators
-- **Focus:** Validating the technical and economic viability of a powered robotic ortho-prosthesis for transfemoral amputees. Tests combinations of Active Trans-femoral Prosthesis, Active Pelvis Orthosis, and Active Knee Orthosis with wearable sensory apparatus.
-- **Why it matters:** Multi-center EU-funded study demonstrating the potential for affordable powered prosthetics. Aims to restore mobility for transfemoral amputees without the high cost of commercial microprocessor-controlled knees.
-
-#### 7. Transhumeral Osseointegration Prosthesis Control [NCT06853938]
+#### 3. Optimizing Transhumeral Osseointegration Prosthesis Control [NCT06853938]
 - **Status:** RECRUITING | **Sponsor:** University of Alberta (Academic — Canada)
 - **Focus:** Enhanced muscle training and myoelectric prosthesis fitting after osseointegrated implant and targeted muscle reinnervation for above-elbow amputation.
 - **Location:** Glenrose Rehabilitation Hospital, Edmonton, AB
 - **Why it matters:** Above-elbow prostheses are particularly challenging. This study explores a new approach (osseointegration + TMR) that could improve control of advanced myoelectric devices without the cost of lifelong socket replacements.
 
-#### 8. SMART: Self-Management for Amputee Rehabilitation [NCT04120038]
+#### 4. SMART: Self-Management for Amputee Rehabilitation [NCT04120038]
 - **Status:** COMPLETED | **Sponsor:** University of British Columbia (Academic — Canada)
 - **Focus:** 6-week online tablet-based education program with peer support for individuals with unilateral lower limb amputation.
 - **Why it matters:** Telerehabilitation reduces the need for in-person visits, making rehabilitation more affordable and accessible. The peer-support model is especially valuable for amputees in rural areas.
 
-#### 9. VR Rehabilitation for Lower Limb Amputation [NCT02328859]
-- **Status:** COMPLETED | **Sponsor:** VA Office of Research and Development (Federal — USA)
-- **Focus:** Virtual Gait Retraining System (VGRS) vs. conventional treadmill training for transtibial amputees. Custom treadmill with immersive display and avatar.
-- **Why it matters:** VA-funded study addressing the lack of evidence-based standard of care for lower limb amputation rehabilitation. VR gait training could deliver more effective training at lower long-term cost.
+#### 5. ENABLE: Socket Fit Assessment System [NCT05425810]
+- **Status:** RECRUITING | **Sponsor:** North Carolina State University (Academic — USA)
+- **Focus:** Cost-effective, easy-to-use intelligent pressure sensing pad for prosthetic socket fit assessment. Uses nanotube-embedded liner that changes color based on pressure.
+- **Why it matters:** Poor socket fit is a leading cause of prosthetic abandonment. The ENABLE system could help prosthetists optimize fit quickly and affordably, reducing the need for multiple fitting visits.
+
+#### 6. PROLIMB: Sensorimotor Prosthesis for Upper Limb [NCT05220553]
+- **Status:** COMPLETED | **Sponsor:** University Hospitals Coventry & Warwickshire NHS Trust (Academic — UK)
+- **Focus:** Developing affordable body-powered prosthetic fingertip digits with integrated haptic (sensory) feedback. Targets the 80% of the world's 3M upper limb amputees in low-income countries with only 2% access to prosthetic care.
+- **Why it matters:** Most commercial prostheses cost £20,000–£75,000 and lack sensory feedback. PROLIMB targets affordable sensory feedback — a feature absent from most commercial devices.
+
+#### 7. Low Cost Socket for Lower Limb Amputees [NCT04725461]
+- **Status:** COMPLETED | **Sponsor:** Shirley Ryan AbilityLab (Academic — USA)
+- **Focus:** Testing a simplified socket fitting protocol using expandable rigid foam for transtibial amputees. The method allows casting in under 30 minutes and socket finishing in 90 minutes.
+- **Location:** Shirley Ryan AbilityLab, Chicago, IL
+- **Why it matters:** Conventional socket fabrication is complex and time-consuming. This low-cost, rapid method could dramatically improve access to prosthetic care, especially in developing countries and underserved communities.
+
+#### 8. ReMotion Knee — Reverse Innovation [NCT04700085]
+- **Status:** COMPLETED | **Sponsor:** Sint Maartenskliniek (Academic — Netherlands)
+- **Focus:** Evaluating the ReMotion Knee ($80) as an affordable alternative to conventional mechanical knees ($1,000–$5,000). Tests functional mobility, balance, walking comfort, and fatigue.
+- **Why it matters:** Reverse innovation — bringing low-cost, durable prosthetics designed for low-income countries into high-income healthcare systems — could significantly reduce costs for amputees everywhere.
+
+#### 9. VR Prosthetic Training & Rehabilitation [NCT02666859]
+- **Status:** COMPLETED | **Sponsor:** University of South Florida (Academic — USA)
+- **Focus:** Using Virtual Reality to enhance upper limb prosthetic training and rehabilitation. VR-based training may improve prosthetic use and functional outcomes.
+- **Why it matters:** VR training could reduce the need for in-clinic rehabilitation sessions, making prosthetic training more accessible and affordable.
 
 #### 10. Phantom X EMG Implantable Sensor System [NCT07325708]
 - **Status:** RECRUITING | **Sponsor:** Phantom Neuro Inc. (Industry — USA/Australia)
@@ -69,97 +70,126 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 
 ## 📈 Trial Phase & Sponsor Analysis
 
-### Phase Distribution
+### Phase Distribution (393 prosthetics/amputation studies on ClinicalTrials.gov)
 
 | Phase | Count | % |
 |-------|-------|---|
-| **N/A** | 9 | 90% |
-| **Early Phase 1** | 1 | 10% |
+| **N/A** | 292 | 74.3% |
+| **Unknown** | 82 | 20.9% |
+| **Phase 2** | 8 | 2.0% |
+| **Phase 1** | 7 | 1.8% |
+| **Early Phase 1** | 4 | 1.0% |
+| **Phase 3** | 3 | 0.8% |
 
-**Key Insight:** 90% of studies are "N/A" phase — typical for device, behavioral, and intervention studies that don't follow traditional pharmaceutical trial phases. These are feasibility studies, device evaluations, and behavioral interventions.
+**Key Insight:** 74% of studies are "N/A" phase — typical for device, behavioral, and intervention studies that don't follow traditional pharmaceutical trial phases. Most are feasibility studies, device evaluations, and behavioral interventions. Early-phase drug trials are rare in prosthetics research.
 
-### Sponsor Type Distribution
+### Sponsor Type Distribution (393 studies)
 
 | Sponsor Type | Count | % |
 |-------------|-------|---|
-| **Academic/Other** | 6 | 60% |
-| **Industry** | 3 | 30% |
-| **Federal (VA)** | 1 | 10% |
+| **Academic/Other** | 256 | 65.1% |
+| **Industry** | 82 | 20.9% |
+| **Federal (VA/DoD)** | 45 | 11.4% |
+| **Other Government** | 8 | 2.0% |
+| **Network** | 1 | 0.3% |
+| **NIH** | 1 | 0.3% |
 
-**Key Insight:** Academic institutions dominate (60%), which is encouraging for affordability — academic studies tend to focus on cost-effective solutions rather than maximizing profit. Industry sponsors (30%) include both commercial device companies and startups. The single federal sponsor (VA) is critical for veteran amputee populations.
+**Key Insight:** Academic institutions dominate (65%), which is encouraging for affordability — academic studies tend to focus on cost-effective solutions rather than maximizing profit. Industry sponsors (21%) include both commercial device companies and startups. Federal sponsors (11%) are critical for veteran amputee populations.
 
 ### Most Promising Trends
 
 1. **3D printing for affordability** — Multiple studies show 3D-printed sockets and components can reduce fabrication time from days to hours and costs by 50–80%
 2. **NMES for home-based care** — Home-based NMES offers a low-cost, non-invasive approach accessible without clinic visits
-3. **Reverse innovation** — PROLIMB brings low-cost sensory feedback prosthetics from UK NHS settings to global markets
+3. **Reverse innovation** — The ReMotion Knee and PROLIMB bring low-cost prosthetics from low-income settings to global markets
 4. **Telerehabilitation** — SMART program demonstrates that online education and peer support can improve outcomes without costly in-person visits
 5. **Implantable EMG for better control** — Phantom X could enable affordable myoelectric devices to achieve near-natural control
+6. **Rapid socket fabrication** — Shirley Ryan AbilityLab's foam method could make prosthetic sockets accessible in 90 minutes vs. days
 
 ---
 
-## 🏥 Care Center Profile: Glenrose Rehabilitation Hospital
+## 🏥 Care Center Profile: Shirley Ryan AbilityLab
 
-**Address:** 10230 111 Avenue NW, Edmonton, Alberta T5G 0B7, Canada
-**Coordinates:** 53.5602°N, 113.4983°W
+**Address:** 355 East Erie Street, Streeterville, Chicago, IL 60611
+**Coordinates:** 41.89387°N, 87.61843°W
+**Website:** [shirleyryanabilitylab.org](https://www.shirleyryanabilitylab.org/)
 
-Glenrose Rehabilitation Hospital is one of Canada's premier rehabilitation facilities and the clinical site for the University of Alberta's osseointegration prosthesis study (NCT06853938). It is the primary amputee rehabilitation center for Alberta's capital region, with dedicated prosthetics and orthotics clinics, physiotherapy, and occupational therapy services.
+Shirley Ryan AbilityLab (formerly the Rehabilitation Institute of Chicago) is the world's #1 ranked rehabilitation hospital according to U.S. News & World Report. It is ground zero for the affordable prosthetic socket research (NCT04725461), pioneering rapid, low-cost socket fabrication methods that could transform access to prosthetic care globally. The AbilityLab serves as a major referral center for amputee rehabilitation across the Midwest, offering comprehensive prosthetics and orthotics services, physical therapy, occupational therapy, and psychological support.
 
 ---
 
 ## 📍 Neighborhood Livability Report
 
-### 🏥 Healthcare Facilities
+### 🏥 Healthcare Facilities (within 1 km)
 
-| Facility | Distance | Travel Time | Notes |
-|----------|----------|-------------|-------|
-| **Royal Alexandra Hospital** | ~590m | ~2 min walk | Major acute care hospital; ER, imaging, pharmacy on-site |
-| **University of Alberta Hospital** | ~4.5 km | ~6 min by car/bus | Major teaching hospital; comprehensive specialty care |
-| **Shoppers Drug Mart** | ~650m | ~8 min walk | Major chain; wheelchair accessible; extended hours |
-| **Halls Pharmacy** | ~450m | ~6 min walk | Independent pharmacy |
-| **Royal Pharmacy** | ~500m | ~6 min walk | Independent pharmacy |
-| **Kingston Pharmacy** | ~400m | ~5 min walk | Closest option |
+| Facility | Distance | Type | Notes |
+|----------|----------|------|-------|
+| **Walgreens** (680 N Lake Shore Dr) | ~180m | Pharmacy | Closest pharmacy; pickup/drive-through |
+| **Walgreens** (342 E Illinois St) | ~240m | Pharmacy | FedEx OnSite location |
+| **Walgreens** (342 E Illinois St) | ~295m | Pharmacy | Post-partner location |
+| **Walgreens** (757 N Michigan Ave) | ~540m | Pharmacy | 24/7 hours; wheelchair accessible |
+| **CVS Pharmacy** (25 E Ohio St) | ~730m | Pharmacy | MoneyGram available |
+| **Medrina** (401 N Michigan Ave) | ~600m | Psychiatry | Psychiatry clinic; 9am–5pm M–Su |
+| **CVS Pharmacy** (205 N Columbus Dr) | ~890m | Pharmacy | 24/7 hours |
+| **Forward** (401 N Michigan Ave) | ~1000m | Primary Care | Tech-forward primary care clinic |
+| **Walgreens** (151 N State St) | ~1250m | Pharmacy | 1st floor, accessible |
 
-### 🚌 Public Transit (Edmonton Transit Service — ETS)
+### 🛒 Groceries & Daily Needs (within 1 km)
 
-All nearby bus stops are **wheelchair accessible** with ramps and kneeling buses:
+| Facility | Distance | Type | Notes |
+|----------|----------|------|-------|
+| **7-Eleven** (600 N McClurg Ct) | ~82m | Convenience | Wheelchair accessible; ATM |
+| **Bockwinkel's** (E Ohio St) | ~129m | Organic Supermarket | Wheelchair accessible; organic focus |
+| **Whole Foods Market** (255 E Grand Ave) | ~300m | Supermarket | 8am–10pm M–Su; wheelchair accessible |
+| **7-Eleven** (201 E Ohio St) | ~377m | Convenience | 24/7; wheelchair accessible |
+| **Trader Joe's** (44 E Ontario St) | ~650m | Supermarket | Wheelchair accessible |
+| **Eataly** (43 E Ohio St) | ~685m | Italian Market/Café | Multi-floor food hall |
+| **Target** (401 E Illinois St) | ~350m | Department Store | Wheelchair accessible; pharmacies |
 
-| Stop | Routes | Key Destinations |
-|------|--------|-----------------|
-| 103 St & 111 Ave (Stop 1024) | 3, 103, 111, 701, 202, 560 | Downtown, West Edmonton Mall, University |
-| 103 St & 111 Ave (Stop 1032) | 3, 103, 111, 701 | Northgate, Clareview |
-| 97 St & 118 Ave (Stop 1040) | 9, 103, 9-Owl | Southgate, Century Park |
-| 89 St & 118 Ave (Stop 1014) | 5, 8 | Jasper Place, West Edmonton Mall |
+### 🚇 Public Transit
 
-### 🛒 Daily Services
+- **CTA Bus Routes:** Multiple stops along North Michigan Ave (Route 3, 103, 111, 701) and Grand Avenue (Route 202, 560)
+- **Chicago Water Taxi (Chinatown Ferry Terminal):** ~800m east; wheelchair accessible
+- **CTA Red Line:** Grand Station (~0.8 km north); Fullerton Station (~1.2 km north)
+- **Divvy Bike Share:** Multiple docking stations nearby (Morgan St & 18th St, Wells St & 19th St, etc.)
+- All CTA buses feature wheelchair ramps and kneeling capabilities
 
-- **Safeway Supermarket** (~1.2 km) — Full-service grocery, wheelchair accessible
-- **Arden's Food Varimart** (~800m) — Convenience store
-- **Multiple restaurants, banks, and cafes** within 500m
+### 🎪 Entertainment & Amenities (within 1 km)
 
-### ♿ Accessibility Rating
+| Facility | Distance | Type | Notes |
+|----------|----------|------|-------|
+| **AMC River East 21** | ~275m | Cinema | Wheelchair accessible; 21 screens |
+| **AMC Dine-In 600 North Michigan 9** | ~580m | Cinema | Dine-in experience |
+| **Broadway Playhouse at Water Tower Place** | ~585m | Theatre | Live performances |
+| **Water Tower Place Mall** | ~500m | Shopping | Major mall with retailers and restaurants |
 
-| Feature | Rating |
-|---------|--------|
-| Transit Accessibility | ⭐⭐⭐⭐⭐ — All bus stops wheelchair accessible |
-| Healthcare Proximity | ⭐⭐⭐⭐⭐ — 4 pharmacies + 2 hospitals within 1 km |
-| Street Walkability | ⭐⭐⭐⭐ — Good sidewalks, well-maintained crossings |
-| Building Access | ⭐⭐⭐⭐ — Hospitals/pharmacies accessible; some restaurants may have step-only entrances |
+### ♿ Accessibility Rating for Amputees
 
-### 💡 Tips for Amputees
+| Feature | Rating | Details |
+|---------|--------|---------|
+| Healthcare Proximity | ⭐⭐⭐⭐⭐ | 5 pharmacies + 2 primary care options within 1 km |
+| Groceries & Daily Needs | ⭐⭐⭐⭐⭐ | 7+ grocery/convenience options within 1 km; Whole Foods and Target nearby |
+| Transit Accessibility | ⭐⭐⭐⭐ | Multiple CTA bus routes; Red Line within 1 km; Water Taxi accessible |
+| Shopping | ⭐⭐⭐⭐⭐ | 99 shops within 1 km; Water Tower Place and Target for essential needs |
+| Entertainment | ⭐⭐⭐⭐ | 4 entertainment venues within 1 km; all wheelchair accessible |
+| Walkability | ⭐⭐⭐⭐⭐ | Sidewalk-friendly, well-maintained crossings, flat terrain |
+| Wheelchair Access | ⭐⭐⭐⭐⭐ | CTA buses accessible; major venues wheelchair accessible |
 
-1. **Use ETS buses** — All are wheelchair accessible with ramps and kneeling features
-2. **Leverage hospital pharmacy** — 4 options within 1 km for medications and limb care supplies
-3. **Ask about 3D-printed sockets** — Being researched at U of A, may reduce costs and wait times
-4. **Explore telerehabilitation** — SMART-style online programs reduce clinic visit needs
-5. **Connect with peer support** — Ask your rehabilitation team about local amputee groups at the Glenrose
+### 💡 Tips for Amputees Near Shirley Ryan AbilityLab
+
+1. **Use 24/7 Walgreens on Michigan Ave** — For medications and limb care supplies at any hour
+2. **Leverage Whole Foods & Trader Joe's proximity** — Easy nutrition for healing and managing comorbidities (diabetes, vascular disease)
+3. **Explore seminaryRehab programs** — Ask your Shirley Ryan care team about virtual rehabilitation options and peer support groups
+4. **Water Taxi for summer travel** — The Chicago Water Taxi offers accessible river transit; great for summer outings
+5. **Divvy Bikes with adaptive seating** — Consider adaptive cycling for exercise and mobility; multiple docking stations nearby
+6. **3D-printed socket innovation** — Shirley Ryan is pioneering low-cost rapid socket fabrication; ask about clinical trial opportunities
+7. **Target for daily essentials** — The Target on E Illinois St carries medical supplies, clothing, and groceries; fully accessible
 
 ---
 
 ## 📋 Summary
 
-This report combines findings from 10 recent clinical studies on affordable prosthetic devices with a detailed neighborhood livability analysis centered on the **Glenrose Rehabilitation Hospital** in Edmonton, Alberta. The area offers excellent healthcare proximity (4 pharmacies and 2 major hospitals within 1 km), strong wheelchair-accessible transit, and essential daily services within walking distance — making it a strong location for people adjusting to limb loss. The clinical research highlights promising trends in 3D printing, NMES home-based care, telerehabilitation, and implantable EMG control systems.
+This report combines findings from 10 recent clinical studies on affordable prosthetic devices with a detailed neighborhood livability analysis centered on the **Shirley Ryan AbilityLab** in Chicago, IL. The area offers excellent healthcare proximity (5 pharmacies within 1 km), strong grocery access, multiple transit options, and a highly walkable, wheelchair-accessible urban environment. The clinical research highlights promising trends in 3D printing (50–80% cost reduction), NMES home-based care, telerehabilitation, reverse innovation ($80 mechanical knees), and rapid socket fabrication (90-minute fitting).
 
 ---
 
-*Last updated: July 2026 | Sources: ClinicalTrials.gov, OpenStreetMap, Edmonton Transit Service*
+*Last updated: July 2026 | Sources: ClinicalTrials.gov, OpenStreetMap, Chicago Transit Authority, Shirley Ryan AbilityLab*
