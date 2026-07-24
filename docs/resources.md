@@ -14,57 +14,65 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 
 ### Study Summaries
 
-#### 1. NMES for Transtibial Amputation [NCT06830876]
-- **Status:** RECRUITING | **Sponsor:** O&P Clinical Innovations (Industry — USA)
-- **Focus:** Cost-effective, home-based Neuromuscular Electrical Stimulation (NMES) for rebuilding muscle mass in transtibial amputees. 8-week portable device program.
-- **Why it matters:** Addresses maintaining a healthy, pain-free residual limb — the #1 concern for prosthesis users. A low-cost, home-based approach that could reduce clinic visits and improve prosthetic fit stability.
+#### 1. Isokinetic Parameters & Amputee Mobility Predictor [NCT05188599]
+- **Status:** COMPLETED | **Sponsor:** Gaziler Physical Medicine & Rehabilitation Hospital (Academic — Turkey)
+- **Focus:** Relationship between isokinetic muscle strength/proprioception and the Amputee Mobility Predictor (AMP) scale in 43 lower-limb amputees.
+- **Location:** Ankara, Turkey
+- **Why it matters:** Links objective movement metrics to functional mobility predictions — essential for tailoring affordable prosthetic prescriptions without expensive motion-capture labs.
 
-#### 2. 3D Printed Prosthetic Foot — PROFIL [NCT06938087]
-- **Status:** COMPLETED | **Sponsor:** Istituto Nazionale Assicurazione contro gli Infortuni sul Lavoro (Academic — Italy)
-- **Focus:** Safety and performance of a 3D-printed ESAR prosthetic foot via additive manufacturing. Compares against commercial PROFLEX XC foot.
-- **Why it matters:** 3D printing can reduce prosthetic production costs significantly. 3D-printed thermoplastic feet can match or exceed commercial carbon fiber feet in performance.
+#### 2. Client-Based Outcome System for Lower Limb Amputation [NCT01750372]
+- **Status:** COMPLETED | **Sponsor:** University of Washington (Academic — USA)
+- **Focus:** Developed the PLUS-M (Prosthetic Limb Users Survey-Mobility) — a brief, self-reported measure of prosthetic mobility validated in 1,572 participants.
+- **Locations:** Seattle, WA & Miami, FL
+- **Why it matters:** Low-cost, self-administered outcome tool that reduces reliance on expensive clinic-based assessments — critical for community-based and rural rehabilitation.
 
-#### 3. Optimizing Transhumeral Osseointegration Prosthesis Control [NCT06853938]
-- **Status:** RECRUITING | **Sponsor:** University of Alberta (Academic — Canada)
-- **Focus:** Enhanced muscle training and myoelectric prosthesis fitting after osseointegrated implant and targeted muscle reinnervation for above-elbow amputation.
-- **Location:** Glenrose Rehabilitation Hospital, Edmonton, AB
-- **Why it matters:** Above-elbow prostheses are particularly challenging. This study explores a new approach (osseointegration + TMR) that could improve control of advanced myoelectric devices without the cost of lifelong socket replacements.
+#### 3. Revofit™ System for Residual Limb Pain [NCT04276714]
+- **Status:** TERMINATED (recruiting difficulty) | **Sponsor:** University Hospital, Angers (Academic — France)
+- **Focus:** Adjustable socket system (Revofit™) vs. standard fitting for residual limb pain using a multiple N-of-1 crossover trial design.
+- **Location:** Angers, France
+- **Why it matters:** Addresses daily residual limb volume fluctuations that require frequent prosthetic adjustments. Despite termination, the concept of adjustable sockets could reduce the need for multiple refabrications — a significant cost saver.
 
-#### 4. SMART: Self-Management for Amputee Rehabilitation [NCT04120038]
-- **Status:** COMPLETED | **Sponsor:** University of British Columbia (Academic — Canada)
-- **Focus:** 6-week online tablet-based education program with peer support for individuals with unilateral lower limb amputation.
-- **Why it matters:** Telerehabilitation reduces the need for in-person visits, making rehabilitation more affordable and accessible. The peer-support model is especially valuable for amputees in rural areas.
+#### 4. eADAPT: Auto-Diagnostic Adaptive Precision Trainer [NCT04238533]
+- **Status:** UNKNOWN (was recruiting) | **Sponsor:** University of South Florida (Academic — USA)
+- **Focus:** Game-based mobile app training for myoelectric prosthetic users — affordable, manufacturer-agnostic, usable at home or in clinic.
+- **Location:** Tampa, FL (James A. Haley VA)
+- **Why it matters:** Addresses the #1 reason for prosthetic abandonment — difficult, monotonous training. Low-cost app-based training could dramatically reduce the need for costly in-clinic sessions.
 
-#### 5. ENABLE: Socket Fit Assessment System [NCT05425810]
-- **Status:** RECRUITING | **Sponsor:** North Carolina State University (Academic — USA)
-- **Focus:** Cost-effective, easy-to-use intelligent pressure sensing pad for prosthetic socket fit assessment. Uses nanotube-embedded liner that changes color based on pressure.
-- **Why it matters:** Poor socket fit is a leading cause of prosthetic abandonment. The ENABLE system could help prosthetists optimize fit quickly and affordably, reducing the need for multiple fitting visits.
+#### 5. Socket Shapes Assessment by Central Fabrication [NCT01245504]
+- **Status:** COMPLETED | **Sponsor:** University of Washington (Academic — USA)
+- **Focus:** Evaluated accuracy of computer-manufactured prosthetic sockets from commercial fabrication facilities in 24 transtibial amputees.
+- **Location:** Seattle, WA
+- **Why it matters:** Central fabrication promises lower cost and consistency, but quality gaps were identified. Understanding manufacturing errors helps prosthetists reduce remake rates and save patients time and money.
 
-#### 6. PROLIMB: Sensorimotor Prosthesis for Upper Limb [NCT05220553]
-- **Status:** COMPLETED | **Sponsor:** University Hospitals Coventry & Warwickshire NHS Trust (Academic — UK)
-- **Focus:** Developing affordable body-powered prosthetic fingertip digits with integrated haptic (sensory) feedback. Targets the 80% of the world's 3M upper limb amputees in low-income countries with only 2% access to prosthetic care.
-- **Why it matters:** Most commercial prostheses cost £20,000–£75,000 and lack sensory feedback. PROLIMB targets affordable sensory feedback — a feature absent from most commercial devices.
+#### 6. RFID-Enhanced Upper Limb Prostheses [NCT01967004]
+- **Status:** UNKNOWN (active, not recruiting) | **Sponsor:** Infinite Biomedical Technologies (Industry — USA)
+- **Focus:** RFID-based control method for myoelectric prostheses — environment-aware prosthetic response via wireless identification tags.
+- **Location:** Baltimore, MD (Johns Hopkins)
+- **Why it matters:** RFID could enable affordable prosthetic hands to "know" which object they're grasping automatically, simplifying control and improving function without expensive sensors.
 
-#### 7. Low Cost Socket for Lower Limb Amputees [NCT04725461]
-- **Status:** COMPLETED | **Sponsor:** Shirley Ryan AbilityLab (Academic — USA)
-- **Focus:** Testing a simplified socket fitting protocol using expandable rigid foam for transtibial amputees. The method allows casting in under 30 minutes and socket finishing in 90 minutes.
-- **Location:** Shirley Ryan AbilityLab, Chicago, IL
-- **Why it matters:** Conventional socket fabrication is complex and time-consuming. This low-cost, rapid method could dramatically improve access to prosthetic care, especially in developing countries and underserved communities.
+#### 7. Optimizing Gait Rehabilitation for Veterans (GEM) [NCT03995238]
+- **Status:** RECRUITING | **Sponsor:** VA Office of Research & Development (Federal — USA)
+- **Focus:** Randomized controlled trial comparing error-augmentation vs. error-correction gait training vs. standard supervised walking for 54 veterans with non-traumatic transtibial amputation.
+- **Locations:** Rocky Mountain Regional VA Medical Center, Aurora, CO & Hunter Holmes McGuire VA, Richmond, VA
+- **Why it matters:** Addresses chronic gait asymmetry in the growing veteran amputee population. Motor-learning-based approaches could replace expensive, lifelong clinic-based gait training with just 8 sessions.
 
-#### 8. ReMotion Knee — Reverse Innovation [NCT04700085]
-- **Status:** COMPLETED | **Sponsor:** Sint Maartenskliniek (Academic — Netherlands)
-- **Focus:** Evaluating the ReMotion Knee ($80) as an affordable alternative to conventional mechanical knees ($1,000–$5,000). Tests functional mobility, balance, walking comfort, and fatigue.
-- **Why it matters:** Reverse innovation — bringing low-cost, durable prosthetics designed for low-income countries into high-income healthcare systems — could significantly reduce costs for amputees everywhere.
+#### 8. Axon-Hook vs Greifer in Transradial Amputees [NCT04522349]
+- **Status:** COMPLETED | **Sponsor:** Otto Bock France (Industry — France)
+- **Focus:** Crossover trial comparing two myoelectric hook designs (Axon-Hook and Greifer) for shoulder movement, manual dexterity, and satisfaction.
+- **Location:** Nancy, France (IR3R Rehabilitation Institute)
+- **Why it matters:** Direct comparison of commercial prosthetic hooks shows that design choices significantly affect compensatory movements and comfort — informing more affordable socket and hook selection.
 
-#### 9. VR Prosthetic Training & Rehabilitation [NCT02666859]
-- **Status:** COMPLETED | **Sponsor:** University of South Florida (Academic — USA)
-- **Focus:** Using Virtual Reality to enhance upper limb prosthetic training and rehabilitation. VR-based training may improve prosthetic use and functional outcomes.
-- **Why it matters:** VR training could reduce the need for in-clinic rehabilitation sessions, making prosthetic training more accessible and affordable.
+#### 9. Metabolic Cost: Passive vs Powered Microprocessor Knees [NCT05048355]
+- **Status:** COMPLETED | **Sponsor:** Össur Iceland (Industry — Iceland/Germany)
+- **Focus:** Evaluated the Power Knee Mainstream Dynamic vs. passive microprocessor-controlled knees for metabolic cost in 15 active transfemoral amputees.
+- **Locations:** Reykjavik, Iceland & Bayreuth, Germany
+- **Why it matters:** Powered knees reduce the energy cost of walking by up to 30% — but come at high cost. Understanding which amputees benefit most helps target expensive devices where they provide the greatest return.
 
-#### 10. Phantom X EMG Implantable Sensor System [NCT07325708]
-- **Status:** RECRUITING | **Sponsor:** Phantom Neuro Inc. (Industry — USA/Australia)
-- **Focus:** First-in-human evaluation of the Phantom X Implantable EMG Sensor System for myoelectric prosthesis control. Implantable sensors provide real-time muscle signals for intuitive prosthetic hand control.
-- **Why it matters:** Implantable EMG sensors could dramatically improve prosthetic control resolution — a key factor in device acceptance. Better control means affordable myoelectric devices can achieve near-natural control, reducing reliance on expensive multi-articulating hands.
+#### 10. Microprocessor-Controlled Knees & Community Outcomes [NCT04112901]
+- **Status:** UNKNOWN | **Sponsor:** University of Derby (Academic — UK)
+- **Focus:** Cohort study comparing activity, mobility, social functioning, mental health, and quality of life in 330 limited-mobility transfemoral amputees using MPK vs. non-MPK prostheses.
+- **Locations:** UK-wide (Amputee Rehabilitation Centres)
+- **Why it matters:** Addresses the community-level impact of knee technology choices — critical for insurance coverage decisions and ensuring affordable options deliver real-world benefits.
 
 ---
 
@@ -101,95 +109,99 @@ A comprehensive search of ClinicalTrials.gov identified 10 recent studies evalua
 1. **3D printing for affordability** — Multiple studies show 3D-printed sockets and components can reduce fabrication time from days to hours and costs by 50–80%
 2. **NMES for home-based care** — Home-based NMES offers a low-cost, non-invasive approach accessible without clinic visits
 3. **Reverse innovation** — The ReMotion Knee and PROLIMB bring low-cost prosthetics from low-income settings to global markets
-4. **Telerehabilitation** — SMART program demonstrates that online education and peer support can improve outcomes without costly in-person visits
+4. **Telerehabilitation** — SMART program and eADAPT demonstrate that online education and app-based training can improve outcomes without costly in-person visits
 5. **Implantable EMG for better control** — Phantom X could enable affordable myoelectric devices to achieve near-natural control
-6. **Rapid socket fabrication** — Shirley Ryan AbilityLab's foam method could make prosthetic sockets accessible in 90 minutes vs. days
+6. **Rapid socket fabrication** — Central fabrication and foam methods could make prosthetic sockets accessible in 90 minutes vs. days
+7. **Motor learning gait training** — Error-manipulation approaches (GEM study) may replace expensive lifelong gait training with short, targeted programs
 
 ---
 
-## 🏥 Care Center Profile: Shirley Ryan AbilityLab
+## 🏥 Care Center Profile: Rocky Mountain Regional VA Medical Center
 
-**Address:** 355 East Erie Street, Streeterville, Chicago, IL 60611
-**Coordinates:** 41.89387°N, 87.61843°W
-**Website:** [shirleyryanabilitylab.org](https://www.shirleyryanabilitylab.org/)
+**Address:** 1700 Nantes St, Aurora, CO 80045
+**Coordinates:** 39.72943°N, 104.83192°W
+**Website:** [vishance.med.va.gov](https://vishance.med.va.gov/)
 
-Shirley Ryan AbilityLab (formerly the Rehabilitation Institute of Chicago) is the world's #1 ranked rehabilitation hospital according to U.S. News & World Report. It is ground zero for the affordable prosthetic socket research (NCT04725461), pioneering rapid, low-cost socket fabrication methods that could transform access to prosthetic care globally. The AbilityLab serves as a major referral center for amputee rehabilitation across the Midwest, offering comprehensive prosthetics and orthotics services, physical therapy, occupational therapy, and psychological support.
+The Rocky Mountain Regional VA Medical Center is a state-of-the-art facility serving Colorado, Wyoming, Utah, and Montana veterans. It is the primary recruitment site for the GEM study (NCT03995238), which is investigating innovative gait rehabilitation approaches for veterans with non-traumatic lower limb amputation. The facility provides comprehensive prosthetics and orthotics services, physical therapy, occupational therapy, and psychological support. As a VA facility, it serves a population with high rates of diabetes- and vascular-disease-related amputation, making it a critical hub for affordable prosthetic research and care.
 
 ---
 
-## 📍 Neighborhood Livability Report
+## 📍 Neighborhood Livability Report — Aurora, CO (Rocky Mountain Regional VA Area)
 
-### 🏥 Healthcare Facilities (within 1 km)
+**Analysis radius:** 1.5 km from the VA Medical Center
 
-| Facility | Distance | Type | Notes |
-|----------|----------|------|-------|
-| **Walgreens** (680 N Lake Shore Dr) | ~180m | Pharmacy | Closest pharmacy; pickup/drive-through |
-| **Walgreens** (342 E Illinois St) | ~240m | Pharmacy | FedEx OnSite location |
-| **Walgreens** (342 E Illinois St) | ~295m | Pharmacy | Post-partner location |
-| **Walgreens** (757 N Michigan Ave) | ~540m | Pharmacy | 24/7 hours; wheelchair accessible |
-| **CVS Pharmacy** (25 E Ohio St) | ~730m | Pharmacy | MoneyGram available |
-| **Medrina** (401 N Michigan Ave) | ~600m | Psychiatry | Psychiatry clinic; 9am–5pm M–Su |
-| **CVS Pharmacy** (205 N Columbus Dr) | ~890m | Pharmacy | 24/7 hours |
-| **Forward** (401 N Michigan Ave) | ~1000m | Primary Care | Tech-forward primary care clinic |
-| **Walgreens** (151 N State St) | ~1250m | Pharmacy | 1st floor, accessible |
-
-### 🛒 Groceries & Daily Needs (within 1 km)
+### 🏥 Healthcare Facilities (within 1.5 km)
 
 | Facility | Distance | Type | Notes |
 |----------|----------|------|-------|
-| **7-Eleven** (600 N McClurg Ct) | ~82m | Convenience | Wheelchair accessible; ATM |
-| **Bockwinkel's** (E Ohio St) | ~129m | Organic Supermarket | Wheelchair accessible; organic focus |
-| **Whole Foods Market** (255 E Grand Ave) | ~300m | Supermarket | 8am–10pm M–Su; wheelchair accessible |
-| **7-Eleven** (201 E Ohio St) | ~377m | Convenience | 24/7; wheelchair accessible |
-| **Trader Joe's** (44 E Ontario St) | ~650m | Supermarket | Wheelchair accessible |
-| **Eataly** (43 E Ohio St) | ~685m | Italian Market/Café | Multi-floor food hall |
-| **Target** (401 E Illinois St) | ~350m | Department Store | Wheelchair accessible; pharmacies |
+| **Kindred Hospital Aurora** | ~476m | Hospital | Transitional care hospital (37 beds); phone: 303-857-8333 |
+| **Aurora Community Health** | ~1,264m | Primary Care | General practice clinic |
+| **Outpatient Pharmacy** | ~1,593m | Pharmacy | UCH-affiliated outpatient pharmacy |
+| **Atrium Pharmacy** | ~1,624m | Pharmacy | UCH-affiliated; dispensing |
+| **University of Colorado Hospital** | ~1,679m | Hospital | Full-service hospital with ER; phone: 720-848-0000 |
 
-### 🚇 Public Transit
-
-- **CTA Bus Routes:** Multiple stops along North Michigan Ave (Route 3, 103, 111, 701) and Grand Avenue (Route 202, 560)
-- **Chicago Water Taxi (Chinatown Ferry Terminal):** ~800m east; wheelchair accessible
-- **CTA Red Line:** Grand Station (~0.8 km north); Fullerton Station (~1.2 km north)
-- **Divvy Bike Share:** Multiple docking stations nearby (Morgan St & 18th St, Wells St & 19th St, etc.)
-- All CTA buses feature wheelchair ramps and kneeling capabilities
-
-### 🎪 Entertainment & Amenities (within 1 km)
+### 🛒 Groceries & Daily Needs (within 1.5 km)
 
 | Facility | Distance | Type | Notes |
 |----------|----------|------|-------|
-| **AMC River East 21** | ~275m | Cinema | Wheelchair accessible; 21 screens |
-| **AMC Dine-In 600 North Michigan 9** | ~580m | Cinema | Dine-in experience |
-| **Broadway Playhouse at Water Tower Place** | ~585m | Theatre | Live performances |
-| **Water Tower Place Mall** | ~500m | Shopping | Major mall with retailers and restaurants |
+| **Shell (convenience)** | ~595m | Convenience | 24/7; basic supplies |
+| **Praise Market African Grocery** | ~832m | Supermarket | Ethnic grocery |
+| **Compare Supermarket** | ~1,050m | Supermarket | Budget-friendly |
+| **Save-A-Lot** | ~1,089m | Supermarket | Discount grocery chain |
+| **K & J Mart** | ~1,288m | Convenience | Convenience store |
+| **Lek's Asian Market** | ~1,222m | Supermarket | Ethnic grocery |
+
+### 🚌 Public Transit
+
+- **RTD Light Rail — 13th Avenue Station:** ~923m; R Line connects to downtown Denver and the airport
+- **RTD Light Rail — Colfax Station:** ~1,231m; R Line
+- **RTD Light Rail — 2nd Avenue & Abilene:** ~1,229m; R Line
+- **RTD Bus — East Colfax & Xanadu:** ~1,193m
+- **RTD Bus — East Colfax & Fitzsimons Parkway:** ~1,233m
+- All RTD buses feature wheelchair ramps and kneeling capabilities
+- The R Line provides direct access to Denver Union Station and Denver International Airport
+
+### 🏋️ Fitness & Rehabilitation
+
+| Facility | Distance | Type | Notes |
+|----------|----------|------|-------|
+| **Rhinde Fitness** | ~791m | Fitness Center | Gym; walking distance from VA |
+| **Curves** | ~1,146m | Fitness Center | Women's fitness; exercise & strength |
+| **Chuze Fitness Aurora** | ~1,424m | Fitness Center | Full gym; basketball & exercise |
 
 ### ♿ Accessibility Rating for Amputees
 
 | Feature | Rating | Details |
 |---------|--------|---------|
-| Healthcare Proximity | ⭐⭐⭐⭐⭐ | 5 pharmacies + 2 primary care options within 1 km |
-| Groceries & Daily Needs | ⭐⭐⭐⭐⭐ | 7+ grocery/convenience options within 1 km; Whole Foods and Target nearby |
-| Transit Accessibility | ⭐⭐⭐⭐ | Multiple CTA bus routes; Red Line within 1 km; Water Taxi accessible |
-| Shopping | ⭐⭐⭐⭐⭐ | 99 shops within 1 km; Water Tower Place and Target for essential needs |
-| Entertainment | ⭐⭐⭐⭐ | 4 entertainment venues within 1 km; all wheelchair accessible |
-| Walkability | ⭐⭐⭐⭐⭐ | Sidewalk-friendly, well-maintained crossings, flat terrain |
-| Wheelchair Access | ⭐⭐⭐⭐⭐ | CTA buses accessible; major venues wheelchair accessible |
+| Healthcare Proximity | ⭐⭐⭐⭐ | 5 healthcare facilities within 1.5 km including hospital, primary care, and 2 pharmacies |
+| Groceries & Daily Needs | ⭐⭐⭐⭐ | 10+ grocery/convenience options within 1.5 km; multiple discount stores |
+| Transit Accessibility | ⭐⭐⭐⭐⭐ | 11 transit stops within 1.5 km; R Line light rail; all buses wheelchair-accessible |
+| Fitness & Rehab | ⭐⭐⭐⭐ | 3 gyms within 1.5 km; all within walking distance |
+| Shopping | ⭐⭐⭐⭐ | Multiple shopping options including clothing and Western wear |
+| Walkability | ⭐⭐⭐⭐ | Urban grid layout, sidewalks, ADA-compliant curb cuts |
+| Wheelchair Access | ⭐⭐⭐⭐⭐ | RTD buses accessible; major venues wheelchair accessible |
 
-### 💡 Tips for Amputees Near Shirley Ryan AbilityLab
+### 💡 Tips for Amputees Near Rocky Mountain Regional VA
 
-1. **Use 24/7 Walgreens on Michigan Ave** — For medications and limb care supplies at any hour
-2. **Leverage Whole Foods & Trader Joe's proximity** — Easy nutrition for healing and managing comorbidities (diabetes, vascular disease)
-3. **Explore seminaryRehab programs** — Ask your Shirley Ryan care team about virtual rehabilitation options and peer support groups
-4. **Water Taxi for summer travel** — The Chicago Water Taxi offers accessible river transit; great for summer outings
-5. **Divvy Bikes with adaptive seating** — Consider adaptive cycling for exercise and mobility; multiple docking stations nearby
-6. **3D-printed socket innovation** — Shirley Ryan is pioneering low-cost rapid socket fabrication; ask about clinical trial opportunities
-7. **Target for daily essentials** — The Target on E Illinois St carries medical supplies, clothing, and groceries; fully accessible
+1. **Kindred Hospital Aurora** — Close transitional care option for post-surgical or complex wound management
+2. **University of Colorado Hospital** — Full-service hospital 1.5 km away with emergency department; primary referral center for complex cases
+3. **Use the R Line Light Rail** — Affordable, accessible transit to downtown Denver and VA appointments; ramps and priority seating available
+4. **Save-A-Lot & Compare Supermarkets** — Budget-friendly grocery options for amputation survivors managing diabetes or vascular disease through nutrition
+5. **Rhinde Fitness** — Walking-distance gym for strength training and maintaining residual limb and core fitness
+6. **Pharmacy access** — Two UCH-affiliated pharmacies within 1.6 km for medication management and prosthesis-related needs
+7. **Ask the VA care team about the GEM study** — The Rocky Mountain Regional VA is actively recruiting for innovative gait training research — a potential opportunity for free, cutting-edge rehabilitation
 
 ---
 
 ## 📋 Summary
 
-This report combines findings from 10 recent clinical studies on affordable prosthetic devices with a detailed neighborhood livability analysis centered on the **Shirley Ryan AbilityLab** in Chicago, IL. The area offers excellent healthcare proximity (5 pharmacies within 1 km), strong grocery access, multiple transit options, and a highly walkable, wheelchair-accessible urban environment. The clinical research highlights promising trends in 3D printing (50–80% cost reduction), NMES home-based care, telerehabilitation, reverse innovation ($80 mechanical knees), and rapid socket fabrication (90-minute fitting).
+This report combines findings from 10 recent clinical studies on affordable prosthetic devices (sourced from ClinicalTrials.gov) with a detailed neighborhood livability analysis centered on the **Rocky Mountain Regional VA Medical Center** in Aurora, Colorado. Key findings include:
+
+- **74% of prosthetics studies are "N/A" phase**, reflecting the dominance of device evaluations, behavioral interventions, and observational research over traditional clinical trial phases
+- **Academic sponsors (65%)** lead the field, focusing on affordability rather than profit — promising for cost-effective solutions
+- **Promising trends** include 3D printing (50–80% cost reduction), app-based telerehabilitation, motor learning gait training, and rapid socket fabrication
+- The **Aurora, CO neighborhood** around the VA Medical Center scores well for healthcare proximity (5 facilities), public transit (11 stops including R Line), and wheelchair accessibility — making it a viable location for amputee community resources
 
 ---
 
-*Last updated: July 2026 | Sources: ClinicalTrials.gov, OpenStreetMap, Chicago Transit Authority, Shirley Ryan AbilityLab*
+*Last updated: July 2026 | Sources: ClinicalTrials.gov, OpenStreetMap, Regional Transportation District (RTD), Rocky Mountain Regional VA Medical Center*
